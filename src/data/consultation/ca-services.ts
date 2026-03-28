@@ -105,7 +105,7 @@ const data: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Get Started with Online Chartered Accountant Services',
-            subheading: 'Your Professional provides expert assistance for all your online chartered accountant services needs with end-to-end support.',
+            subheading: 'Your Professionals provides expert assistance for all your online chartered accountant services needs with end-to-end support.',
             features: [
                 'Understanding Money Matters: CAs know their stuff about money rules, taxes, a...',
                 'Staying Out of Trouble: They make sure businesses follow all the laws, so the...',
@@ -221,7 +221,7 @@ const data: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Get Started with Mergers and Acquisitions',
-            subheading: 'Your Professional provides expert assistance for all your mergers and acquisitions needs with end-to-end support.',
+            subheading: 'Your Professionals provides expert assistance for all your mergers and acquisitions needs with end-to-end support.',
             features: [
                 'Aspect | Merger | Acquisition',
                 'Definition | Two companies of similar size combine to form a new entity. | On...',
@@ -261,7 +261,7 @@ const data: Record<string, ServiceData> = {
         },
         types: [
             { title: 'How to Choose the Best Financial Consulting Services in India?', desc: 'Choosing the right financial consulting service is crucial for your financial well-being. Here\'s what to consider when looking for the best financial consulting firms in India: Credentials and Experience: Look for certified professionals with a proven track record.; Specialization: Ensure the firm specializes in the areas you need assistance with, whether it\'s wealth management, tax planning, or financial consulting services for small businesses.; Client Reviews and Testimonials: Check what other clients say about their services and success stories.; Fee Structure: Understand the financial consultant\'s fees upfront to avoid surprises.; Communication Style: Choose a consultant who communicates clearly and regularly.' },
-            { title: 'Your Professional - A Trusted Financial Consultant for Strategic Growth & Compliance', desc: 'Your Professional is a trusted financial and legal consultancy firm dedicated to empowering businesses with strategic growth solutions and full-spectrum regulatory compliance. A comprehensive suite of financial planning and consulting services is designed to meet diverse financial needs: Strategic Business Advisory: Expert guidance to align financial planning with long-term business goals and sustainable growth.; Regulatory & Legal Compliance: Comprehensive support in fulfilling statutory requirements, including ROC filings, GST, income tax, and other regulatory obligations.; Startup & Company Registration: End-to-end assistance for registering Private Limited Companies, LLPs, OPCs, NGOs, and more across India.; Tax Planning & Financial Structuring: Customized tax strategies to minimize liabilities, enhance efficiency, and support growth.; Audit & Assurance Services: Independent audit services to ensure accuracy, compliance, and transparency in financial reporting.' },
+            { title: 'Your Professionals - A Trusted Financial Consultant for Strategic Growth & Compliance', desc: 'Your Professionals is a trusted financial and legal consultancy firm dedicated to empowering businesses with strategic growth solutions and full-spectrum regulatory compliance. A comprehensive suite of financial planning and consulting services is designed to meet diverse financial needs: Strategic Business Advisory: Expert guidance to align financial planning with long-term business goals and sustainable growth.; Regulatory & Legal Compliance: Comprehensive support in fulfilling statutory requirements, including ROC filings, GST, income tax, and other regulatory obligations.; Startup & Company Registration: End-to-end assistance for registering Private Limited Companies, LLPs, OPCs, NGOs, and more across India.; Tax Planning & Financial Structuring: Customized tax strategies to minimize liabilities, enhance efficiency, and support growth.; Audit & Assurance Services: Independent audit services to ensure accuracy, compliance, and transparency in financial reporting.' },
             { title: 'Financial Consultancy Services for All Business Types', desc: 'We understand that different businesses have unique financial requirements. Our services are adaptable to cater to all business types:' },
         ],
         eligibility: [
@@ -290,7 +290,7 @@ const data: Record<string, ServiceData> = {
             },
         ],
         process: [
-            { title: 'Initial Consultation', desc: 'Contact Your Professional for expert guidance on Financial Consultancy Services.' },
+            { title: 'Initial Consultation', desc: 'Contact Your Professionals for expert guidance on Financial Consultancy Services.' },
         ],
         fees: [
             { item: 'Assets Under Management (AUM)', cost: 'Annual % of the investment portfolio managed. (- 1.00% on Rs. 0 to Rs. 8.3 Cr - 0.50% -- 0.75% on Rs. 8.3Cr to Rs. 41.5Cr - 0.25% above Rs. 41.5Cr)' },
@@ -320,7 +320,7 @@ const data: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Get Started with Financial Consultancy Services',
-            subheading: 'Your Professional provides expert assistance for all your financial consultancy services needs with end-to-end support.',
+            subheading: 'Your Professionals provides expert assistance for all your financial consultancy services needs with end-to-end support.',
             features: [
                 'Analyzing your current financial situation: Reviewing income, expenses, asset...',
                 'Setting financial goals: Helping you define short-term and long-term objectives.',
@@ -421,7 +421,7 @@ const data: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Get Started with Financial Modeling for Startups',
-            subheading: 'Your Professional provides expert assistance for all your financial modeling for startups needs with end-to-end support.',
+            subheading: 'Your Professionals provides expert assistance for all your financial modeling for startups needs with end-to-end support.',
             features: [
                 'When will my startup start making a profit?',
                 'How much money do I need to run my business?',

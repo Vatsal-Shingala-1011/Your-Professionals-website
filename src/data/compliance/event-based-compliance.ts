@@ -137,7 +137,7 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Winding Up of a Company?',
-            subheading: 'Let Your Professional handle your winding up of a company requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your winding up of a company requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -223,13 +223,13 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
             { title: 'Step 4: File Forms with ROC', desc: 'The company must file these forms with the ROC within the prescribed timelines: Form DIR-12 - Appointment or change of directors and KMP File within 30 days of the board meetingAttachments: Consent to act (DIR-2), non-disqualification declaration (DIR-8), appointment letter/resolutionApplies to all directors and company secretaries; KMP reference applies under Section 203 Form MGT-14 - Filing resolutions with ROC File within 30 days of passing the resolutionUsed for:Board resolution approving the managing director appointment (mandatory for public companies)Special resolution passed by shareholders (if applicable)Usually not required for private companies unless mandated by their Articles or law Form MR-1 - Appointment of MD, whole-time director, or manager with remuneration details File within 60 days of the appointmentMandatory for public companiesPrivate companies file only if:Required by their ArticlesRemuneration is governed under Section 196 and Schedule VAttachments: Board/shareholder resolution, appointment agreement, remuneration details' },
         ],
         fees: [
-            { item: 'Contact Your Professional for fee details', cost: 'Varies' },
+            { item: 'Contact Your Professionals for fee details', cost: 'Varies' },
         ],
         penalties: [
             { violation: 'Consequences of Delayed Filing', penalty: 'Additional Fees (Section 403):If any ROC form is filed after the due date, additional fees are charged per day of delay, on top of the normal filing fees. These fees escalate quickly, especially for prolonged delays.₹100 per day of delay is the standard additional fee (as per MCA notifications).There is no upper limit on additional fees for most forms.Prosecution & Penalty (Various Sections):In case of continued non-compliance or failure to file key forms (e.g., annual returns or director appointments), the company and its officers in default (including directors and KMPs) may be penalized.Penalties can include:Monetary fines up to ₹1 lakh or more.In some serious cases, imprisonment is up to 6 months (where explicitly mentioned under relevant sections).Disqualification of Directors (Section 164(2)):If a company fails to file financial statements (AOC-4) or annual returns (MGT-7) for three consecutive financial years, all directors become disqualified.They are barred from being reappointed or appointed in any company for 5 years.' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         compliance: [
             { area: 'Term of Appointment', details: 'A managing director is appointed for a period of up to five years at a time. They can be reappointed for further terms, but each appointment cannot exceed five years.' },
@@ -246,7 +246,7 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Director Appointment?',
-            subheading: 'Let Your Professional handle your director appointment requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your director appointment requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -334,7 +334,7 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
             { violation: 'Key Points on Penalties', penalty: 'Under Sections 61 and 64 of the Companies Act, 2013, any increase in authorized capital must be filed with the Registrar of Companies (ROC) within the prescribed time.If the company fails to file e-Form SH-7 (Notice of alteration of share capital) within 30 days of passing the resolution, it will be liable for penalties.The company and every officer responsible for the delay can be fined up to Rs. 1,00,000.If the default continues, a further fine of Rs. 5,000 per day may be imposed until the filing is completed. Similar penalties apply for delays in filing e-Form MGT-14 when required, such as when amending the Articles of Association through a special resolution.' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         faqs: [
             { q: 'What resolution is required to increase authorized share capital?', a: 'An Ordinary Resolution passed in an Extraordinary General Meeting (EGM) of the shareholders is required to increase the authorized share capital.' },
@@ -347,7 +347,7 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Increase Authorized Capital?',
-            subheading: 'Let Your Professional handle your increase authorized capital requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your increase authorized capital requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -437,7 +437,7 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
             { violation: 'For the Company', penalty: 'The composition of the board changes.The company needs to find a new director if required by law.It can affect the companys stability and operations for a short time.If the removal is controversial, it can lead to negative publicity.' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         faqs: [
             { q: 'What is the main law for removing a director in India?', a: 'The primary law governing the removal of a director is the Companies Act, 2013. Specifically, Section 169 of the Act provides the procedure for removal by shareholders. Other sections like Section 167 (for automatic vacation of office) and Section 168 (for resignation) also apply. These rules ensure the process is fair and legally sound for everyone involved in the companys management.' },
@@ -457,7 +457,7 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Removal of Director?',
-            subheading: 'Let Your Professional handle your removal of director requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your removal of director requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -539,7 +539,7 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
             { item: 'Above ₹1,00,00,000', cost: '600' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         faqs: [
             { q: 'What is the difference between an ordinary and a special resolution for changing an auditor?', a: 'An ordinary resolution requires a simple majority (over 50%) and is used for routine matters like appointing or re-appointing an auditor at the end of their term. A special resolution needs at least 75% approval and is required for major decisions such as removing an auditor before their term ends.' },
@@ -553,7 +553,7 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Change of Auditor?',
-            subheading: 'Let Your Professional handle your change of auditor requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your change of auditor requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -622,10 +622,10 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
             { title: 'Step 2: Receiving Funds & Allotment', desc: 'Receive Application Money:The identified investors submit their application forms and the required application money. It is critical that this money is received only through banking channels (no cash is allowed) and is deposited into a separate bank account specifically dedicated to this private placement issue.Allotment of Securities:After receiving the application money, the Board of Directors must hold another meeting to pass a board resolution for the issue of shares and formally allot the shares to the successful applicants. This allotment must be completed within 60 days of receiving the application money. If shares are not allotted within this period, the application money must be refunded within the subsequent 15 days, failing which it attracts interest. File Return of Allotment (Form PAS-3):Within 30 days of passing the allotment resolution, the company must file Form PAS-3 (Return of Allotment) with the Registrar of Companies (ROC). This filing provides complete details of the securities allotted and the new shareholding structure.Issue of Share Certificates:Finally, within 60 days of the allotment resolution, the company must prepare and issue share certificates to the allottees, serving as their proof of ownership. For dematerialized shares, this means crediting the shares to the investors Demat accounts.' },
         ],
         fees: [
-            { item: 'Contact Your Professional for fee details', cost: 'Varies' },
+            { item: 'Contact Your Professionals for fee details', cost: 'Varies' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         disadvantages: [
             'Regulatory Compliance Risks: Non-compliance:Failure to strictly adhere to the Companies Act, SEBI regulations, or other relevant laws can lead to hefty fines, penalties, or even imprisonment for directors.Procedural Lapses:Missing deadlines for filings (e.g., Form PAS-3, MGT-14), incorrect disclosures, or improper conduct of meetings can invalidate the share issue.Changes in Law:The regulatory landscape can change, requiring constant vigilance and adaptation.',
@@ -649,7 +649,7 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Issue of Shares?',
-            subheading: 'Let Your Professional handle your issue of shares requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your issue of shares requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -715,13 +715,13 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
             { title: 'Step 6: Companys Duty to Issue New Share Certificate', desc: 'Upon successful approval of the transfer by the Board and verification of all documents, the company has a statutory duty to issue new share certificates to the transferee within one month from the date of receiving the instrument of transfer. The new certificate will reflect the updated ownership, and the old certificate(s) will be cancelled.' },
         ],
         fees: [
-            { item: 'Contact Your Professional for fee details', cost: 'Varies' },
+            { item: 'Contact Your Professionals for fee details', cost: 'Varies' },
         ],
         penalties: [
             { violation: 'Failure to follow proper share transfer procedures can lead to significant penalties and legal issues.', penalty: '' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         disadvantages: [
             'Incomplete Documentation:Failing to submit a duly executed and stamped share transfer deed or missing required identity proofs can delay or invalidate the transfer. Always ensure all forms and documents are complete and properly signed.',
@@ -747,7 +747,7 @@ export const EVENT_BASED_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Transfer of Shares?',
-            subheading: 'Let Your Professional handle your transfer of shares requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your transfer of shares requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',

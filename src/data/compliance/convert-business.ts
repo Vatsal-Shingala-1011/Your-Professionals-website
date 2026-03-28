@@ -149,7 +149,7 @@ export const CONVERT_BUSINESS: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Convert Partnership Into LLP?',
-            subheading: 'Let Your Professional handle your convert partnership into llp requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your convert partnership into llp requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',

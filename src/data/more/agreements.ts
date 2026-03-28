@@ -68,14 +68,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Memorandum of Understanding requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Memorandum of Understanding requirements.' },
         ],
         faqs: [
             { q: 'What is the main disadvantage of an MoU?', a: 'The main disadvantage is that it is usually not legally enforceable. If the other party fails to do what they promised in the MoU, you generally cannot sue them.' },
         ],
         cta: {
             heading: 'Need Help With Memorandum of Understanding?',
-            subheading: 'Let Your Professional handle your memorandum of understanding requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your memorandum of understanding requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -150,14 +150,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Gujarat', cost: '1% of capital (max ₹10,000)' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Joint Venture Agreement requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Joint Venture Agreement requirements.' },
         ],
         faqs: [
             { q: 'How much does it cost to make a Joint Venture Agreement in India?', a: 'The cost includes legal drafting fees, stamp duty, and registration charges. Typically, it ranges from ₹10,000 to ₹50,000 depending on complexity, state, and professional fees. Additional costs may arise for regulatory approvals or specialized clauses.' },
         ],
         cta: {
             heading: 'Need Help With Joint Venture Agreement?',
-            subheading: 'Let Your Professional handle your joint venture agreement requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your joint venture agreement requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -199,10 +199,10 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             'Entities requiring Non-Compete Agreement services',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
-            { title: 'Consultation', desc: 'Connect with Your Professional experts' },
+            { title: 'Consultation', desc: 'Connect with Your Professionals experts' },
             { title: 'Processing', desc: 'Complete and submit required forms' },
             { title: 'Completion', desc: 'Receive your final documentation' },
         ],
@@ -210,14 +210,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Non-Compete Agreement requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Non-Compete Agreement requirements.' },
         ],
         faqs: [
             { q: 'Can my employer stop me from joining a competitor in India?', a: 'No, in most cases, your employer cannot stop you from joining a competitor after you leave the job. Indian law gives you the right to work and earn a living, so post-employment non-compete clauses are usually not enforceable.' },
         ],
         cta: {
             heading: 'Need Help With Non-Compete Agreement?',
-            subheading: 'Let Your Professional handle your non-compete agreement requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your non-compete agreement requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -319,7 +319,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Franchise Agreement?',
-            subheading: 'Let Your Professional handle your franchise agreement requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your franchise agreement requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -333,7 +333,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
         slug: 'shareholders-agreement',
         title: "Shareholder's Agreement",
         subtitle:
-            "Protect shareholder rights and establish robust corporate governance with a professionally drafted Shareholder's Agreement — Your Professional provides comprehensive SHA drafting, review, and advisory services for companies of all sizes across India.",
+            "Protect shareholder rights and establish robust corporate governance with a professionally drafted Shareholder's Agreement — Your Professionals provides comprehensive SHA drafting, review, and advisory services for companies of all sizes across India.",
         heroFeatures: [
             'Comprehensive SHA Drafting & Customization',
             'Minority & Majority Shareholder Protection Clauses',
@@ -346,7 +346,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             paragraphs: [
                 "A Shareholder's Agreement (SHA) is a private contract entered into among the shareholders of a company — and often the company itself — that governs the relationship between shareholders, defines their respective rights and obligations, establishes corporate governance frameworks, and regulates the management and operation of the company. Unlike the Articles of Association (AOA) which is a public document filed with the Registrar of Companies, an SHA is a confidential agreement that provides a more detailed, flexible, and enforceable framework for managing shareholder dynamics. In India, SHAs are governed by the Indian Contract Act, 1872, and must be consistent with the Companies Act, 2013 and the company's AOA.",
                 "A well-structured Shareholder's Agreement addresses critical aspects of corporate governance including board composition, voting rights, dividend distribution policies, share transfer restrictions, pre-emptive rights, anti-dilution protections, information rights, deadlock resolution mechanisms, and exit strategies. For startups and growth-stage companies, the SHA is particularly vital as it governs the relationship between founders, investors, and employee shareholders — protecting the interests of each stakeholder group while ensuring the company's ability to raise capital, make strategic decisions, and resolve internal disputes efficiently.",
-                "Your Professional offers expert SHA drafting and advisory services tailored to your company's unique ownership structure, business objectives, and growth trajectory. Whether you are a startup issuing equity to co-founders and angel investors, a private company bringing in venture capital or private equity investors, or an established business formalizing shareholder relationships, our corporate law specialists craft agreements that balance protection with flexibility and ensure long-term harmony among all stakeholders.",
+                "Your Professionals offers expert SHA drafting and advisory services tailored to your company's unique ownership structure, business objectives, and growth trajectory. Whether you are a startup issuing equity to co-founders and angel investors, a private company bringing in venture capital or private equity investors, or an established business formalizing shareholder relationships, our corporate law specialists craft agreements that balance protection with flexibility and ensure long-term harmony among all stakeholders.",
             ],
             highlights: [
                 { icon: '🔐', text: "Confidential agreement governing shareholder rights, obligations, and corporate governance" },
@@ -562,14 +562,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
                 a: 'Most Shareholder\'s Agreements contain a sunset clause or IPO termination provision that automatically terminates the SHA upon the company\'s listing on a recognized stock exchange. This is because many SHA provisions — such as share transfer restrictions, tag-along/drag-along rights, and information rights — conflict with SEBI listing regulations and public market trading norms. However, certain confidentiality, non-compete, and indemnification clauses may survive the IPO termination as specified in the agreement.',
             },
             {
-                q: 'How does Your Professional ensure the SHA is consistent with the company\'s AOA?',
+                q: 'How does Your Professionals ensure the SHA is consistent with the company\'s AOA?',
                 a: 'Our legal team conducts a thorough review of the company\'s existing AOA alongside the SHA drafting process to identify any potential conflicts or inconsistencies. Where necessary, we draft consequential amendments to the AOA to ensure alignment with the SHA\'s governance framework, share transfer restrictions, and decision-making provisions. We also include a standard SHA clause requiring the company and shareholders to vote in favour of any AOA amendments necessary to give effect to the SHA terms.',
             },
         ],
         cta: {
             heading: "Protect Your Equity — Get Your Shareholder's Agreement Drafted Today!",
             subheading:
-                "Let Your Professional create a comprehensive Shareholder's Agreement that safeguards every stakeholder's interests, establishes clear governance, and provides structured exit mechanisms.",
+                "Let Your Professionals create a comprehensive Shareholder's Agreement that safeguards every stakeholder's interests, establishes clear governance, and provides structured exit mechanisms.",
             features: [
                 'Expert Corporate Law Specialists',
                 'Customized to Your Ownership Structure',
@@ -628,7 +628,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             ] },
         ],
         process: [
-            { title: 'Consultation', desc: 'Connect with Your Professional experts' },
+            { title: 'Consultation', desc: 'Connect with Your Professionals experts' },
             { title: 'Processing', desc: 'Complete and submit required forms' },
             { title: 'Completion', desc: 'Receive your final documentation' },
         ],
@@ -640,14 +640,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Registered Agreement (Including Stamp Duty & Registration Fees)', cost: 'Rs. 5,000 – Rs. 15,000 (varies by state)' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Founders Agreement requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Founders Agreement requirements.' },
         ],
         faqs: [
             { q: 'Why do I need a Founders Agreement?', a: 'You need an agreement between co-founders to clearly define roles, responsibilities, equity distribution, decision-making processes, and dispute resolution mechanisms. It acts as a legally binding roadmap, preventing future conflicts and misunderstandings, thus safeguarding the interests of all founders and the business itself. It is critical for setting up a strong foundation.a' },
         ],
         cta: {
             heading: 'Need Help With Founders Agreement?',
-            subheading: 'Let Your Professional handle your founders agreement requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your founders agreement requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -719,14 +719,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Service Charges:If you are applying through a common service center (CSC), there might be a small service charge.', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Legal Heir Certificate requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Legal Heir Certificate requirements.' },
         ],
         faqs: [
             { q: 'What is a Legal Heir Certificate and Why is it Needed?', a: 'A Legal Heir Certificate is an official document issued by the government to identify the rightful successors of a deceased person. It is essential for claiming the deceased’s assets like property, bank balances, insurance, pension, or gratuity, and for transferring ownership. Without it, legal access to such assets or dues becomes difficult.' },
         ],
         cta: {
             heading: 'Need Help With Legal Heir Certificate?',
-            subheading: 'Let Your Professional handle your legal heir certificate requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your legal heir certificate requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -780,7 +780,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             'Witness Requirements:The witnesses to the Sale Deed should also be of sound mind and legal age, as they attest to the signatures of the buyer and seller.',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: 'Step 1: Gather Comprehensive Information', desc: 'Before drafting, collect all necessary details from both the buyer and seller, and about the property. This includes:' },
@@ -794,14 +794,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Sale Deed requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Sale Deed requirements.' },
         ],
         faqs: [
             { q: 'What is a sale deed of property?', a: 'A Sale Deed of property is a legal document that serves as proof of the transfer of ownership of an immovable property from a seller to a buyer in exchange for a sale consideration. It is a critical document for establishing legal title.' },
         ],
         cta: {
             heading: 'Need Help With Sale Deed?',
-            subheading: 'Let Your Professional handle your sale deed requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your sale deed requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -860,10 +860,10 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             'Entities requiring Terms of Use Agreement services',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
-            { title: 'Consultation', desc: 'Connect with Your Professional experts' },
+            { title: 'Consultation', desc: 'Connect with Your Professionals experts' },
             { title: 'Processing', desc: 'Complete and submit required forms' },
             { title: 'Completion', desc: 'Receive your final documentation' },
         ],
@@ -884,14 +884,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { violation: 'Lack of Control', penalty: 'You lose control over how your platform is used and how disputes are resolved.' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Terms of Use Agreement requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Terms of Use Agreement requirements.' },
         ],
         faqs: [
             { q: 'Can I write my Terms of Use agreement?', a: 'While you technically can, it is highly discouraged. Drafting a legally sound and enforceable terms of use agreement requires deep knowledge of Indian contract law, IT law, consumer protection laws, and specific legal terminology. Without expert legal assistance, you risk creating an agreement that is unenforceable or leaves significant legal loopholes, exposing your business to undue risks.' },
         ],
         cta: {
             heading: 'Need Help With Terms of Use Agreement?',
-            subheading: 'Let Your Professional handle your terms of use agreement requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your terms of use agreement requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -958,7 +958,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             'Entities requiring Master Service Agreement services',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: 'Step 1: Identify the Parties and Define Key Terms', desc: 'Start by clearly naming the parties involved. Include full legal names, addresses, and any important company details like CIN (Corporate Identification Number) or GSTIN if applicable. Also, define key terms used in the agreement. For example, explain what “services,” “deliverables,” or “confidential information” mean. This helps avoid confusion later and makes the contract easier to understand.' },
@@ -1009,7 +1009,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Master Service Agreement?',
-            subheading: 'Let Your Professional handle your master service agreement requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your master service agreement requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -1066,7 +1066,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
         ],
         process: [
             { title: 'Step 1: Pay the Court Fee', desc: 'Before filing the petition, the applicant must pay the court fee, which is typically 2%–3% of the total value of the debts and securities mentioned in the application. This fee may vary depending on the state’s Court Fees Act.' },
-            { title: 'Step 2: Prepare and Submit the Petition', desc: 'After paying the fee, the applicant must draft and file a petition with the District Court under whose jurisdiction the deceased last resided. The petition should be signed and verified under Section 372 of the Indian Succession Act, 1925. It’s advisable to seek legal assistance (like Your Professional) to ensure the petition is correctly drafted and submitted.' },
+            { title: 'Step 2: Prepare and Submit the Petition', desc: 'After paying the fee, the applicant must draft and file a petition with the District Court under whose jurisdiction the deceased last resided. The petition should be signed and verified under Section 372 of the Indian Succession Act, 1925. It’s advisable to seek legal assistance (like Your Professionals) to ensure the petition is correctly drafted and submitted.' },
             { title: 'Step 3: Submit Required Documents', desc: 'Once the petition is submitted, the court will schedule an initial hearing to verify the details. If the judge is satisfied, a final hearing date will be fixed.' },
             { title: 'Step 4: Certificate is Granted', desc: 'The judge will review all documents, hear any objections (if raised), and determine the applicants eligibility. If satisfied, the court will issue the succession certificate.' },
             { title: 'Step 5: Provide a Security Bond', desc: 'To safeguard the interests of other claimants or parties, the court may require the applicant to submit a security bond with one or more sureties.' },
@@ -1078,14 +1078,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Miscellaneous Charges:Additional charges may include notary fees, document preparation, affidavit charges, and photocopying.', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Succession Certificate requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Succession Certificate requirements.' },
         ],
         faqs: [
             { q: 'Who issues a succession certificate?', a: 'A succession certificate is issued by the District Court under whose jurisdiction the deceased person resided at the time of death. The court verifies all documents before granting the certificate.' },
         ],
         cta: {
             heading: 'Need Help With Succession Certificate?',
-            subheading: 'Let Your Professional handle your succession certificate requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your succession certificate requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -1178,14 +1178,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { violation: 'No Rights to Sell or Transfer', penalty: 'The donee cannot sell, rent, or mortgage the property legally without having a registered deed.' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Gift Deed requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Gift Deed requirements.' },
         ],
         faqs: [
             { q: 'Is registration necessary for gift deeds?', a: 'Yes, for immovable property, registration of the gift deed is mandatory under the Registration Act, 1908. Without registration, the gift is not legally valid.' },
         ],
         cta: {
             heading: 'Need Help With Gift Deed?',
-            subheading: 'Let Your Professional handle your gift deed requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your gift deed requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -1234,7 +1234,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             'Home Loan Situations:In some cases, a co-owner may wish to exit a joint home loan. A relinquishment deed can be used, but it usually requires approval from the bank or lender.',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: 'Step 1', desc: 'Draft the Deed:Prepare the relinquishment deed on plain paper, clearly stating the details of the property, the releasor, and the releasee.' },
@@ -1298,7 +1298,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Relinquishment Deed?',
-            subheading: 'Let Your Professional handle your relinquishment deed requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your relinquishment deed requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -1353,7 +1353,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             'Entities requiring Transfer Pricing Agreement services',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: 'Accountant’s Report (Form 3CEB)', desc: 'Accountant’s Report (Form 3CEB)' },
@@ -1365,7 +1365,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Transfer Pricing Agreement requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Transfer Pricing Agreement requirements.' },
         ],
         compliance: [
             { area: 'Transfer Pricing Officer (TPO) Involvement: A Transfer Prici', details: 'Transfer Pricing Officer (TPO) Involvement: A Transfer Pricing Officer (TPO), assigned under Section 92CA of the Income Tax Act, reviews international and specified domestic transactions to ensure they comply with the arm’s length principle.' },
@@ -1379,7 +1379,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Transfer Pricing Agreement?',
-            subheading: 'Let Your Professional handle your transfer pricing agreement requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your transfer pricing agreement requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -1459,10 +1459,10 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             'When hiring employees, freelancers, or contractors who will access sensitive company data.',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
-            { title: 'Consultation', desc: 'Connect with Your Professional experts' },
+            { title: 'Consultation', desc: 'Connect with Your Professionals experts' },
             { title: 'Processing', desc: 'Complete and submit required forms' },
             { title: 'Completion', desc: 'Receive your final documentation' },
         ],
@@ -1470,14 +1470,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Non-Disclosure Agreement requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Non-Disclosure Agreement requirements.' },
         ],
         faqs: [
             { q: 'What happens if someone breaks an NDA in India?', a: 'If someone breaks a Non-Disclosure Agreement in India, the Disclosing Party can take legal action. Remedies typically include seeking monetary damages for financial losses suffered due to the breach and/or obtaining an injunction (a court order) to stop further unauthorized disclosure or use of the confidential information. The aggrieved party can also claim legal costs.' },
         ],
         cta: {
             heading: 'Need Help With Non-Disclosure Agreement?',
-            subheading: 'Let Your Professional handle your non-disclosure agreement requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your non-disclosure agreement requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -1521,7 +1521,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             'Entities requiring Share Purchase Agreement services',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: 'Step 1: Starting with a Letter of Intent (LOI) or Term Sheet', desc: 'The process often begins with an LOI or Term Sheet, a preliminary, non-binding document that outlines the main points of the deal. It shows a serious intention to proceed. LOI typically covers the proposed price and key conditions. This step sets the stage for detailed negotiations. It helps to ensure both parties are on the same page initially.' },
@@ -1537,14 +1537,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Issuance of Shares', cost: 'Demat:Collected by the depository.Physical:Paid via franking, e-stamping, or adhesive stamps on the share certificate.' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Share Purchase Agreement requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Share Purchase Agreement requirements.' },
         ],
         faqs: [
             { q: 'Can I use a ready-made SPA template from the internet?', a: 'Using a ready-made template is generally not advisable. Each share purchase is unique. Online templates might not cover specific legal nuances. They may not comply with Indian laws. They often lack necessary clauses for protection. It is best to consult a legal expert. A customized agreement offers better security. This helps avoid future disputes.' },
         ],
         cta: {
             heading: 'Need Help With Share Purchase Agreement?',
-            subheading: 'Let Your Professional handle your share purchase agreement requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your share purchase agreement requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -1616,10 +1616,10 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             'Lower legal costs and flexibility in choosing arbitrators.',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
-            { title: 'Consultation', desc: 'Connect with Your Professional experts' },
+            { title: 'Consultation', desc: 'Connect with Your Professionals experts' },
             { title: 'Processing', desc: 'Complete and submit required forms' },
             { title: 'Completion', desc: 'Receive your final documentation' },
         ],
@@ -1627,14 +1627,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Service Level Agreement requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Service Level Agreement requirements.' },
         ],
         faqs: [
             { q: 'What is the main purpose of an SLA?', a: 'The primary purpose of an SLA is to define the expected level of service between a provider and a client. It sets clear expectations, outlines performance standards, assigns responsibilities, and establishes remedies for service failures, ensuring transparency, accountability, and trust.' },
         ],
         cta: {
             heading: 'Need Help With Service Level Agreement?',
-            subheading: 'Let Your Professional handle your service level agreement requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your service level agreement requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -1706,14 +1706,14 @@ export const AGREEMENTS: Record<string, ServiceData> = {
             { item: 'Karnataka', cost: 'Slab-based; ranges from Rs. 1,000 to Rs. 75,000' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Probate of Will requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Probate of Will requirements.' },
         ],
         faqs: [
             { q: 'What is the main difference between a Will and a Probate?', a: 'A Will is a legal document that shows how a person wants to distribute their assets after death. Probate is a legal process where the court verifies that the will is genuine and allows the executor to act on it.' },
         ],
         cta: {
             heading: 'Need Help With Probate of Will?',
-            subheading: 'Let Your Professional handle your probate of will requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your probate of will requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -1846,7 +1846,7 @@ export const AGREEMENTS: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Fire Department NOC?',
-            subheading: 'Let Your Professional handle your fire department noc requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your fire department noc requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',

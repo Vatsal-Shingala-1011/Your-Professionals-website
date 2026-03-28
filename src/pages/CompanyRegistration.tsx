@@ -132,7 +132,7 @@ function HeroSection() {
                         Company Registration Online in India
                     </h1>
                     <p className="text-lg md:text-xl text-gray-300 max-w-2xl mb-8">
-                        Register your company online with Your Professional. Our experts simplify incorporation, handle approvals, and ensure compliance for a stress‑free experience.
+                        Register your company online with Your Professionals. Our experts simplify incorporation, handle approvals, and ensure compliance for a stress‑free experience.
                     </p>
                     <div className="flex flex-wrap gap-4 mb-6 justify-center lg:justify-start">
                         {[
@@ -918,7 +918,7 @@ function WhyChooseUsSection() {
 
     return (
         <Section>
-            <SectionTitle badge="Why Us" title="Why Choose Your Professional for Company Registration?" />
+            <SectionTitle badge="Why Us" title="Why Choose Your Professionals for Company Registration?" />
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {reasons.map((r) => (
                     <div key={r.title} className="bg-gradient-to-br from-[#090a3d] to-[#1a1b5e] text-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300">

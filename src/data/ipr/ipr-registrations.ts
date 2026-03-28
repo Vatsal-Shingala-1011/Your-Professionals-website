@@ -125,8 +125,8 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { title: 'Step 5: Formal Examination by Trademark Registry', desc: 'This is a critical step; many applications face trademark opposition at this stage.' },
             { title: 'Step 6: Respond to Trademark Objection (if any)', desc: 'This is a critical step; many applications face trademark opposition at this stage.' },
             { title: 'Step 7: Trademark Journal Publication', desc: 'This is a critical step; many applications face trademark opposition at this stage.' },
-            { title: 'Step 8: Handling Trademark Opposition (if filed)', desc: 'The registration is valid for 10 years and can be renewed indefinitely every 10 years. This entire trademark registration process in India can be handled online with professional support from service providers like Your Professional.' },
-            { title: 'Step 9: Issuance of Registration Certificate', desc: 'The registration is valid for 10 years and can be renewed indefinitely every 10 years. This entire trademark registration process in India can be handled online with professional support from service providers like Your Professional.' },
+            { title: 'Step 8: Handling Trademark Opposition (if filed)', desc: 'The registration is valid for 10 years and can be renewed indefinitely every 10 years. This entire trademark registration process in India can be handled online with professional support from service providers like Your Professionals.' },
+            { title: 'Step 9: Issuance of Registration Certificate', desc: 'The registration is valid for 10 years and can be renewed indefinitely every 10 years. This entire trademark registration process in India can be handled online with professional support from service providers like Your Professionals.' },
         ],
         fees: [
             { item: 'Trademark Registration Charges', cost: 'Trademark registration costs in India involve various official trademark registration fees and professional service charges.' },
@@ -154,16 +154,16 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { q: 'What is the difference between ™ and ® symbols?', a: 'The ™ symbol can be used by anyone claiming trademark rights, even without registration. The ® symbol can only be used after the trademark is officially registered with the Trade Marks Registry. Using ® without registration is a punishable offence under Section 107 of the Trade Marks Act.' },
             { q: 'How long does trademark registration take in India?', a: 'The entire process typically takes 8–12 months if there are no objections or oppositions. If the Examiner raises objections, the timeline extends to 12–18 months. Opposed applications may take 18–36 months to resolve.' },
             { q: 'Can I register a trademark in multiple classes?', a: 'Yes. India follows a multi-class filing system under the Trade Marks Rules, 2017. You can file a single application covering multiple Nice Classification classes, though the government fee is charged per class (₹4,500 for individuals/startups/MSMEs or ₹9,000 for others per class).' },
-            { q: 'What happens if someone opposes my trademark application?', a: 'If a third party files a Notice of Opposition within 4 months of journal publication, Your Professional files a counter-statement on your behalf. Both parties submit evidence, and a hearing is conducted before the Registrar, who decides whether to allow or refuse the registration.' },
+            { q: 'What happens if someone opposes my trademark application?', a: 'If a third party files a Notice of Opposition within 4 months of journal publication, Your Professionals files a counter-statement on your behalf. Both parties submit evidence, and a hearing is conducted before the Registrar, who decides whether to allow or refuse the registration.' },
             { q: 'Can a trademark be registered if it is already in use by someone else?', a: 'Not if the prior user has a registered trademark in the same or similar class. However, if you have been using the mark prior to the other party (honest concurrent use under Section 12), you may still obtain registration by proving prior use with evidence.' },
-            { q: 'Is a trademark search mandatory before filing?', a: 'While not legally mandatory, Your Professional strongly recommends a comprehensive trademark search before filing. It helps identify identical or similar existing marks that could lead to objections, opposition, or refusal — saving time and money.' },
+            { q: 'Is a trademark search mandatory before filing?', a: 'While not legally mandatory, Your Professionals strongly recommends a comprehensive trademark search before filing. It helps identify identical or similar existing marks that could lead to objections, opposition, or refusal — saving time and money.' },
             { q: 'What can be registered as a trademark in India?', a: 'Under Section 2(zb) of the Trade Marks Act, a trademark can include words, names, letters, numerals, devices, brand names, headings, labels, colours, shapes of goods, packaging, sound marks, and any combination thereof that is capable of distinguishing goods or services.' },
-            { q: 'How does Your Professional help with trademark registration?', a: 'Your Professional provides end-to-end trademark registration services — from availability search and classification advice to TM-A filing, examination report response, hearing representation, opposition defence, and certificate procurement. We ensure your brand is protected efficiently and cost-effectively.' },
+            { q: 'How does Your Professionals help with trademark registration?', a: 'Your Professionals provides end-to-end trademark registration services — from availability search and classification advice to TM-A filing, examination report response, hearing representation, opposition defence, and certificate procurement. We ensure your brand is protected efficiently and cost-effectively.' },
         ],
         cta: {
             heading: 'Need Help With Trademark Registration?',
             subheading:
-                'Let Your Professional handle your trademark registration requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your trademark registration requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Trademark Registration Support',
@@ -241,24 +241,24 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { item: 'Physical Filing (Offline)', cost: 'Rs. 20,000 (Rs. 10,000 + Rs. 10,000 restoration fee)' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professional for Trademark Renewal' },
+            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professionals for Trademark Renewal' },
             { icon: '🛡️', title: 'Legal Protection', desc: 'Comprehensive protection of your intellectual property rights' },
             { icon: '📈', title: 'Brand Value Enhancement', desc: 'Strengthen your brand and business value through proper IP registration' },
         ],
         faqs: [
-            { q: 'When should I file for trademark renewal?', a: 'You can file Form TM-R up to 6 months before the expiry date. The Registry sends a reminder notice (Form TM-24) approximately 6 months before expiry. Your Professional recommends filing at least 3 months before the due date to avoid any last-minute complications.' },
+            { q: 'When should I file for trademark renewal?', a: 'You can file Form TM-R up to 6 months before the expiry date. The Registry sends a reminder notice (Form TM-24) approximately 6 months before expiry. Your Professionals recommends filing at least 3 months before the due date to avoid any last-minute complications.' },
             { q: 'What happens if I miss the trademark renewal deadline?', a: 'If you miss the renewal date, you have a 6-month grace period during which you can still renew by paying the standard fee plus a late surcharge. After this 6-month window, the trademark is removed from the Register. Restoration is possible within 1 year of removal via Form TM-13, but it is discretionary and involves additional costs.' },
             { q: 'Can a third party register my trademark if I fail to renew?', a: 'Yes. Once your trademark is removed from the Register, any third party can apply for registration of an identical or similar mark in the same class. During the restoration window, your pending Form TM-13 application may provide some protection, but there is no guarantee.' },
-            { q: 'How much does trademark renewal cost in India?', a: 'The government fee for TM-R filing is ₹5,000 per class for individuals, startups, and MSMEs, and ₹10,000 per class for other entities. Late renewal attracts an additional surcharge of ₹3,000 or ₹5,000 per class respectively. Your Professional\'s service fee for handling the renewal process is additional.' },
+            { q: 'How much does trademark renewal cost in India?', a: 'The government fee for TM-R filing is ₹5,000 per class for individuals, startups, and MSMEs, and ₹10,000 per class for other entities. Late renewal attracts an additional surcharge of ₹3,000 or ₹5,000 per class respectively. Your Professionals\'s service fee for handling the renewal process is additional.' },
             { q: 'Do I need to prove use of the trademark at the time of renewal?', a: 'No. Unlike some jurisdictions (e.g., the US), India does not require proof of use or a declaration of use at the time of renewal. However, under Section 47, any person can apply for removal of a trademark that has not been used for a continuous period of 5 years and 3 months.' },
-            { q: 'Can I renew a trademark that has been assigned to a new owner?', a: 'Yes, but the assignment must first be recorded with the Trademark Registry using Form TM-23. The new proprietor (assignee) can then file Form TM-R in their name. Your Professional assists with both the assignment recording and subsequent renewal.' },
-            { q: 'Is the renewal process different for Madrid Protocol trademarks?', a: 'Yes. International Registrations designating India under the Madrid Protocol are renewed directly through WIPO, not the Indian Registry. The renewal fee is paid to WIPO in Swiss Francs, and the validity is managed centrally. Your Professional coordinates both Indian and international renewals.' },
-            { q: 'How does Your Professional help with trademark renewal?', a: 'Your Professional provides proactive renewal management — tracking expiry dates across your entire trademark portfolio, filing TM-R applications well in advance, handling late renewals and restorations, and ensuring your brand protection remains uninterrupted. We also manage bulk renewals for businesses with multiple registrations.' },
+            { q: 'Can I renew a trademark that has been assigned to a new owner?', a: 'Yes, but the assignment must first be recorded with the Trademark Registry using Form TM-23. The new proprietor (assignee) can then file Form TM-R in their name. Your Professionals assists with both the assignment recording and subsequent renewal.' },
+            { q: 'Is the renewal process different for Madrid Protocol trademarks?', a: 'Yes. International Registrations designating India under the Madrid Protocol are renewed directly through WIPO, not the Indian Registry. The renewal fee is paid to WIPO in Swiss Francs, and the validity is managed centrally. Your Professionals coordinates both Indian and international renewals.' },
+            { q: 'How does Your Professionals help with trademark renewal?', a: 'Your Professionals provides proactive renewal management — tracking expiry dates across your entire trademark portfolio, filing TM-R applications well in advance, handling late renewals and restorations, and ensuring your brand protection remains uninterrupted. We also manage bulk renewals for businesses with multiple registrations.' },
         ],
         cta: {
             heading: 'Need Help With Trademark Renewal?',
             subheading:
-                'Let Your Professional handle your trademark renewal requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your trademark renewal requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Trademark Renewal Support',
@@ -341,7 +341,7 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { item: 'Total Fees', cost: '₹1,999' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professional for Trademark Objection' },
+            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professionals for Trademark Objection' },
             { icon: '🛡️', title: 'Legal Protection', desc: 'Comprehensive protection of your intellectual property rights' },
             { icon: '📈', title: 'Brand Value Enhancement', desc: 'Strengthen your brand and business value through proper IP registration' },
         ],
@@ -356,18 +356,18 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'What happens if I don\'t respond to a trademark objection?', a: 'If no reply is filed within 30 days of the Examination Report, the Trademark Registrar treats the application as abandoned under Rule 33 of the Trade Marks Rules, 2017. You would need to file a fresh application with new fees.' },
-            { q: 'Can I file the objection reply myself without a trademark attorney?', a: 'Yes, you can file the reply yourself through the IP India portal. However, trademark objections involve legal complexities requiring knowledge of the Trade Marks Act, Rules, and relevant case law. Professional assistance from Your Professional significantly improves the chances of success.' },
+            { q: 'Can I file the objection reply myself without a trademark attorney?', a: 'Yes, you can file the reply yourself through the IP India portal. However, trademark objections involve legal complexities requiring knowledge of the Trade Marks Act, Rules, and relevant case law. Professional assistance from Your Professionals significantly improves the chances of success.' },
             { q: 'What is the difference between a trademark objection and a trademark opposition?', a: 'A trademark objection is raised by the Registrar/Examiner during examination before publication. A trademark opposition is filed by a third party after the mark is published in the Trademark Journal. They are distinct proceedings with different procedures and timelines.' },
             { q: 'How long does it take to resolve a trademark objection?', a: 'If the written reply is accepted, the objection can be resolved within 2–4 months. If a hearing is scheduled, it may take 6–12 months or longer depending on the Registrar\'s calendar and complexity of the case.' },
             { q: 'Can I appeal if my trademark application is refused after the hearing?', a: 'Yes. If the Registrar refuses the application after the hearing, you can file an appeal before the Intellectual Property Appellate Board (IPAB) or the relevant High Court within the prescribed time limit.' },
             { q: 'What are the most common grounds for trademark objection in India?', a: 'The most common grounds are: (1) descriptive or non-distinctive mark under Section 9(1)(a)–(b), (2) deceptive similarity with an existing mark under Section 11(1), (3) marks identical to well-known trademarks under Section 11(2), and (4) incorrect classification of goods/services.' },
-            { q: 'Does Your Professional handle TM hearing representation?', a: 'Yes. Your Professional provides end-to-end support including drafting the written reply, compiling evidence, preparing the applicant for the hearing, and representing the applicant before the Trademark Registrar at the hearing.' },
+            { q: 'Does Your Professionals handle TM hearing representation?', a: 'Yes. Your Professionals provides end-to-end support including drafting the written reply, compiling evidence, preparing the applicant for the hearing, and representing the applicant before the Trademark Registrar at the hearing.' },
             { q: 'Is the Examination Report the same as a Show Cause Notice?', a: 'In trademark practice, the Examination Report effectively serves as a show cause notice — it asks the applicant to show cause why the mark should be registered despite the identified objections. The applicant must respond with a written reply or attend a hearing.' },
         ],
         cta: {
             heading: 'Need Help With Trademark Objection?',
             subheading:
-                'Let Your Professional handle your trademark objection requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your trademark objection requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Trademark Objection Support',
@@ -450,10 +450,10 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { title: '4. Hearing and Decision Concerning Trademark Opposition', desc: 'The Registrar, after the receipt of evidence from both parties and further evidence from the opposing party, will give notice to both parties of the first date of hearing. If the opposing party is not present on the hearing date, the opposition will be dismissed, and the Registrar will register the trademark.' },
         ],
         fees: [
-            { item: 'Professional Service Fee', cost: 'Contact Your Professional for pricing' },
+            { item: 'Professional Service Fee', cost: 'Contact Your Professionals for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professional for Trademark Opposition' },
+            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professionals for Trademark Opposition' },
             { icon: '🛡️', title: 'Legal Protection', desc: 'Comprehensive protection of your intellectual property rights' },
             { icon: '📈', title: 'Brand Value Enhancement', desc: 'Strengthen your brand and business value through proper IP registration' },
         ],
@@ -470,12 +470,12 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { q: 'How long does a trademark opposition proceeding take?', a: 'From filing the Notice of Opposition to the final order, the proceeding typically takes 12–24 months. This includes statutory periods for Counter-Statement (2 months), evidence by opponent (2 months), evidence by applicant (2 months), reply evidence (1 month), and scheduling of the hearing.' },
             { q: 'Can I appeal the Registrar\'s decision in an opposition case?', a: 'Yes. Either party can file an appeal against the Registrar\'s order before the relevant High Court within 3 months from the date of the order, as per Section 91 of the Trade Marks Act, 1999.' },
             { q: 'What is the difference between trademark opposition and trademark cancellation?', a: 'Opposition is a pre-registration remedy filed during the 4-month publication window to prevent a mark from being registered. Cancellation (rectification) is a post-registration remedy under Section 57 to remove an already-registered mark from the register. Both are adjudicated by the Registrar.' },
-            { q: 'How does Your Professional help with trademark opposition?', a: 'Your Professional provides end-to-end support including Trademark Journal monitoring, drafting and filing the Notice of Opposition or Counter-Statement, compiling evidence with affidavits, preparing legal arguments with case law citations, and representing you at the hearing before the Registrar.' },
+            { q: 'How does Your Professionals help with trademark opposition?', a: 'Your Professionals provides end-to-end support including Trademark Journal monitoring, drafting and filing the Notice of Opposition or Counter-Statement, compiling evidence with affidavits, preparing legal arguments with case law citations, and representing you at the hearing before the Registrar.' },
         ],
         cta: {
             heading: 'Need Help With Trademark Opposition?',
             subheading:
-                'Let Your Professional handle your trademark opposition requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your trademark opposition requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Trademark Opposition Support',
@@ -567,14 +567,14 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { q: 'Do I need an Indian trademark registration before filing internationally?', a: 'You need either a pending Indian trademark application or an existing Indian registration as the base mark. The international application is filed through the Indian Trademark Office as the Office of Origin.' },
             { q: 'What happens if my Indian trademark application is refused after international filing?', a: 'If the base Indian mark is cancelled, refused, or restricted within the first 5 years (dependency period), the international registration is correspondingly affected. However, you can convert the affected designations into independent national applications (transformation) to preserve your rights.' },
             { q: 'How long does international trademark registration take?', a: 'WIPO processes the application in about 2–4 months. Each designated country then has 12–18 months to examine and grant or refuse protection. The total timeline varies by country and whether objections are raised.' },
-            { q: 'Is international trademark registration expensive?', a: 'The Madrid System is significantly more cost-effective than filing individual national applications. Total costs depend on the number of designated countries and classes. Your Professional provides a detailed fee estimate based on your specific filing strategy.' },
+            { q: 'Is international trademark registration expensive?', a: 'The Madrid System is significantly more cost-effective than filing individual national applications. Total costs depend on the number of designated countries and classes. Your Professionals provides a detailed fee estimate based on your specific filing strategy.' },
             { q: 'Can I add more countries later to my international registration?', a: 'Yes. You can file a subsequent designation at any time to extend protection to additional Madrid Protocol member countries without submitting a new international application.' },
-            { q: 'How does Your Professional help with international trademark registration?', a: 'Your Professional provides end-to-end support — from trademark search and country strategy to WIPO application preparation, filing through the Indian Trademark Office, responding to foreign office actions, and ongoing portfolio management.' },
+            { q: 'How does Your Professionals help with international trademark registration?', a: 'Your Professionals provides end-to-end support — from trademark search and country strategy to WIPO application preparation, filing through the Indian Trademark Office, responding to foreign office actions, and ongoing portfolio management.' },
         ],
         cta: {
             heading: 'Need Help With International Trademark Registration?',
             subheading:
-                'Let Your Professional handle your international trademark registration requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your international trademark registration requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete International Trademark Registration Support',
@@ -613,7 +613,7 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             {
                 category: 'Required Documents',
                 items: [
-                    'Contact Your Professional for document checklist',
+                    'Contact Your Professionals for document checklist',
                 ],
             },
         ],
@@ -652,12 +652,12 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { q: 'What is the filing fee for trademark rectification?', a: 'The government fee for filing Form TM-26 before the Registrar is ₹3,000 per class for individuals and ₹5,000 per class for entities. E-filing attracts a 10% discount. High Court filing fees vary by jurisdiction.' },
             { q: 'How long does trademark rectification take?', a: 'Proceedings before the Registrar typically take 12–24 months, while High Court proceedings may take longer depending on the court\'s schedule. The timeline depends on evidence complexity, counter-statements, and hearing schedules.' },
             { q: 'Can a registered trademark owner defend against rectification?', a: 'Yes. The registered proprietor receives notice and has 2 months to file a counter-statement with evidence defending the validity of their registration. They can present arguments during the hearing to oppose the rectification.' },
-            { q: 'How does Your Professional help with trademark rectification?', a: 'Your Professional provides comprehensive support — evaluating the merits of your case, gathering evidence, drafting the TM-26 application and Statement of Case, filing before the appropriate forum, and representing you throughout the proceedings.' },
+            { q: 'How does Your Professionals help with trademark rectification?', a: 'Your Professionals provides comprehensive support — evaluating the merits of your case, gathering evidence, drafting the TM-26 application and Statement of Case, filing before the appropriate forum, and representing you throughout the proceedings.' },
         ],
         cta: {
             heading: 'Need Help With Trademark Rectification?',
             subheading:
-                'Let Your Professional handle your trademark rectification requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your trademark rectification requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Trademark Rectification Support',
@@ -698,7 +698,7 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             {
                 category: 'Required Documents',
                 items: [
-                    'Contact Your Professional for document checklist',
+                    'Contact Your Professionals for document checklist',
                 ],
             },
         ],
@@ -710,7 +710,7 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { title: 'Step 5: Receive the Registration Certificate', desc: 'If no opposition is filed, or if any raised are successfully defended, your trademark proceeds to final registration. The Trademark Registry then issues the official certificate, granting you the right to use the ® symbol. For online sellers, this marks a vital milestone. Your brand is now legally protected across India, helping you build trust and stand out on e-commerce platforms.' },
         ],
         fees: [
-            { item: 'Professional Service Fee', cost: 'Contact Your Professional for pricing' },
+            { item: 'Professional Service Fee', cost: 'Contact Your Professionals for pricing' },
         ],
         advantages: [
             { icon: '✅', title: 'Exclusive Legal Protection: A registered trademark grants you the sole right to ', desc: 'Exclusive Legal Protection: A registered trademark grants you the sole right to use your brand name, logo, or slogan for your specific products or services across India. This legal exclusivity is your strongest legal tool against others trying to copy or misuse your brand.' },
@@ -730,19 +730,19 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             'Inadequate Documentation: Submitting incomplete or incorrect documents can delay the process or cause rejection. Follow the checklist carefully.',
         ],
         faqs: [
-            { q: 'Can I apply for Amazon Brand Registry with a pending trademark application?', a: 'Yes. Amazon Brand Registry accepts trademarks that have a pending application (with serial/application number) or are already registered. Your Professional files your TM application and provides the application number typically within 1–2 working days for immediate Brand Registry enrollment.' },
-            { q: 'Which trademark class should an e-commerce seller file under?', a: 'It depends on the products you sell. For example, Class 25 covers clothing and footwear, Class 18 covers bags and leather goods, Class 3 covers cosmetics, and Class 9 covers electronics. Your Professional conducts a detailed product analysis to identify the correct class(es) for comprehensive protection.' },
+            { q: 'Can I apply for Amazon Brand Registry with a pending trademark application?', a: 'Yes. Amazon Brand Registry accepts trademarks that have a pending application (with serial/application number) or are already registered. Your Professionals files your TM application and provides the application number typically within 1–2 working days for immediate Brand Registry enrollment.' },
+            { q: 'Which trademark class should an e-commerce seller file under?', a: 'It depends on the products you sell. For example, Class 25 covers clothing and footwear, Class 18 covers bags and leather goods, Class 3 covers cosmetics, and Class 9 covers electronics. Your Professionals conducts a detailed product analysis to identify the correct class(es) for comprehensive protection.' },
             { q: 'What is the difference between ™ and ® symbols?', a: 'The ™ symbol indicates a trademark that has been applied for but not yet registered — anyone can use it. The ® symbol can only be used after the trademark is officially registered by the Trade Marks Registry. Using ® without registration is a criminal offence under the Trade Marks Act, 1999.' },
             { q: 'How long does trademark registration take for e-commerce sellers?', a: 'The typical timeline is 8–12 months if there are no objections or oppositions. However, you receive the TM application number within 1–2 days of filing, which is sufficient for Brand Registry enrollment on most platforms.' },
             { q: 'Can I register a trademark for multiple e-commerce platforms with one application?', a: 'Yes. A single trademark registration protects your brand across all platforms and channels — Amazon, Flipkart, Meesho, Myntra, your own website, offline retail, and any other marketplace. You do not need separate registrations for each platform.' },
-            { q: 'What happens if my trademark application receives an objection?', a: 'The Examiner may raise objections under Section 9 (absolute grounds) or Section 11 (relative grounds — similarity with existing marks). Your Professional drafts a detailed reply with legal arguments, evidence of distinctiveness, and prior use proof to overcome the objection.' },
-            { q: 'Can I trademark my product name and brand logo separately?', a: 'Yes, and it is often recommended. Filing separate applications for the word mark (brand name) and device mark (logo) provides broader protection. If one is challenged, the other remains protected. Your Professional offers discounted multi-application packages.' },
-            { q: 'What is the cost of trademark registration for e-commerce sellers?', a: 'The government fee is ₹4,500 per class for individuals, startups, and MSMEs, and ₹9,000 per class for other entities. Your Professional\'s professional fee starts at ₹1,500 per class, making the total cost highly affordable for online sellers.' },
+            { q: 'What happens if my trademark application receives an objection?', a: 'The Examiner may raise objections under Section 9 (absolute grounds) or Section 11 (relative grounds — similarity with existing marks). Your Professionals drafts a detailed reply with legal arguments, evidence of distinctiveness, and prior use proof to overcome the objection.' },
+            { q: 'Can I trademark my product name and brand logo separately?', a: 'Yes, and it is often recommended. Filing separate applications for the word mark (brand name) and device mark (logo) provides broader protection. If one is challenged, the other remains protected. Your Professionals offers discounted multi-application packages.' },
+            { q: 'What is the cost of trademark registration for e-commerce sellers?', a: 'The government fee is ₹4,500 per class for individuals, startups, and MSMEs, and ₹9,000 per class for other entities. Your Professionals\'s professional fee starts at ₹1,500 per class, making the total cost highly affordable for online sellers.' },
         ],
         cta: {
             heading: 'Need Help With Trademark Registration for E-commerce?',
             subheading:
-                'Let Your Professional handle your trademark registration for e-commerce requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your trademark registration for e-commerce requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Trademark Registration for E-commerce Support',
@@ -834,18 +834,18 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'When is a trademark hearing scheduled?', a: 'A hearing is scheduled when (1) your written reply to the Examination Report does not fully satisfy the Examiner under Section 15, (2) a third party files an opposition against your published trademark under Section 21, or (3) a rectification/cancellation petition is filed under Sections 47 or 57 of the Trade Marks Act, 1999.' },
-            { q: 'Can I attend a trademark hearing virtually?', a: 'Yes. Since the Trade Marks (Amendment) Rules, 2017, the Registrar conducts hearings via video conferencing. Your Professional can represent you at both physical hearings at Registry offices and virtual hearings without requiring your personal presence.' },
+            { q: 'Can I attend a trademark hearing virtually?', a: 'Yes. Since the Trade Marks (Amendment) Rules, 2017, the Registrar conducts hearings via video conferencing. Your Professionals can represent you at both physical hearings at Registry offices and virtual hearings without requiring your personal presence.' },
             { q: 'What happens if I miss the scheduled hearing date?', a: 'If you fail to appear without requesting an adjournment in advance, the Registrar may decide the matter ex parte. For examination hearings, your application may be refused or abandoned. For opposition hearings, the case may be decided against you in your absence.' },
-            { q: 'How should I prepare for a trademark show cause hearing?', a: 'Your Professional prepares comprehensive written submissions addressing each objection, compiles evidence of brand use and distinctiveness, researches relevant case law precedents, and conducts a pre-hearing briefing. Our attorney then presents structured oral arguments before the Registrar.' },
+            { q: 'How should I prepare for a trademark show cause hearing?', a: 'Your Professionals prepares comprehensive written submissions addressing each objection, compiles evidence of brand use and distinctiveness, researches relevant case law precedents, and conducts a pre-hearing briefing. Our attorney then presents structured oral arguments before the Registrar.' },
             { q: 'What are common grounds for objections at show cause hearings?', a: 'Common objections include descriptiveness or lack of distinctiveness (Section 9), deceptive similarity with prior marks (Section 11), use of prohibited marks or emblems (Section 9(2)), and geographical indications. Our attorneys develop specific strategies to counter each type of objection.' },
-            { q: 'Can the Registrar\'s hearing decision be appealed?', a: 'Yes. If the Registrar refuses registration or passes an adverse order, you can file an appeal before the High Court having jurisdiction under Section 91 of the Trade Marks Act, 1999. Your Professional advises on the merits of an appeal and assists with the filing process.' },
-            { q: 'How much does trademark hearing representation cost?', a: 'Show cause hearing representation typically costs ₹5,000–₹15,000, opposition hearings ₹10,000–₹25,000, and rectification hearings ₹15,000–₹30,000. Outstation hearings may incur additional charges of ₹5,000–₹10,000. Your Professional provides transparent, all-inclusive pricing.' },
-            { q: 'Do I need to be personally present at the hearing?', a: 'No. Your Professional\'s IP attorney appears on your behalf with a valid Power of Attorney (Form TM-M). You do not need to be personally present at either physical or virtual hearings. We handle all aspects of representation and keep you informed of the outcome.' },
+            { q: 'Can the Registrar\'s hearing decision be appealed?', a: 'Yes. If the Registrar refuses registration or passes an adverse order, you can file an appeal before the High Court having jurisdiction under Section 91 of the Trade Marks Act, 1999. Your Professionals advises on the merits of an appeal and assists with the filing process.' },
+            { q: 'How much does trademark hearing representation cost?', a: 'Show cause hearing representation typically costs ₹5,000–₹15,000, opposition hearings ₹10,000–₹25,000, and rectification hearings ₹15,000–₹30,000. Outstation hearings may incur additional charges of ₹5,000–₹10,000. Your Professionals provides transparent, all-inclusive pricing.' },
+            { q: 'Do I need to be personally present at the hearing?', a: 'No. Your Professionals\'s IP attorney appears on your behalf with a valid Power of Attorney (Form TM-M). You do not need to be personally present at either physical or virtual hearings. We handle all aspects of representation and keep you informed of the outcome.' },
         ],
         cta: {
             heading: 'Need Help With Trademark Hearing?',
             subheading:
-                'Let Your Professional handle your trademark hearing requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your trademark hearing requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Trademark Hearing Support',
@@ -927,7 +927,7 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'This is usually the most significant component of the trademark objection reply charges. These fees are paid to trademark attorneys, legal consultants, or online service providers who assist you in drafting and filing your response.' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professional for Response to Trademark Objection' },
+            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professionals for Response to Trademark Objection' },
             { icon: '🛡️', title: 'Legal Protection', desc: 'Comprehensive protection of your intellectual property rights' },
             { icon: '📈', title: 'Brand Value Enhancement', desc: 'Strengthen your brand and business value through proper IP registration' },
         ],
@@ -944,14 +944,14 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { q: 'What are absolute grounds and relative grounds for objection?', a: 'Absolute grounds (Section 9) relate to the inherent nature of the mark — e.g., descriptiveness, generic terms, marks lacking distinctiveness, or deceptive marks. Relative grounds (Section 11) relate to conflict with earlier marks — e.g., identical or deceptively similar marks already registered or applied for in the same or similar class.' },
             { q: 'What evidence can strengthen my response?', a: 'Key evidence includes invoices and sales records showing use of the mark in trade, advertising expenditure data, media coverage, consumer surveys, social media presence, certificates of registration in other countries, and affidavits from trade professionals attesting to the mark\'s distinctiveness.' },
             { q: 'What happens at a show-cause hearing?', a: 'A show-cause hearing is scheduled if the Registrar is not satisfied with the written response. At the hearing, the applicant or their authorised agent presents oral arguments before the Registrar, explains the evidence, and addresses any remaining concerns. The Registrar then decides to accept or refuse the mark.' },
-            { q: 'Can Your Professional handle the entire objection response process?', a: 'Yes. Your Professional manages the complete process — from analysing the Examination Report and gathering evidence to drafting the counter-statement, filing it online, and representing you at any hearing before the Trade Marks Registry.' },
-            { q: 'What if my trademark is refused after the hearing?', a: 'If the Registrar refuses your trademark, you can file an appeal before the High Court (following the dissolution of IPAB). Your Professional advises on the merits of an appeal and assists with the appellate proceedings.' },
+            { q: 'Can Your Professionals handle the entire objection response process?', a: 'Yes. Your Professionals manages the complete process — from analysing the Examination Report and gathering evidence to drafting the counter-statement, filing it online, and representing you at any hearing before the Trade Marks Registry.' },
+            { q: 'What if my trademark is refused after the hearing?', a: 'If the Registrar refuses your trademark, you can file an appeal before the High Court (following the dissolution of IPAB). Your Professionals advises on the merits of an appeal and assists with the appellate proceedings.' },
             { q: 'Is there an additional government fee for filing the response?', a: 'No. There is no separate government fee for filing a response to the Examination Report. The fees were already paid at the time of filing the original trademark application (Form TM-A). However, professional fees for drafting and representation apply separately.' },
         ],
         cta: {
             heading: 'Need Help With Response to Trademark Objection?',
             subheading:
-                'Let Your Professional handle your response to trademark objection requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your response to trademark objection requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Response to Trademark Objection Support',
@@ -998,21 +998,21 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             {
                 category: 'Required Documents',
                 items: [
-                    'Contact Your Professional for document checklist',
+                    'Contact Your Professionals for document checklist',
                 ],
             },
         ],
         process: [
-            { title: 'Consultation', desc: 'Connect with Your Professional experts for initial assessment' },
+            { title: 'Consultation', desc: 'Connect with Your Professionals experts for initial assessment' },
             { title: 'Document Collection', desc: 'Gather and submit all required documents' },
-            { title: 'Filing', desc: 'Your Professional files the application with the appropriate authority' },
+            { title: 'Filing', desc: 'Your Professionals files the application with the appropriate authority' },
             { title: 'Follow-up', desc: 'Track application status and handle any objections' },
         ],
         fees: [
-            { item: 'Professional Service Fee', cost: 'Contact Your Professional for pricing' },
+            { item: 'Professional Service Fee', cost: 'Contact Your Professionals for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professional for Trademark Infringement' },
+            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professionals for Trademark Infringement' },
             { icon: '🛡️', title: 'Legal Protection', desc: 'Comprehensive protection of your intellectual property rights' },
             { icon: '📈', title: 'Brand Value Enhancement', desc: 'Strengthen your brand and business value through proper IP registration' },
         ],
@@ -1022,14 +1022,14 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { q: 'Can I take action against someone using a similar (not identical) mark?', a: 'Yes. Section 29(2) covers the use of marks that are similar (not just identical) to the registered trademark on identical or similar goods/services, where such use is likely to cause confusion among the public. The test is whether an average consumer would be confused or deceived.' },
             { q: 'What is an ex-parte interim injunction?', a: 'An ex-parte interim injunction is a court order granted without hearing the other party, in urgent cases where delay would cause irreparable harm. In trademark infringement cases, courts routinely grant ex-parte injunctions to immediately restrain the infringer pending trial.' },
             { q: 'What are the criminal penalties for trademark counterfeiting?', a: 'Under Sections 103 and 104 of the Trade Marks Act, 1999, counterfeiting is punishable with imprisonment of not less than 6 months (extendable to 3 years) and a fine of not less than ₹50,000 (extendable to ₹2,00,000). Police can conduct search and seizure operations under a Magistrate\'s warrant.' },
-            { q: 'Can I take action against infringement on e-commerce platforms?', a: 'Yes. Most e-commerce platforms (Amazon, Flipkart, Meesho, etc.) have brand protection programs and IP reporting mechanisms. Your Professional can file takedown requests on these platforms and also initiate legal proceedings against sellers and platforms in appropriate cases.' },
+            { q: 'Can I take action against infringement on e-commerce platforms?', a: 'Yes. Most e-commerce platforms (Amazon, Flipkart, Meesho, etc.) have brand protection programs and IP reporting mechanisms. Your Professionals can file takedown requests on these platforms and also initiate legal proceedings against sellers and platforms in appropriate cases.' },
             { q: 'How long does a trademark infringement case take in India?', a: 'While interim injunctions can be obtained within days to weeks, a full trial in a trademark infringement case typically takes 2–5 years depending on the court, complexity of the case, and parties involved. Commercial Courts Act, 2015 has expedited timelines in some jurisdictions.' },
-            { q: 'Does Your Professional handle the entire infringement process?', a: 'Yes. Your Professional manages the complete enforcement process — from investigation and cease-and-desist notices to filing civil suits, obtaining injunctions, initiating criminal complaints, and representing you through trial and enforcement of the court decree.' },
+            { q: 'Does Your Professionals handle the entire infringement process?', a: 'Yes. Your Professionals manages the complete enforcement process — from investigation and cease-and-desist notices to filing civil suits, obtaining injunctions, initiating criminal complaints, and representing you through trial and enforcement of the court decree.' },
         ],
         cta: {
             heading: 'Need Help With Trademark Infringement?',
             subheading:
-                'Let Your Professional handle your trademark infringement requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your trademark infringement requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Trademark Infringement Support',
@@ -1077,7 +1077,7 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             {
                 category: 'Required Documents',
                 items: [
-                    'Contact Your Professional for document checklist',
+                    'Contact Your Professionals for document checklist',
                 ],
             },
         ],
@@ -1112,12 +1112,12 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { q: 'Can a pending trademark application be assigned?', a: 'Yes. A trademark application that has not yet been registered can be assigned. The assignment is recorded and the assignee replaces the assignor as the applicant on record, continuing with the registration process.' },
             { q: 'What happens if the assignment is not recorded with the Registry?', a: 'Under Section 45 of the Trade Marks Act, 1999, an unregistered assignment is not effective against third parties. The assignor remains the recorded proprietor, and the assignee cannot enforce the mark or be recognised as the owner until the assignment is recorded in the Register.' },
             { q: 'Can a trademark be assigned for only some goods or services?', a: 'Yes. Partial assignment is permitted, where the mark is transferred only for certain goods or services covered by the registration. However, Section 40 restricts assignments that would create confusion — the Registrar may refuse recordal if concurrent use of the mark by different persons would mislead the public.' },
-            { q: 'Does Your Professional handle the complete assignment process?', a: 'Yes. Your Professional manages the entire trademark assignment process — from preliminary assessment and drafting the assignment deed to preparing and filing the TM-23 or TM-24 form, addressing Registry queries, and ensuring the assignment is recorded with the new proprietor reflected in the Register.' },
+            { q: 'Does Your Professionals handle the complete assignment process?', a: 'Yes. Your Professionals manages the entire trademark assignment process — from preliminary assessment and drafting the assignment deed to preparing and filing the TM-23 or TM-24 form, addressing Registry queries, and ensuring the assignment is recorded with the new proprietor reflected in the Register.' },
         ],
         cta: {
             heading: 'Need Help With Trademark Assignment?',
             subheading:
-                'Let Your Professional handle your trademark assignment requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your trademark assignment requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Trademark Assignment Support',
@@ -1267,18 +1267,18 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'Is copyright registration mandatory in India?', a: 'No, copyright automatically comes into existence when an original work is created and fixed in a tangible form. However, registration is highly recommended as it provides prima facie evidence of ownership, makes enforcement easier, and is necessary for filing infringement suits in many cases.' },
-            { q: 'How long does copyright registration take in India?', a: 'The process typically takes 2 to 6 months from the date of filing, including the mandatory 30-day objection period and examination by the Copyright Examiner. Your Professional ensures timely filing and follow-ups to minimize delays.' },
+            { q: 'How long does copyright registration take in India?', a: 'The process typically takes 2 to 6 months from the date of filing, including the mandatory 30-day objection period and examination by the Copyright Examiner. Your Professionals ensures timely filing and follow-ups to minimize delays.' },
             { q: 'Can I copyright software or a mobile app?', a: 'Yes, computer programs (including software source code, mobile apps, and databases) are classified as literary works under Section 2(o) of the Copyright Act, 1957. Copyright registration is the most cost-effective way to protect software in India.' },
             { q: 'What is the duration of copyright protection in India?', a: 'For literary, dramatic, musical, and artistic works, copyright lasts for the lifetime of the author plus 60 years from the beginning of the calendar year following the year of the author\'s death. For cinematographic films and sound recordings, it lasts 60 years from the year of publication.' },
             { q: 'Can I register copyright for an unpublished work?', a: 'Yes, both published and unpublished works can be registered with the Copyright Office in India. Registration of unpublished works helps establish the date of creation and authorship, which can be crucial in future infringement disputes.' },
             { q: 'What is the difference between copyright and trademark?', a: 'Copyright protects original creative expressions (books, music, art, software) while trademarks protect brand identifiers (names, logos, slogans) used in commerce. A logo, for example, can be protected under both — copyright for its artistic expression and trademark for its brand identification function.' },
             { q: 'Is my Indian copyright valid internationally?', a: 'Yes, India is a signatory to the Berne Convention, TRIPS Agreement, and the Universal Copyright Convention. Works registered in India are automatically recognized and protected in over 180 member countries without the need for separate registration in each country.' },
-            { q: 'How can Your Professional help with copyright registration?', a: 'Your Professional provides complete copyright registration support — from identifying the correct category of work and preparing the application in Form XIV to filing on the Copyright Office e-filing portal, handling examiner objections, and securing the registration certificate.' },
+            { q: 'How can Your Professionals help with copyright registration?', a: 'Your Professionals provides complete copyright registration support — from identifying the correct category of work and preparing the application in Form XIV to filing on the Copyright Office e-filing portal, handling examiner objections, and securing the registration certificate.' },
         ],
         cta: {
             heading: 'Need Help With Copyright Registration?',
             subheading:
-                'Let Your Professional handle your copyright registration requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your copyright registration requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Copyright Registration Support',
@@ -1418,12 +1418,12 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { q: 'Can software be patented in India?', a: 'Computer programs "per se" are excluded from patentability under Section 3(k) of the Patents Act. However, software inventions that demonstrate a technical effect or solve a technical problem beyond the ordinary interaction with a computer may be patentable — the key is framing the claims around the technical contribution.' },
             { q: 'What is the Patent Box Regime in India?', a: 'The Patent Box Regime under Section 115BBF of the Income Tax Act, 1961 offers a concessional tax rate of 10% on royalty income earned from patents developed and registered in India. This incentive encourages domestic innovation and patent filing.' },
             { q: 'Can I file a patent internationally from India?', a: 'Yes, you can file in foreign countries either directly or through the PCT (Patent Cooperation Treaty) route. An Indian filing gives you a 12-month priority window under the Paris Convention to file in other member countries. The PCT route allows entry into 150+ countries through a single international application.' },
-            { q: 'How can Your Professional help with patent registration?', a: 'Your Professional provides end-to-end patent registration support — from prior art search and patentability analysis to specification drafting, application filing at the Indian Patent Office, responding to examination reports, handling oppositions, and guiding you through prosecution until the patent is granted.' },
+            { q: 'How can Your Professionals help with patent registration?', a: 'Your Professionals provides end-to-end patent registration support — from prior art search and patentability analysis to specification drafting, application filing at the Indian Patent Office, responding to examination reports, handling oppositions, and guiding you through prosecution until the patent is granted.' },
         ],
         cta: {
             heading: 'Need Help With Patent Registration?',
             subheading:
-                'Let Your Professional handle your patent registration requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your patent registration requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Patent Registration Support',
@@ -1530,17 +1530,17 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
         faqs: [
             { q: 'What is the difference between a design registration and a patent?', a: 'A design registration protects the visual appearance (shape, pattern, ornamentation) of an article, while a patent protects the functional, technical, or inventive aspects. If your innovation is in how a product looks, design registration is appropriate; if it is in how it works, a patent is needed.' },
             { q: 'Can I register a design that has already been publicly disclosed?', a: 'No. Under the Designs Act, 2000, a design must be new or original and not previously published in India or elsewhere. However, if you have filed a design application in a Paris Convention country, you can claim priority in India within 6 months.' },
-            { q: 'How long does design registration take in India?', a: 'The typical timeline is 3–6 months from the date of filing to grant, assuming no objections are raised by the Controller. Your Professional ensures complete and accurate applications to minimize delays.' },
+            { q: 'How long does design registration take in India?', a: 'The typical timeline is 3–6 months from the date of filing to grant, assuming no objections are raised by the Controller. Your Professionals ensures complete and accurate applications to minimize delays.' },
             { q: 'Can a design registration be renewed?', a: 'Yes. The initial registration is valid for 10 years. It can be extended for an additional 5 years (total 15 years) by filing Form 3 with the prescribed renewal fee before the expiry of the initial period.' },
             { q: 'What cannot be registered as a design in India?', a: 'Purely functional designs, designs that are not new or original, designs contrary to public order or morality, designs that are mere mechanical contrivances, and designs that include scandalous or obscene matter cannot be registered.' },
             { q: 'Can I file a single application for multiple designs?', a: 'India follows a single-design-per-application rule. However, if the designs belong to the same class under the Locarno Classification and are applied to a set of articles ordinarily sold together, a single application for the set may be filed.' },
             { q: 'What are the consequences of not registering my design?', a: 'Without registration, you have no statutory right to prevent others from copying your design. You may only rely on passing off or copyright protection (if applicable), which are harder to enforce and offer weaker protection for industrial designs.' },
-            { q: 'How does Your Professional assist with design registration?', a: 'Your Professional provides end-to-end design registration services — including prior art search, Locarno classification, application drafting, filing, examination response, and post-grant compliance — ensuring your product designs receive timely and robust protection.' },
+            { q: 'How does Your Professionals assist with design registration?', a: 'Your Professionals provides end-to-end design registration services — including prior art search, Locarno classification, application drafting, filing, examination response, and post-grant compliance — ensuring your product designs receive timely and robust protection.' },
         ],
         cta: {
             heading: 'Need Help With Design Registration?',
             subheading:
-                'Let Your Professional handle your design registration requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your design registration requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Design Registration Support',
@@ -1580,7 +1580,7 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             {
                 category: 'Required Documents',
                 items: [
-                    'Contact Your Professional for document checklist',
+                    'Contact Your Professionals for document checklist',
                 ],
             },
         ],
@@ -1595,27 +1595,27 @@ export const IPR_REGISTRATIONS: Record<string, ServiceData> = {
             { title: 'Step 8', desc: 'Appeal: If a party is unhappy with the decision, they can ask a higher court to review the case within a set time.' },
         ],
         fees: [
-            { item: 'Professional Service Fee', cost: 'Contact Your Professional for pricing' },
+            { item: 'Professional Service Fee', cost: 'Contact Your Professionals for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professional for Intellectual Property Dispute' },
+            { icon: '✅', title: 'Expert IP Support', desc: 'Dedicated IP professionals from Your Professionals for Intellectual Property Dispute' },
             { icon: '🛡️', title: 'Legal Protection', desc: 'Comprehensive protection of your intellectual property rights' },
             { icon: '📈', title: 'Brand Value Enhancement', desc: 'Strengthen your brand and business value through proper IP registration' },
         ],
         faqs: [
             { q: 'Is a patent search mandatory before filing a patent application in India?', a: 'While not legally mandatory, a patent search is strongly recommended. It helps assess patentability, avoid prior art conflicts, and draft stronger claims. Filing without a search significantly increases the risk of rejection during examination.' },
-            { q: 'What databases does Your Professional search during a patent search?', a: 'Your Professional searches the Indian Patent Office (InPASS/IPO), USPTO, EPO (Espacenet), WIPO (PATENTSCOPE), Google Patents, and relevant non-patent literature databases including IEEE, PubMed, and Google Scholar, depending on the technology domain.' },
+            { q: 'What databases does Your Professionals search during a patent search?', a: 'Your Professionals searches the Indian Patent Office (InPASS/IPO), USPTO, EPO (Espacenet), WIPO (PATENTSCOPE), Google Patents, and relevant non-patent literature databases including IEEE, PubMed, and Google Scholar, depending on the technology domain.' },
             { q: 'What is a First Examination Report (FER) and why is it important?', a: 'The FER is the first official communication from the Indian Patent Office examiner after examining your patent application. It lists objections — including cited prior art — that must be addressed within 6 months. Failure to respond results in abandonment of the application.' },
             { q: 'How long does a comprehensive patent search take?', a: 'A standard patentability search typically takes 7–14 business days, including analysis and report preparation. Urgent searches can be completed in 3–5 business days. FTO and landscape searches may take 2–4 weeks depending on complexity.' },
             { q: 'Can a patent search guarantee that my invention is patentable?', a: 'No. A patent search provides a professional assessment based on available prior art, but cannot guarantee grant. Unpublished applications, trade secrets, and examiner discretion may affect the outcome. However, a thorough search significantly improves the probability of success.' },
             { q: 'What is the difference between a novelty search and a Freedom-to-Operate search?', a: 'A novelty search determines whether an invention is new (for filing purposes), while an FTO search determines whether a product or process infringes existing patents in force (for commercialization purposes). They serve different objectives and search different sets of references.' },
             { q: 'Should I conduct a patent search for a provisional application?', a: 'Yes. Even though a provisional specification establishes priority, conducting a search before filing helps identify the closest prior art, refine the invention disclosure, and ensure the complete specification (to be filed within 12 months) contains strong, differentiated claims.' },
-            { q: 'How does Your Professional help with patent searches?', a: 'Your Professional provides end-to-end patent search services — from invention disclosure consultation and search strategy formulation to comprehensive database searching, prior art analysis, patentability opinion reports, and FER response preparation — all handled by registered patent agents and IP professionals.' },
+            { q: 'How does Your Professionals help with patent searches?', a: 'Your Professionals provides end-to-end patent search services — from invention disclosure consultation and search strategy formulation to comprehensive database searching, prior art analysis, patentability opinion reports, and FER response preparation — all handled by registered patent agents and IP professionals.' },
         ],
         cta: {
             heading: 'Need Help With Intellectual Property Dispute?',
             subheading:
-                'Let Your Professional handle your intellectual property dispute requirements with expert guidance and timely filing.',
+                'Let Your Professionals handle your intellectual property dispute requirements with expert guidance and timely filing.',
             features: [
                 'Free Initial Consultation',
                 'Complete Intellectual Property Dispute Support',

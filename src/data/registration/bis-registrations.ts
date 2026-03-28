@@ -107,26 +107,26 @@ export const BIS_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'What are BIS standards for?', a: 'BIS stands for the Bureau of Indian Standards. It is the National Standard Body of India, established under the BIS Act, 2016. Its main function is to develop and formulate Indian Standards, provide product and system certification, and ensure the quality, safety, and reliability of goods sold in India. It aims to protect consumer interests and promote fair trade practices.' },
-            { q: 'Who requires a BIS certificate?', a: 'For detailed information regarding who requires a bis certificate, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What documents are required for a BIS certificate?', a: 'For detailed information regarding what documents are required for a bis certificate, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How long does the BIS certification process take?', a: 'For detailed information regarding how long does the bis certification process take, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How much does BIS certification cost?', a: 'For detailed information regarding how much does bis certification cost, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Is BIS certification required for import?', a: 'For detailed information regarding is bis certification required for import, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Is a BIS certificate required for all products?', a: 'For detailed information regarding is a bis certificate required for all products, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What is the BIS certification product list for imports?', a: 'For detailed information regarding what is the bis certification product list for imports, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How to get a BIS certificate online?', a: 'For detailed information regarding how to get a bis certificate online, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How to check a BIS certificate online?', a: 'For detailed information regarding how to check a bis certificate online, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How to download a BIS certificate?', a: 'For detailed information regarding how to download a bis certificate, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Is a BIS certification mandatory?', a: 'For detailed information regarding is a bis certification mandatory, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Which products require a BIS certification?', a: 'For detailed information regarding which products require a bis certification, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What are the implications of selling our products without BIS certification in India?', a: 'For detailed information regarding what are the implications of selling our products without bis certification in india, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Is the BIS certification available to foreign manufacturers?', a: 'For detailed information regarding is the bis certification available to foreign manufacturers, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Which is better, ISI or BIS?', a: 'For detailed information regarding which is better, isi or bis, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Who requires a BIS certificate?', a: 'For detailed information regarding who requires a bis certificate, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What documents are required for a BIS certificate?', a: 'For detailed information regarding what documents are required for a bis certificate, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How long does the BIS certification process take?', a: 'For detailed information regarding how long does the bis certification process take, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How much does BIS certification cost?', a: 'For detailed information regarding how much does bis certification cost, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Is BIS certification required for import?', a: 'For detailed information regarding is bis certification required for import, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Is a BIS certificate required for all products?', a: 'For detailed information regarding is a bis certificate required for all products, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What is the BIS certification product list for imports?', a: 'For detailed information regarding what is the bis certification product list for imports, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How to get a BIS certificate online?', a: 'For detailed information regarding how to get a bis certificate online, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How to check a BIS certificate online?', a: 'For detailed information regarding how to check a bis certificate online, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How to download a BIS certificate?', a: 'For detailed information regarding how to download a bis certificate, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Is a BIS certification mandatory?', a: 'For detailed information regarding is a bis certification mandatory, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Which products require a BIS certification?', a: 'For detailed information regarding which products require a bis certification, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What are the implications of selling our products without BIS certification in India?', a: 'For detailed information regarding what are the implications of selling our products without bis certification in india, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Is the BIS certification available to foreign manufacturers?', a: 'For detailed information regarding is the bis certification available to foreign manufacturers, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Which is better, ISI or BIS?', a: 'For detailed information regarding which is better, isi or bis, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
         ],
         cta: {
             heading: 'Need Help With BIS Certification?',
             subheading:
-                'Let Your Professional handle your bis certification requirements with expert guidance and timely processing.',
+                'Let Your Professionals handle your bis certification requirements with expert guidance and timely processing.',
             features: [
                 'Expert Registration Professionals',
                 'End-to-End Documentation Support',
@@ -234,15 +234,15 @@ export const BIS_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'Is BIS mandatory for all types of power banks, including polymer ones?', a: 'Yes, BIS certification for power banks is mandatory for all types of power banks, irrespective of the battery chemistry (e.g., lithium-ion, lithium polymer). The standard IS 13252 (Part 1) applies broadly to all portable power banks. This includes a BIS certification for power bank polymer.' },
-            { q: 'Can I sell online without a BIS certificate?', a: 'For detailed information regarding can i sell online without a bis certificate, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What are the main differences between the ISI Mark and the CRS registration mark?', a: 'For detailed information regarding what are the main differences between the isi mark and the crs registration mark, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'My power bank model is slightly different. Do I need a new certificate?', a: 'For detailed information regarding my power bank model is slightly different. do i need a new certificate, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How BIS Protects You from Fake and Unsafe Products?', a: 'For detailed information regarding how bis protects you from fake and unsafe products, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Can I sell online without a BIS certificate?', a: 'For detailed information regarding can i sell online without a bis certificate, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What are the main differences between the ISI Mark and the CRS registration mark?', a: 'For detailed information regarding what are the main differences between the isi mark and the crs registration mark, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'My power bank model is slightly different. Do I need a new certificate?', a: 'For detailed information regarding my power bank model is slightly different. do i need a new certificate, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How BIS Protects You from Fake and Unsafe Products?', a: 'For detailed information regarding how bis protects you from fake and unsafe products, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
         ],
         cta: {
             heading: 'Need Help With BIS Certification for Power Banks?',
             subheading:
-                'Let Your Professional handle your bis certification for power banks requirements with expert guidance and timely processing.',
+                'Let Your Professionals handle your bis certification for power banks requirements with expert guidance and timely processing.',
             features: [
                 'Expert Registration Professionals',
                 'End-to-End Documentation Support',
@@ -342,14 +342,14 @@ export const BIS_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'Can an Indian company apply for FMCS?', a: 'No, an Indian company cannot apply for FMCS BIS. The Foreign Manufacturers Certification Scheme (FMCS) is specifically designed for manufacturers whose permanent manufacturing premises are located outside India. Indian manufacturers apply for BIS certification under a different scheme, typically Scheme I (for ISI Mark) or Scheme II (Compulsory Registration Scheme for electronics/IT goods), depending on the product type.' },
-            { q: 'How can I check if a foreign company has a valid FMCS license?', a: 'For detailed information regarding how can i check if a foreign company has a valid fmcs license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What is the difference between BIS CRS and FMCS?', a: 'For detailed information regarding what is the difference between bis crs and fmcs, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How much time does it take to get the FMCS certificate?', a: 'For detailed information regarding how much time does it take to get the fmcs certificate, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How can I check if a foreign company has a valid FMCS license?', a: 'For detailed information regarding how can i check if a foreign company has a valid fmcs license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What is the difference between BIS CRS and FMCS?', a: 'For detailed information regarding what is the difference between bis crs and fmcs, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How much time does it take to get the FMCS certificate?', a: 'For detailed information regarding how much time does it take to get the fmcs certificate, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
         ],
         cta: {
             heading: 'Need Help With BIS FMCS Certification?',
             subheading:
-                'Let Your Professional handle your bis fmcs certification requirements with expert guidance and timely processing.',
+                'Let Your Professionals handle your bis fmcs certification requirements with expert guidance and timely processing.',
             features: [
                 'Expert Registration Professionals',
                 'End-to-End Documentation Support',
@@ -400,7 +400,7 @@ export const BIS_REGISTRATIONS: Record<string, ServiceData> = {
             {
                 category: 'Required Documents',
                 items: [
-                    'Contact Your Professional for document checklist',
+                    'Contact Your Professionals for document checklist',
                 ],
             },
         ],
@@ -425,7 +425,7 @@ export const BIS_REGISTRATIONS: Record<string, ServiceData> = {
             { item: 'IS 9873 - Part 3 (Migration of Certain Elements):Approx. Rs. 14,080/-', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Registration Support', desc: 'Dedicated support from Your Professional for seamless registration.' },
+            { icon: '✅', title: 'Expert Registration Support', desc: 'Dedicated support from Your Professionals for seamless registration.' },
         ],
         compliance: [
             { area: 'What is the Validity of a BIS Certificate for Toys?', details: 'A BIS (Bureau of Indian Standards) certificate for toys is typically valid for two years when initially granted. This means that manufacturers and importers must apply for its renewal annually to ensure their toys continue to be legally sold in the Indian market.' },
@@ -433,15 +433,15 @@ export const BIS_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'What happens if I sell toys without a BIS certificate in India?', a: 'Selling toys without a BIS certificate and the mandatory ISI Mark in India is illegal. You could face imprisonment, significant fines, and the seizure and destruction of your products. It also severely damages your businesss reputation.' },
-            { q: 'Is BIS certification required for handmade toys?', a: 'For detailed information regarding is bis certification required for handmade toys, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How long is the BIS certificate for toys valid?', a: 'For detailed information regarding how long is the bis certificate for toys valid, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What is the process for renewal of a BIS license for toys?', a: 'For detailed information regarding what is the process for renewal of a bis license for toys, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Can I get a BIS certificate for multiple types of toys under one license?', a: 'For detailed information regarding can i get a bis certificate for multiple types of toys under one license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Is BIS certification required for handmade toys?', a: 'For detailed information regarding is bis certification required for handmade toys, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How long is the BIS certificate for toys valid?', a: 'For detailed information regarding how long is the bis certificate for toys valid, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What is the process for renewal of a BIS license for toys?', a: 'For detailed information regarding what is the process for renewal of a bis license for toys, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Can I get a BIS certificate for multiple types of toys under one license?', a: 'For detailed information regarding can i get a bis certificate for multiple types of toys under one license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
         ],
         cta: {
             heading: 'Need Help With BIS Certification for Toys?',
             subheading:
-                'Let Your Professional handle your bis certification for toys requirements with expert guidance and timely processing.',
+                'Let Your Professionals handle your bis certification for toys requirements with expert guidance and timely processing.',
             features: [
                 'Expert Registration Professionals',
                 'End-to-End Documentation Support',

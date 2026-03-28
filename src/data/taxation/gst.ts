@@ -230,7 +230,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With GST Registration?',
       subheading:
-        'Let Your Professional handle your gst registration requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your gst registration requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -344,7 +344,7 @@ const data: Record<string, ServiceData> = {
       { title: 'Step 7 - Submit the GST Return', desc: 'Click on Submit to freeze the return data. Once submitted, no further changes can be made for that period. Complete verification using aDigital Signature Certificate (DSC)(mandatory for companies/LLPs) or an Electronic Verification Code (EVC) (OTP sent to registered mobile number).' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     penalties: [
       { violation: 'Interest Charges:Interest is applicable at 18% per annum on the outstanding tax ', penalty: 'Interest Charges:Interest is applicable at 18% per annum on the outstanding tax amount. Interest starts accumulating from the day after the filing due date and continues until the payment is made.' },
@@ -355,7 +355,7 @@ const data: Record<string, ServiceData> = {
       { violation: 'Rs. 50 per day (Rs. 25 CGST + Rs. 25 SGST) for all other situations.', penalty: 'Rs. 50 per day (Rs. 25 CGST + Rs. 25 SGST) for all other situations.' },
     ],
     advantages: [
-      { icon: '✅', title: 'Expert GST Return Filing Support', desc: 'Dedicated compliance manager from Your Professional' },
+      { icon: '✅', title: 'Expert GST Return Filing Support', desc: 'Dedicated compliance manager from Your Professionals' },
     ],
     faqs: [
       {
@@ -422,7 +422,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With GST Return Filing?',
       subheading:
-        'Let Your Professional handle your gst return filing requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your gst return filing requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -502,7 +502,7 @@ const data: Record<string, ServiceData> = {
       { violation: 'In cases of significant delay, these penalties can add up quickly, making it cos', penalty: 'In cases of significant delay, these penalties can add up quickly, making it costly to miss the deadline.' },
     ],
     advantages: [
-      { icon: '✅', title: 'Expert GSTR9 Return Filing Support', desc: 'Dedicated compliance manager from Your Professional' },
+      { icon: '✅', title: 'Expert GSTR9 Return Filing Support', desc: 'Dedicated compliance manager from Your Professionals' },
     ],
     faqs: [
       {
@@ -553,7 +553,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With GSTR9 Return Filing?',
       subheading:
-        'Let Your Professional handle your gstr9 return filing requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your gstr9 return filing requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -594,7 +594,7 @@ const data: Record<string, ServiceData> = {
       {
         category: 'Required Documents',
         items: [
-          'Contact Your Professional for Cancel GST Registration document checklist',
+          'Contact Your Professionals for Cancel GST Registration document checklist',
         ],
       },
     ],
@@ -622,7 +622,7 @@ const data: Record<string, ServiceData> = {
       { violation: 'Business Impact:Your operations may be affected. To restart GST, you must apply ', penalty: 'Business Impact:Your operations may be affected. To restart GST, you must apply again and go through checks.' },
     ],
     advantages: [
-      { icon: '✅', title: 'Expert Cancel GST Registration Support', desc: 'Dedicated compliance manager from Your Professional' },
+      { icon: '✅', title: 'Expert Cancel GST Registration Support', desc: 'Dedicated compliance manager from Your Professionals' },
     ],
     disadvantages: [
       'TDS/TCS Deductors:People registered only to deduct/collect tax cannot cancel registration.',
@@ -673,7 +673,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With Cancel GST Registration?',
       subheading:
-        'Let Your Professional handle your cancel gst registration requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your cancel gst registration requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -753,10 +753,10 @@ const data: Record<string, ServiceData> = {
       { title: 'Step 4: Receive Your Documents in Record Time', desc: 'Once we check and verify your details, we will send you all the documents you need to use your VPOB legally.' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     advantages: [
-      { icon: '✅', title: 'Expert Virtual Place of Business in GST Support', desc: 'Dedicated compliance manager from Your Professional' },
+      { icon: '✅', title: 'Expert Virtual Place of Business in GST Support', desc: 'Dedicated compliance manager from Your Professionals' },
     ],
     disadvantages: [
       'Partner with a reputable and verified VPOB provider.',
@@ -803,7 +803,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With Virtual Place of Business in GST?',
       subheading:
-        'Let Your Professional handle your virtual place of business in gst requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your virtual place of business in gst requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -910,7 +910,7 @@ const data: Record<string, ServiceData> = {
       { title: 'Step 6: Submit the Application and Wait for Approval', desc: 'After you submit the application, a message saying ‘Successful submission’ will appear on your screen.' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     advantages: [
       { icon: '✅', title: '1. Follows Legal Rules and Increases Transparency', desc: 'If you’re running your business from multiple places, it’s necessary to register each location under GST. This ensures compliance and avoids potential penalties from tax authorities. When you register all your places, the GST department can easily track your business activities, which reduces the ch' },
@@ -965,7 +965,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With Additional Place of Business in GST?',
       subheading:
-        'Let Your Professional handle your additional place of business in gst requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your additional place of business in gst requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -1049,7 +1049,7 @@ const data: Record<string, ServiceData> = {
       { title: 'Step 6: Receiving Your GSTIN and Registration Certificate (Form GST REG-06)', desc: 'Upon successful submission, you will receive anApplication Reference Number (ARN)on your registered mobile number and email ID. You can use this ARN to track the status of your application on the GST portal (gst.gov.in).' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     advantages: [
       { icon: '✅', title: 'Simplified Tax Compliance', desc: 'Simplified Tax Compliance' },
@@ -1105,7 +1105,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With GST Registration for E-commerce?',
       subheading:
-        'Let Your Professional handle your gst registration for e-commerce requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your gst registration for e-commerce requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -1151,7 +1151,7 @@ const data: Record<string, ServiceData> = {
       {
         category: 'Required Documents',
         items: [
-          'Contact Your Professional for GST Return Filing for E-commerce document checklist',
+          'Contact Your Professionals for GST Return Filing for E-commerce document checklist',
         ],
       },
     ],
@@ -1162,7 +1162,7 @@ const data: Record<string, ServiceData> = {
       { title: 'Making the GST Payment and Filing the Final Return', desc: 'After declaring your sales, claiming ITC, and adjusting for TCS, if there is any balance tax payable, you must pay it through the electronic cash ledger. Once the payment is made, you can file your GSTR-3B using EVC or DSC. This completes the GSTR-3B filing process for the tax period.' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     penalties: [
       { violation: 'Late Filing of GSTR-3B (Tax payable)', penalty: 'Rs. 5,000 per return' },
@@ -1173,7 +1173,7 @@ const data: Record<string, ServiceData> = {
       { violation: 'Late payment of GST', penalty: 'Calculated from the due date till payment' },
     ],
     advantages: [
-      { icon: '✅', title: 'Expert GST Return Filing for E-commerce Support', desc: 'Dedicated compliance manager from Your Professional' },
+      { icon: '✅', title: 'Expert GST Return Filing for E-commerce Support', desc: 'Dedicated compliance manager from Your Professionals' },
     ],
     compliance: [
       { area: '1. GSTR-1: Declaring Your Sales and Outward Supplies', details: 'Note:The thresholds for filing GSTR-9 and GSTR-9C are subject to change each year through notifications issued by the CBIC. It’s important to always refer to the latest GST circulars or official updates to confirm the applicable limits for the relevant financial year.' },
@@ -1214,7 +1214,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With GST Return Filing for E-commerce?',
       subheading:
-        'Let Your Professional handle your gst return filing for e-commerce requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your gst return filing for e-commerce requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -1276,10 +1276,10 @@ const data: Record<string, ServiceData> = {
       { title: 'Step 5: Utilize ITC from Electronic Credit Ledger', desc: 'Step 5: Utilize ITC from Electronic Credit Ledger' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     advantages: [
-      { icon: '✅', title: 'Expert Input Tax Credit Support', desc: 'Dedicated compliance manager from Your Professional' },
+      { icon: '✅', title: 'Expert Input Tax Credit Support', desc: 'Dedicated compliance manager from Your Professionals' },
     ],
     compliance: [
       { area: 'Why is it important?', details: 'Regular ITC Reconciliation is a best practice for all GST-registered businesses.' },
@@ -1321,7 +1321,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With Input Tax Credit?',
       subheading:
-        'Let Your Professional handle your input tax credit requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your input tax credit requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -1367,7 +1367,7 @@ const data: Record<string, ServiceData> = {
       {
         category: 'Required Documents',
         items: [
-          'Contact Your Professional for GST E-Invoice document checklist',
+          'Contact Your Professionals for GST E-Invoice document checklist',
         ],
       },
     ],
@@ -1379,10 +1379,10 @@ const data: Record<string, ServiceData> = {
       { title: 'Step 5: Issuing the Final, Valid E-Invoice', desc: 'The IRP returns the digitally signed e-invoice (with the IRN and QR Code embedded) to your accounting software or through the portal. You then issue this validated GST E-Invoice to your buyer.' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     advantages: [
-      { icon: '✅', title: 'Expert GST E-Invoice Support', desc: 'Dedicated compliance manager from Your Professional' },
+      { icon: '✅', title: 'Expert GST E-Invoice Support', desc: 'Dedicated compliance manager from Your Professionals' },
     ],
     faqs: [
       {
@@ -1461,7 +1461,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With GST E-Invoice?',
       subheading:
-        'Let Your Professional handle your gst e-invoice requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your gst e-invoice requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -1505,7 +1505,7 @@ const data: Record<string, ServiceData> = {
       {
         category: 'Required Documents',
         items: [
-          'Contact Your Professional for E-Way Bill Registration document checklist',
+          'Contact Your Professionals for E-Way Bill Registration document checklist',
         ],
       },
     ],
@@ -1518,7 +1518,7 @@ const data: Record<string, ServiceData> = {
       { title: '6. Create Login Credentials:', desc: 'Once youve set your username and password, click "Submit."' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     advantages: [
       { icon: '✅', title: 'Ensures GST compliance and helps avoid penalties or legal issues.', desc: 'Ensures GST compliance and helps avoid penalties or legal issues.' },
@@ -1572,7 +1572,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With E-Way Bill Registration?',
       subheading:
-        'Let Your Professional handle your e-way bill registration requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your e-way bill registration requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',

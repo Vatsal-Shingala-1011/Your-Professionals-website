@@ -32,7 +32,7 @@ export default function WhyChooseUs() {
                 <div className="text-center md:text-left mb-12 flex flex-col md:flex-row justify-between items-end gap-6">
                     <div className="max-w-xl">
                         <h4 className="text-[var(--color-brand-secondary)] font-bold tracking-widest text-sm uppercase mb-2">
-                            WHY Your Professional
+                            WHY Your Professionals
                         </h4>
                         <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-brand-primary)]">
                             Some Numbers are important

@@ -111,7 +111,7 @@ export const REGULATORY: Record<string, ServiceData> = {
             { item: 'Audit Fees:Budget for auditing costs (to issue the NOF certificate and future mandatory audits).', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all NBFC Registration requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all NBFC Registration requirements.' },
         ],
         compliance: [
             { area: 'Periodic Filings with the Reserve Bank of India', details: 'Registered NBFCs must file regular returns and reports to the RBI. These include:' },
@@ -123,7 +123,7 @@ export const REGULATORY: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With NBFC Registration?',
-            subheading: 'Let Your Professional handle your nbfc registration requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your nbfc registration requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -186,7 +186,7 @@ export const REGULATORY: Record<string, ServiceData> = {
             ] },
         ],
         process: [
-            { title: 'Consultation', desc: 'Connect with Your Professional experts' },
+            { title: 'Consultation', desc: 'Connect with Your Professionals experts' },
             { title: 'Processing', desc: 'Complete and submit required forms' },
             { title: 'Completion', desc: 'Receive your final documentation' },
         ],
@@ -194,7 +194,7 @@ export const REGULATORY: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all NBFC Compliance requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all NBFC Compliance requirements.' },
         ],
         compliance: [
             { area: 'Monthly Compliances', details: 'These are recurring compliances that must be fulfilled every month to ensure timely tax payments, regulatory reporting, and liquidity oversight.' },
@@ -208,7 +208,7 @@ export const REGULATORY: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With NBFC Compliance?',
-            subheading: 'Let Your Professional handle your nbfc compliance requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your nbfc compliance requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -288,7 +288,7 @@ export const REGULATORY: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Payment Bank License requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Payment Bank License requirements.' },
         ],
         compliance: [
             { area: 'Maintaining Prudential Norms:The bank must always maintain t', details: 'Maintaining Prudential Norms:The bank must always maintain the required CRR, SLR, and a minimum capital adequacy ratio. This ensures the bank remains financially healthy.' },
@@ -305,7 +305,7 @@ export const REGULATORY: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Payment Bank License?',
-            subheading: 'Let Your Professional handle your payment bank license requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your payment bank license requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -433,7 +433,7 @@ export const REGULATORY: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Payment Gateway License?',
-            subheading: 'Let Your Professional handle your payment gateway license requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your payment gateway license requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -496,14 +496,14 @@ export const REGULATORY: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Legal Notice for Defamation requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Legal Notice for Defamation requirements.' },
         ],
         faqs: [
             { q: 'What are the effects of not replying to a defamation legal notice?', a: 'Ignoring a legal notice is a bad idea. The sender will likely assume you admit to the allegations, strengthening their position to file a court case. A court may also view your silence negatively, interpreting it as a sign of guilt or disrespect for the legal process. It is always best to consult a lawyer and send a formal reply.' },
         ],
         cta: {
             heading: 'Need Help With Legal Notice for Defamation?',
-            subheading: 'Let Your Professional handle your legal notice for defamation requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your legal notice for defamation requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -543,7 +543,7 @@ export const REGULATORY: Record<string, ServiceData> = {
             'Entities requiring Legal Notice services',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: 'Step 1: Talk to an Expert Lawyer', desc: 'The first and most important step is to consult a good lawyer. It’s ideal to approach a civil lawyer or a lawyer who specializes in the specific area of your case (such as property,consumer complaints,cheque bounce, etc.). This ensures that the lawyer is experienced in handling the type of dispute you’re dealing with.' },
@@ -554,14 +554,14 @@ export const REGULATORY: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Legal Notice requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Legal Notice requirements.' },
         ],
         faqs: [
             { q: 'What is the time limit to reply to a legal notice in India?', a: 'The time limit to reply is usually mentioned in the notice itself. Typically, lawyers provide a period of 15 days or 30 days for the recipient to respond or comply. If no time limit is specified, a "reasonable time" is implied. It is always advisable to respond within the stipulated time. How to reply to a legal notice is best done with a lawyers help.' },
         ],
         cta: {
             heading: 'Need Help With Legal Notice?',
-            subheading: 'Let Your Professional handle your legal notice requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your legal notice requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',

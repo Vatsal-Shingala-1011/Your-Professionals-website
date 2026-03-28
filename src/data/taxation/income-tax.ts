@@ -95,14 +95,14 @@ const data: Record<string, ServiceData> = {
         a: '',
       },
       {
-        q: 'How can Your Professional make my tax filing process easier?',
+        q: 'How can Your Professionals make my tax filing process easier?',
         a: '',
       },
     ],
     cta: {
       heading: 'Need Help With Income Tax Return Filing?',
       subheading:
-        'Let Your Professional handle your income tax return filing requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your income tax return filing requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -240,7 +240,7 @@ const data: Record<string, ServiceData> = {
       { violation: 'Penalty (Section 271H):As per Section 271H of the Income Tax Act, a penalty rang', penalty: 'Penalty (Section 271H):As per Section 271H of the Income Tax Act, a penalty ranging from ₹10,000 to ₹1,00,000 may be imposed for the non-filing or incorrect filing of TDS returns. This penalty is imposed over and above any interest charges or late filing fees under Section 234E.' },
     ],
     advantages: [
-      { icon: '✅', title: 'Expert TDS Return Filing Support', desc: 'Dedicated compliance manager from Your Professional' },
+      { icon: '✅', title: 'Expert TDS Return Filing Support', desc: 'Dedicated compliance manager from Your Professionals' },
     ],
     faqs: [
       {
@@ -287,7 +287,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With TDS Return Filing?',
       subheading:
-        'Let Your Professional handle your tds return filing requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your tds return filing requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -328,7 +328,7 @@ const data: Record<string, ServiceData> = {
       {
         category: 'Required Documents',
         items: [
-          'Contact Your Professional for PF Return Filing document checklist',
+          'Contact Your Professionals for PF Return Filing document checklist',
         ],
       },
     ],
@@ -343,7 +343,7 @@ const data: Record<string, ServiceData> = {
       { title: 'Step 8: Download Confirmation', desc: 'After successful payment, download the payment receipt (challan copy) from your banks portal and the EPFO portal. This confirms your PF return filing and payment. This completes the monthly PF return filing and payment process.' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     penalties: [
       { violation: 'Late PF Contribution Payment', penalty: '12% per annum interest under Section 7Q of the EPF Act.' },
@@ -406,7 +406,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With PF Return Filing?',
       subheading:
-        'Let Your Professional handle your pf return filing requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your pf return filing requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -501,10 +501,10 @@ const data: Record<string, ServiceData> = {
       { title: '7. E-Verify Your ITR-2 Return', desc: 'Post-submission,e-verificationis compulsory for return validation. Choose from:' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     advantages: [
-      { icon: '✅', title: 'Expert ITR 2 Form Filing Support', desc: 'Dedicated compliance manager from Your Professional' },
+      { icon: '✅', title: 'Expert ITR 2 Form Filing Support', desc: 'Dedicated compliance manager from Your Professionals' },
     ],
     disadvantages: [
       'Choosing the Wrong ITR Form:This is one of the most common and costly errors. A person with business income mistakenly filing ITR-2 instead of ITR-3 will receive a notice from the Income Tax Department.',
@@ -546,7 +546,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With ITR 2 Form Filing?',
       subheading:
-        'Let Your Professional handle your itr 2 form filing requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your itr 2 form filing requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -597,7 +597,7 @@ const data: Record<string, ServiceData> = {
       {
         category: 'Required Documents',
         items: [
-          'Contact Your Professional for ITR 7 Form Filing document checklist',
+          'Contact Your Professionals for ITR 7 Form Filing document checklist',
         ],
       },
     ],
@@ -611,7 +611,7 @@ const data: Record<string, ServiceData> = {
       { title: 'Step 7: Acknowledgement (ITR-V)', desc: 'After successful submission and e-verification, an acknowledgement (ITR-V) is generated. You can download this for your records. It serves as proof that your ITR-7 has been filed and verified.' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     penalties: [
       { violation: 'If your income is₹5 lakh or less, the maximum late fee is₹1,000, no matter when ', penalty: 'If your income is₹5 lakh or less, the maximum late fee is₹1,000, no matter when you file after the due date.' },
@@ -620,7 +620,7 @@ const data: Record<string, ServiceData> = {
       { violation: 'File lateafter 31st December— pay up to₹10,000.', penalty: 'File lateafter 31st December— pay up to₹10,000.' },
     ],
     advantages: [
-      { icon: '✅', title: 'Expert ITR 7 Form Filing Support', desc: 'Dedicated compliance manager from Your Professional' },
+      { icon: '✅', title: 'Expert ITR 7 Form Filing Support', desc: 'Dedicated compliance manager from Your Professionals' },
     ],
     faqs: [
       {
@@ -675,7 +675,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With ITR 7 Form Filing?',
       subheading:
-        'Let Your Professional handle your itr 7 form filing requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your itr 7 form filing requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -746,7 +746,7 @@ const data: Record<string, ServiceData> = {
       { title: 'Step 8: Click ‘Let’s Get Started’', desc: 'Move forward by clicking the ‘Let’s Get Started’ button.' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     penalties: [
       { violation: 'Individuals & non-audit cases', penalty: '31st July of the assessment year' },
@@ -817,7 +817,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With ITR 1 Form Filing?',
       subheading:
-        'Let Your Professional handle your itr 1 form filing requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your itr 1 form filing requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',
@@ -911,7 +911,7 @@ const data: Record<string, ServiceData> = {
       { title: 'Step 6: Receiving Your Certificate and Claiming the Deduction', desc: 'If the IMB approves your application, you will get an80-IAC tax exemption certificate.This certificate proves you are eligible. With this, you can then claim the 100% tax deduction on your profits for any three years in a row. These years must be within your startup’s first ten years.' },
     ],
     fees: [
-      { item: 'Professional Fees', cost: 'Contact Your Professional for pricing' },
+      { item: 'Professional Fees', cost: 'Contact Your Professionals for pricing' },
     ],
     advantages: [
       { icon: '✅', title: 'No Income Tax:The biggest perk is paying no income tax on profits for three year', desc: 'No Income Tax:The biggest perk is paying no income tax on profits for three years. This means your startup keeps more money.' },
@@ -974,7 +974,7 @@ const data: Record<string, ServiceData> = {
     cta: {
       heading: 'Need Help With 80-IAC Tax Exemption?',
       subheading:
-        'Let Your Professional handle your 80-iac tax exemption requirements with expert guidance and timely filing.',
+        'Let Your Professionals handle your 80-iac tax exemption requirements with expert guidance and timely filing.',
       features: [
         'Expert Tax Professionals',
         'Timely Filing Guarantee',

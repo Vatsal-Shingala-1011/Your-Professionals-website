@@ -7,7 +7,7 @@ export default function Footer() {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12">
                     {/* Brand & Mission */}
                     <div className="lg:col-span-1">
-                        <h3 className="font-bold text-2xl mb-4">Your Professional</h3>
+                        <h3 className="font-bold text-2xl mb-4">Your Professionals</h3>
                         <p className="text-gray-300 text-sm mb-6 leading-relaxed">
                             Your trusted partner for business registration, government licensing, compliance, and legal services across India. We simplify complex processes so you can focus on building your business.
                         </p>
@@ -107,7 +107,7 @@ export default function Footer() {
                     <button onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} className="w-12 h-12 bg-yellow-500 rounded-full flex items-center justify-center mb-2 hover:bg-yellow-400 transition-colors cursor-pointer">
                         ⬆
                     </button>
-                    <p className="text-gray-400 text-sm">© 2026 Your Professional. All Rights Reserved.</p>
+                    <p className="text-gray-400 text-sm">© 2026 Your Professionals. All Rights Reserved.</p>
                 </div>
             </div>
         </footer>

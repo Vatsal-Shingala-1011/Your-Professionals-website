@@ -143,7 +143,7 @@ const data: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Get Started with Payment Gateway Aggregator Solutions',
-            subheading: 'Your Professional provides expert assistance for all your payment gateway aggregator solutions needs with end-to-end support.',
+            subheading: 'Your Professionals provides expert assistance for all your payment gateway aggregator solutions needs with end-to-end support.',
             features: [
                 'Debit Cards',
                 'Credit Cards',
@@ -232,7 +232,7 @@ const data: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Get Started with Startup Planning',
-            subheading: 'Your Professional provides expert assistance for all your startup planning needs with end-to-end support.',
+            subheading: 'Your Professionals provides expert assistance for all your startup planning needs with end-to-end support.',
             features: [
                 'Identify your target audience: Pinpoint who your ideal customers are and what...',
                 'Analyze competitors: Understand the existing market landscape and identify yo...',
@@ -336,7 +336,7 @@ const data: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Get Started with CSR Registration',
-            subheading: 'Your Professional provides expert assistance for all your csr registration needs with end-to-end support.',
+            subheading: 'Your Professionals provides expert assistance for all your csr registration needs with end-to-end support.',
             features: [
                 'Identify and verify NGOs, trusts, and societies that can use company funds fo...',
                 'Make sure CSR money is only spent on true social projects and reaches those w...',
@@ -435,7 +435,7 @@ const data: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Get Started with Pitch Deck for Start-ups',
-            subheading: 'Your Professional provides expert assistance for all your pitch deck for start-ups needs with end-to-end support.',
+            subheading: 'Your Professionals provides expert assistance for all your pitch deck for start-ups needs with end-to-end support.',
             features: [
                 'Essential for Fundraising: No investor meeting is complete without a pitch de...',
                 'Clarifies Your Vision: Helps you refine and articulate your business plan.',

@@ -42,7 +42,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         documents: [
             { category: 'Required Documents', items: [
-                'Contact Your Professional for document checklist',
+                'Contact Your Professionals for document checklist',
             ] },
         ],
         process: [
@@ -67,7 +67,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
             { item: 'Proof that the company has not defaulted on any loans or payments.', cost: '' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         compliance: [
             { area: 'a. Government Fees for Name Change Forms', details: 'The government fees are fixed and paid directly on the MCA portal. RUN Application (Name Reservation):₹1,000Form MGT-14 (Filing Special Resolution):This fee depends on your companys authorized share capital. For a company with up to ₹1,00,000 capital, the fee is ₹200.Form INC-24 (Application for Central Government Approval):₹1,000 for OPC and small companies, ₹2,000 for other companies with authorized capital up to ₹25,00,000.' },
@@ -85,7 +85,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Change Pvt Ltd Company Name?',
-            subheading: 'Let Your Professional handle your change pvt ltd company name requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your change pvt ltd company name requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -191,7 +191,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
             { violation: 'Difficulty in Reusing Company Name or Structure', penalty: 'If a company is struck off due to non-compliance, reusing its name or reviving the company later can be a complicated, court-monitored process involving NCLT approval and payment of penalties.' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         faqs: [
             { q: 'What is the main difference between "Strike Off" and "Voluntary Winding Up"?', a: 'Strike Off is an easier route to close a defunct company by applying with the ROC, whereas Voluntary Winding Up is a more detailed legal procedure that involves appointing a liquidator and settling liabilities before dissolving the company.' },
@@ -206,7 +206,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Close Private Limited Company?',
-            subheading: 'Let Your Professional handle your close private limited company requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your close private limited company requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -249,7 +249,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         documents: [
             { category: 'Required Documents', items: [
-                'Contact Your Professional for document checklist',
+                'Contact Your Professionals for document checklist',
             ] },
         ],
         process: [
@@ -259,10 +259,10 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
             { title: 'Query Raised by ROC', desc: 'The ROC requires additional information or clarification regarding your application.' },
         ],
         fees: [
-            { item: 'Contact Your Professional for fee details', cost: 'Varies' },
+            { item: 'Contact Your Professionals for fee details', cost: 'Varies' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         compliance: [
             { area: 'Update Company Stationery', details: 'All letterheads, invoices, official documents, and websites must reflect the new registered office address.' },
@@ -285,7 +285,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Change in Registered Office?',
-            subheading: 'Let Your Professional handle your change in registered office requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your change in registered office requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -393,7 +393,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Change in Object Clause?',
-            subheading: 'Let Your Professional handle your change in object clause requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your change in object clause requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -487,7 +487,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
             { violation: '4. Disqualification of Directors and Fines', penalty: 'Under Section 164(2) of the Companies Act, 2013, directors of struck-off companies may be disqualified from joining other companies for up to five years due to non-compliance. They may also face penalties and fines.' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         compliance: [
             { area: 'Clearing All Pending ROC Filings and Other Statutory Dues', details: 'This is mandatory per the NCLT order. The company must: File outstanding annual returns:Submit Form MGT-7 (Annual Return) and Form AOC-4 (Financial Statements) for all pending years, with late fees and penalties under Sections 92 and 137 of the Companies Act, 2013.Settle other statutory dues:Clear outstanding Income Tax, GST, PF, ESIC, and other applicable taxes/levies to avoid further penalties.Comply with NCLT Directions:Fulfill any specific NCLT costs or penalties to ROC/designated funds, and file any required affidavits of compliance.' },
@@ -504,7 +504,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Revival of Struck Off Companies?',
-            subheading: 'Let Your Professional handle your revival of struck off companies requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your revival of struck off companies requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -547,11 +547,11 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         documents: [
             { category: 'Required Documents', items: [
-                'Contact Your Professional for document checklist',
+                'Contact Your Professionals for document checklist',
             ] },
         ],
         process: [
-            { title: 'Contact Your Professional', desc: 'Reach out to our experts for step-by-step guidance through the entire process.' },
+            { title: 'Contact Your Professionals', desc: 'Reach out to our experts for step-by-step guidance through the entire process.' },
         ],
         fees: [
             { item: 'The fee for filing DIR-12 varies with the authorised share capital:Up to ₹1 lakh', cost: '₹200₹1 lakh to ₹5 lakh:₹300₹5 lakh to ₹25 lakh:₹400₹25 lakh to ₹1 crore:₹500Above ₹1 crore:₹600' },
@@ -568,7 +568,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
             { item: 'Stamp Duty', cost: 'May apply on board resolutions or related documents, depending on the state.' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         compliance: [
             { area: '1. GST-Related Update', details: 'If the director is listed as an authorized signatory for GST, their details must be updated on the GST portal. This helps maintain access for filings and returns. Log in to the GST Portal (gst.gov.in):Use the companys existing login credentials to access the dashboard.Go to the Amendment Section:Select Services > Registration > Amendment of Registration Core Fields. This section allows changes to key business details, including authorized signatories.Update Authorized Signatory:Add the new director.Remove the outgoing one.An OTP will be sent to the new directors email and mobile number for verification.Verification and Submission:Use a Digital Signature Certificate (DSC) or Electronic Verification Code (EVC) to confirm the changes.' },
@@ -589,7 +589,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Change in Director?',
-            subheading: 'Let Your Professional handle your change in director requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your change in director requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -699,7 +699,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
             { item: 'Exceeding Rs. 1,00,00,000', cost: '600' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         disadvantages: [
             'Poorly Drafted LLP Agreement: A weak or unclear LLP Agreement can cause delays or disagreements. It may not clearly explain how to admit new partners.Approval conditions, voting rights, or capital clauses might be vague.You may have to amend the agreement before adding the new partner. Its important to have a well-drafted agreement to avoid problems later.',
@@ -731,7 +731,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Add Designated Partner?',
-            subheading: 'Let Your Professional handle your add designated partner requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your add designated partner requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -858,7 +858,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
             { item: 'If Form DIR-3 KYC for Directors is filed within the due date of the respective financial year, no fee is payable. However, if filed after the due date, for DIN status Deactivated due to non-filing of DIR-3 KYC, a fee of Rs. 5,000 becomes payable.', cost: '' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professional for seamless compliance.' },
+            { icon: '✅', title: 'Expert Professional Guidance', desc: 'Get end-to-end support from Your Professionals for seamless compliance.' },
         ],
         faqs: [
             { q: 'Who is required to file DIR-3 KYC?', a: 'Any individual who has been allotted a DIN by or on March 31st of a financial year is required to file DIR-3 KYC. This includes:All directors with an "Approved" DIN status.Directors whose DIN has been deactivated due to non-filing of the previous DIR-3 KYC. They can reactivate their DIN by filing the form with a late fee.Disqualified directors are also required to file DIR-3 KYC.Individuals holding a DIN even if they do not hold any directorships or only have a designated partnership in an LLP.Individuals who have never used their DIN for any company or LLP.' },
@@ -871,7 +871,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With DIR-3 KYC for Directors?',
-            subheading: 'Let Your Professional handle your dir-3 kyc for directors requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your dir-3 kyc for directors requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -982,7 +982,7 @@ export const MCA_SERVICES: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Strike off Section 8 Companies?',
-            subheading: 'Let Your Professional handle your strike off section 8 companies requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your strike off section 8 companies requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',

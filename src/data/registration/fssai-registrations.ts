@@ -108,12 +108,12 @@ export const FSSAI_REGISTRATIONS: Record<string, ServiceData> = {
             { icon: '💼', title: '6. Streamlined Operations', desc: 'Encourage Process Efficiency:You develop better food handling, storage, and safety systems with set protocols.Simplify Inspections and Audits:Registered businesses find it easier to pass inspections and meet compliance checks.' },
         ],
         faqs: [
-            { q: 'What is FSSAI Registration?', a: 'FSSAI Registration is a professional service offered by Your Professional.' },
+            { q: 'What is FSSAI Registration?', a: 'FSSAI Registration is a professional service offered by Your Professionals.' },
         ],
         cta: {
             heading: 'Need Help With FSSAI Registration?',
             subheading:
-                'Let Your Professional handle your fssai registration requirements with expert guidance and timely processing.',
+                'Let Your Professionals handle your fssai registration requirements with expert guidance and timely processing.',
             features: [
                 'Expert Registration Professionals',
                 'End-to-End Documentation Support',
@@ -225,18 +225,18 @@ export const FSSAI_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'Who needs an FSSAI central license?', a: 'An FSSAI Central License is for large food businesses with over Rs. 20 crore annual turnover. It is also for those operating in multiple states, importing or exporting food, and specific large-scale units like big manufacturers, cold storage, and FBOs under the Central Government.' },
-            { q: 'Who gives the FSSAI Central License?', a: 'For detailed information regarding who gives the fssai central license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What is the validity of the FSSAI central license?', a: 'For detailed information regarding what is the validity of the fssai central license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Is it necessary to display the FSSAI central license at the business premises?', a: 'For detailed information regarding is it necessary to display the fssai central license at the business premises, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How to check if an FSSAI license is state or central?', a: 'For detailed information regarding how to check if an fssai license is state or central, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How to convert the state FSSAI to central?', a: 'For detailed information regarding how to convert the state fssai to central, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What happens if my FSSAI Central License application gets rejected?', a: 'For detailed information regarding what happens if my fssai central license application gets rejected, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Do catering services require an FSSAI Central License?', a: 'For detailed information regarding do catering services require an fssai central license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Who gives the FSSAI Central License?', a: 'For detailed information regarding who gives the fssai central license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What is the validity of the FSSAI central license?', a: 'For detailed information regarding what is the validity of the fssai central license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Is it necessary to display the FSSAI central license at the business premises?', a: 'For detailed information regarding is it necessary to display the fssai central license at the business premises, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How to check if an FSSAI license is state or central?', a: 'For detailed information regarding how to check if an fssai license is state or central, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How to convert the state FSSAI to central?', a: 'For detailed information regarding how to convert the state fssai to central, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What happens if my FSSAI Central License application gets rejected?', a: 'For detailed information regarding what happens if my fssai central license application gets rejected, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Do catering services require an FSSAI Central License?', a: 'For detailed information regarding do catering services require an fssai central license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
         ],
         cta: {
             heading: 'Need Help With FSSAI Central License?',
             subheading:
-                'Let Your Professional handle your fssai central license requirements with expert guidance and timely processing.',
+                'Let Your Professionals handle your fssai central license requirements with expert guidance and timely processing.',
             features: [
                 'Expert Registration Professionals',
                 'End-to-End Documentation Support',
@@ -378,20 +378,20 @@ export const FSSAI_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'How long does it take to get an FSSAI State License?', a: 'The processing time for an FSSAI State License ranges from approximately 30 to 60 days following the submission of a complete application. This timeframe assumes that all documentation is correct and no major discrepancies are found; the FSSAI department conducts thorough scrutiny and may perform inspections before approving.' },
-            { q: 'Can I operate my food business in multiple states with a State License?', a: 'For detailed information regarding can i operate my food business in multiple states with a state license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Is GST registration required for an FSSAI State License?', a: 'For detailed information regarding is gst registration required for an fssai state license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What should I do if my FSSAI State License application is rejected?', a: 'For detailed information regarding what should i do if my fssai state license application is rejected, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Where can I find the FSSAI State License contact number for help?', a: 'For detailed information regarding where can i find the fssai state license contact number for help, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Who needs an FSSAI State License?', a: 'For detailed information regarding who needs an fssai state license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Can I upgrade from a State License to a Central License?', a: 'For detailed information regarding can i upgrade from a state license to a central license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What is the validity period of an FSSAI State License?', a: 'For detailed information regarding what is the validity period of an fssai state license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Is physical inspection mandatory for an FSSAI State License?', a: 'For detailed information regarding is physical inspection mandatory for an fssai state license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What is the penalty for operating without an FSSAI State License?', a: 'For detailed information regarding what is the penalty for operating without an fssai state license, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Can I operate my food business in multiple states with a State License?', a: 'For detailed information regarding can i operate my food business in multiple states with a state license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Is GST registration required for an FSSAI State License?', a: 'For detailed information regarding is gst registration required for an fssai state license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What should I do if my FSSAI State License application is rejected?', a: 'For detailed information regarding what should i do if my fssai state license application is rejected, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Where can I find the FSSAI State License contact number for help?', a: 'For detailed information regarding where can i find the fssai state license contact number for help, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Who needs an FSSAI State License?', a: 'For detailed information regarding who needs an fssai state license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Can I upgrade from a State License to a Central License?', a: 'For detailed information regarding can i upgrade from a state license to a central license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What is the validity period of an FSSAI State License?', a: 'For detailed information regarding what is the validity period of an fssai state license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Is physical inspection mandatory for an FSSAI State License?', a: 'For detailed information regarding is physical inspection mandatory for an fssai state license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What is the penalty for operating without an FSSAI State License?', a: 'For detailed information regarding what is the penalty for operating without an fssai state license, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
         ],
         cta: {
             heading: 'Need Help With FSSAI State License?',
             subheading:
-                'Let Your Professional handle your fssai state license requirements with expert guidance and timely processing.',
+                'Let Your Professionals handle your fssai state license requirements with expert guidance and timely processing.',
             features: [
                 'Expert Registration Professionals',
                 'End-to-End Documentation Support',
@@ -497,22 +497,22 @@ export const FSSAI_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'What is FSSAI Product Approval, and Why Do You Need It?', a: 'FSSAI product approval is the official process used by the Food Safety and Standards Authority of India to ensure a new or non-specified food product is safe for consumption. Without approval, you cannot legally sell certain food items in India and may face legal issues and fines.' },
-            { q: 'Who needs FSSAI product approval?', a: 'For detailed information regarding who needs fssai product approval, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How does the FSSAI product approval process work?', a: 'For detailed information regarding how does the fssai product approval process work, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What documents are required for FSSAI product approval?', a: 'For detailed information regarding what documents are required for fssai product approval, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How long does it take to get FSSAI approval?', a: 'For detailed information regarding how long does it take to get fssai approval, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What is the cost of FSSAI product approval?', a: 'For detailed information regarding what is the cost of fssai product approval, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What happens if my FSSAI approval expires?', a: 'For detailed information regarding what happens if my fssai approval expires, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Can I apply for FSSAI approval online?', a: 'For detailed information regarding can i apply for fssai approval online, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How do I check the status of my FSSAI approval?', a: 'For detailed information regarding how do i check the status of my fssai approval, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Do I need approval for imported food products?', a: 'For detailed information regarding do i need approval for imported food products, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What is the role of safety testing in FSSAI approval?', a: 'For detailed information regarding what is the role of safety testing in fssai approval, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Can I sell food products without FSSAI approval?', a: 'For detailed information regarding can i sell food products without fssai approval, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Who needs FSSAI product approval?', a: 'For detailed information regarding who needs fssai product approval, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How does the FSSAI product approval process work?', a: 'For detailed information regarding how does the fssai product approval process work, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What documents are required for FSSAI product approval?', a: 'For detailed information regarding what documents are required for fssai product approval, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How long does it take to get FSSAI approval?', a: 'For detailed information regarding how long does it take to get fssai approval, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What is the cost of FSSAI product approval?', a: 'For detailed information regarding what is the cost of fssai product approval, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What happens if my FSSAI approval expires?', a: 'For detailed information regarding what happens if my fssai approval expires, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Can I apply for FSSAI approval online?', a: 'For detailed information regarding can i apply for fssai approval online, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How do I check the status of my FSSAI approval?', a: 'For detailed information regarding how do i check the status of my fssai approval, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Do I need approval for imported food products?', a: 'For detailed information regarding do i need approval for imported food products, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What is the role of safety testing in FSSAI approval?', a: 'For detailed information regarding what is the role of safety testing in fssai approval, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Can I sell food products without FSSAI approval?', a: 'For detailed information regarding can i sell food products without fssai approval, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
         ],
         cta: {
             heading: 'Need Help With FSSAI Product Approval?',
             subheading:
-                'Let Your Professional handle your fssai product approval requirements with expert guidance and timely processing.',
+                'Let Your Professionals handle your fssai product approval requirements with expert guidance and timely processing.',
             features: [
                 'Expert Registration Professionals',
                 'End-to-End Documentation Support',
@@ -556,7 +556,7 @@ export const FSSAI_REGISTRATIONS: Record<string, ServiceData> = {
             {
                 category: 'Required Documents',
                 items: [
-                    'Contact Your Professional for document checklist',
+                    'Contact Your Professionals for document checklist',
                 ],
             },
         ],
@@ -587,17 +587,17 @@ export const FSSAI_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'When Should I Apply for FSSAI Renewal?', a: 'You should apply for FSSAI License renewal between 120 days and 30 days before your current license expires. Applying after this 30-day window but before expiry will incur a penalty.' },
-            { q: 'Can I Operate My Business if My License Has Expired?', a: 'For detailed information regarding can i operate my business if my license has expired, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What Happens if I Renew Late?', a: 'For detailed information regarding what happens if i renew late, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What Documents are Needed for Renewal?', a: 'For detailed information regarding what documents are needed for renewal, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How Much Does FSSAI Renewal Cost?', a: 'For detailed information regarding how much does fssai renewal cost, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How to Check FSSAI Renewal Status?', a: 'For detailed information regarding how to check fssai renewal status, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What is the Relationship Between FSSAI and BIS?', a: 'For detailed information regarding what is the relationship between fssai and bis, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Can I Operate My Business if My License Has Expired?', a: 'For detailed information regarding can i operate my business if my license has expired, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What Happens if I Renew Late?', a: 'For detailed information regarding what happens if i renew late, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What Documents are Needed for Renewal?', a: 'For detailed information regarding what documents are needed for renewal, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How Much Does FSSAI Renewal Cost?', a: 'For detailed information regarding how much does fssai renewal cost, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How to Check FSSAI Renewal Status?', a: 'For detailed information regarding how to check fssai renewal status, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What is the Relationship Between FSSAI and BIS?', a: 'For detailed information regarding what is the relationship between fssai and bis, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
         ],
         cta: {
             heading: 'Need Help With FSSAI License Renewal?',
             subheading:
-                'Let Your Professional handle your fssai license renewal requirements with expert guidance and timely processing.',
+                'Let Your Professionals handle your fssai license renewal requirements with expert guidance and timely processing.',
             features: [
                 'Expert Registration Professionals',
                 'End-to-End Documentation Support',
@@ -694,18 +694,18 @@ export const FSSAI_REGISTRATIONS: Record<string, ServiceData> = {
         ],
         faqs: [
             { q: 'What does the term "Halal" mean?', a: 'Halal is an Arabic word meaning permissible or lawful. It refers to products and practices allowed under Islamic law, especially concerning food and drink.' },
-            { q: 'Is Halal certification mandatory in India?', a: 'For detailed information regarding is halal certification mandatory in india, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'How can consumers identify Halal-certified products?', a: 'For detailed information regarding how can consumers identify halal-certified products, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Are all Halal-certified products the same?', a: 'For detailed information regarding are all halal-certified products the same, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'Is Halal certification limited to food products only?', a: 'For detailed information regarding is halal certification limited to food products only, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What are the key benefits of obtaining Halal certification for businesses?', a: 'For detailed information regarding what are the key benefits of obtaining halal certification for businesses, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What is the general process for obtaining Halal certification for a product?', a: 'For detailed information regarding what is the general process for obtaining halal certification for a product, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
-            { q: 'What is the validity period for a Halal Certificate in India?', a: 'For detailed information regarding what is the validity period for a halal certificate in india, please consult Your Professional experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Is Halal certification mandatory in India?', a: 'For detailed information regarding is halal certification mandatory in india, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'How can consumers identify Halal-certified products?', a: 'For detailed information regarding how can consumers identify halal-certified products, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Are all Halal-certified products the same?', a: 'For detailed information regarding are all halal-certified products the same, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'Is Halal certification limited to food products only?', a: 'For detailed information regarding is halal certification limited to food products only, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What are the key benefits of obtaining Halal certification for businesses?', a: 'For detailed information regarding what are the key benefits of obtaining halal certification for businesses, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What is the general process for obtaining Halal certification for a product?', a: 'For detailed information regarding what is the general process for obtaining halal certification for a product, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
+            { q: 'What is the validity period for a Halal Certificate in India?', a: 'For detailed information regarding what is the validity period for a halal certificate in india, please consult Your Professionals experts who can provide personalized guidance for your specific requirements.' },
         ],
         cta: {
             heading: 'Need Help With Halal Certification?',
             subheading:
-                'Let Your Professional handle your halal certification requirements with expert guidance and timely processing.',
+                'Let Your Professionals handle your halal certification requirements with expert guidance and timely processing.',
             features: [
                 'Expert Registration Professionals',
                 'End-to-End Documentation Support',

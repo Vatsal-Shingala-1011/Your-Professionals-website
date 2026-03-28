@@ -80,7 +80,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Consent to Establish?',
-            subheading: 'Let Your Professional handle your consent to establish requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your consent to establish requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -157,7 +157,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
             'Entities requiring Environmental Due Diligence services',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: 'Step 1: Initial Planning and Scope Definition', desc: 'Define Objectives:Clearly articulate why you are undertaking due diligence. Are you buying a company, lending money, entering a partnership, or investing? Your objectives will shape the entire process.; Determine Scope:Precisely define what areas will be covered (e.g., financial due diligence, legal due diligence, operational due diligence, environmental, tax, commercial). This involves understanding the specific risks relevant to your industry and the transaction.; Set Timeline and Budget:Establish realistic deadlines and allocate sufficient resources for the investigation. This initial planning ensures the due diligence is focused and efficient.' },
@@ -218,7 +218,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Environmental Due Diligence?',
-            subheading: 'Let Your Professional handle your environmental due diligence requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your environmental due diligence requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -323,7 +323,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With EPR Registration?',
-            subheading: 'Let Your Professional handle your epr registration requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your epr registration requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -372,7 +372,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
             'Entities requiring Environmental Auditing services',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: '1. Planning and Preparation', desc: 'Define Scope and Objectives:Determine the specific areas, processes, and activities to be audited, along with the audit is goals (e.g., assessing compliance, identifying improvement opportunities).; Assemble the Audit Team:Select qualified individuals with the necessary expertise to conduct the audit, assigning specific roles and responsibilities.; Develop an Audit Plan:Establish a timeline with key milestones, create checklists, and gather relevant documents such as environmental policies, permits, and previous audit reports.; Notify Stakeholders:Inform management and relevant personnel about the audit is scope, objectives, and schedule to ensure their cooperation and support.; Arrange Logistics:Ensure the audit team has the necessary resources, including access to facilities, documentation, and personnel for interviews.' },
@@ -415,7 +415,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Environmental Auditing?',
-            subheading: 'Let Your Professional handle your environmental auditing requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your environmental auditing requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -460,7 +460,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
             'If your business falls into any of the following categories, you need Plastic Waste Authorization:',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: 'Step 1: Getting Started on the CPCB Centralized EPR Portal', desc: 'The entire application process for PIBOs and PWPs is online, through the CPCBs centralized EPR Portal (eprplastic.cpcb.gov.in). The first step involves creating an account and registering your basic business details.' },
@@ -488,14 +488,14 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
             { violation: 'Misrepresentation or False Documentation', penalty: 'For submitting false information during the application' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Plastic Waste Authorization requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Plastic Waste Authorization requirements.' },
         ],
         faqs: [
             { q: 'What are the different categories of plastic waste in India?', a: 'The PWM Rules categorize plastic packaging into four main types:Rigid plastic packaging:Examples include bottles for beverages, food containers, etc.Flexible plastic packaging:This includes single-layer or multi-layered plastic sheets, pouches, sachets, carry bags, etc.Multi-layered plastic packaging:Packaging with at least one layer of plastic and one layer of non-plastic, where plastic is the predominant material.Compostable plastic packaging:Plastic that degrades into natural elements without leaving toxic residues.' },
         ],
         cta: {
             heading: 'Need Help With Plastic Waste Authorization?',
-            subheading: 'Let Your Professional handle your plastic waste authorization requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your plastic waste authorization requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -549,7 +549,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
             'Importers:Any person who imports EEE into India for selling, distributing, or using for commercial purposes.',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: 'Step 1: Creating Your Account on the CPCB E-Waste Portal', desc: 'Visit the official CPCB EPR E-Waste Portal.; Register as a new user, providing basic company details like name, type of entity (Producer, Recycler, etc.), and contact information.; You will receive login credentials (User ID and Password).' },
@@ -607,7 +607,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With EPR Authorization for E-Waste?',
-            subheading: 'Let Your Professional handle your epr authorization for e-waste requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your epr authorization for e-waste requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -715,7 +715,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Environmental Impact Assessment?',
-            subheading: 'Let Your Professional handle your environmental impact assessment requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your environmental impact assessment requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -821,7 +821,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With ROHS Certification?',
-            subheading: 'Let Your Professional handle your rohs certification requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your rohs certification requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',
@@ -873,7 +873,7 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
             'State Pollution Control Boards also play a role in monitoring and approving EMPRs for certain projects.',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: 'Step 1', desc: 'Air and water quality' },
@@ -889,14 +889,14 @@ export const ENVIRONMENTAL: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professional for all Environmental Management Plan Report requirements.' },
+            { icon: '✅', title: 'Expert Professional Support', desc: 'Dedicated guidance from Your Professionals for all Environmental Management Plan Report requirements.' },
         ],
         faqs: [
             { q: 'What is an Environmental Management Plan Report (EMPR)?', a: 'An Environmental Management Plan Report (EMPR) is a document detailing how a project will manage and mitigate its potential environmental impacts throughout its lifecycle.' },
         ],
         cta: {
             heading: 'Need Help With Environmental Management Plan Report?',
-            subheading: 'Let Your Professional handle your environmental management plan report requirements with expert guidance and dedicated support.',
+            subheading: 'Let Your Professionals handle your environmental management plan report requirements with expert guidance and dedicated support.',
             features: [
                 'Expert Professional Guidance',
                 'End-to-End Documentation Support',

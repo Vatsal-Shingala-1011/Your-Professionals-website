@@ -38,7 +38,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the NIC Code page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the NIC Code page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -55,7 +55,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { icon: '🔒', title: 'Secure and Private', desc: 'Your data is not stored — all calculations happen in real-time.' },
         ],
         faqs: [
-            { q: 'What is NIC Code?', a: 'NIC Code is a free online tool by Your Professional.' },
+            { q: 'What is NIC Code?', a: 'NIC Code is a free online tool by Your Professionals.' },
         ],
         cta: {
             heading: 'Try the NIC Code Now',
@@ -105,7 +105,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the Company Name Check page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the Company Name Check page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -118,7 +118,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { icon: '🔒', title: 'Secure and Private', desc: 'Your data is not stored — all calculations happen in real-time.' },
         ],
         faqs: [
-            { q: 'What is Company Name Check?', a: 'Company Name Check is a free online tool by Your Professional.' },
+            { q: 'What is Company Name Check?', a: 'Company Name Check is a free online tool by Your Professionals.' },
         ],
         cta: {
             heading: 'Try the Company Name Check Now',
@@ -168,7 +168,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the Search Registered Company Details page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the Search Registered Company Details page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -181,7 +181,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { icon: '🔒', title: 'Secure and Private', desc: 'Your data is not stored — all calculations happen in real-time.' },
         ],
         faqs: [
-            { q: 'What is Search Registered Company Details?', a: 'Search Registered Company Details is a free online tool by Your Professional.' },
+            { q: 'What is Search Registered Company Details?', a: 'Search Registered Company Details is a free online tool by Your Professionals.' },
         ],
         cta: {
             heading: 'Try the Search Registered Company Details Now',
@@ -199,7 +199,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'trademark-search',
         title: 'Trademark Search',
         subtitle:
-            'Use Your Professionals free trademark search online tool to run a fast trademark name and class search across India. Check trademark availability instantly, explore multiple name results, and get reliable, AI-driven insights, all in one place.',
+            'Use Your Professionalss free trademark search online tool to run a fast trademark name and class search across India. Check trademark availability instantly, explore multiple name results, and get reliable, AI-driven insights, all in one place.',
         heroFeatures: [
             'Avoid infringement issues',
             'Check identical or similar registered marks',
@@ -210,7 +210,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'Trademark Name Search Online in India',
             paragraphs: [
-                'Use Your Professionals free trademark search online tool to run a fast trademark name and class search across India. Check trademark availability instantly, explore multiple name results, and get reliable, AI-driven insights, all in one place.',
+                'Use Your Professionalss free trademark search online tool to run a fast trademark name and class search across India. Check trademark availability instantly, explore multiple name results, and get reliable, AI-driven insights, all in one place.',
                 'A trademark search helps you determine whether your brand name, logo, or tagline is already registered or pending registration. It scans the IP database and gives you clarity about availability and conflicts.',
                 'It also helps you identify the right trademark class for your goods or services.',
                 'A trademark name search helps you:',
@@ -231,7 +231,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the Trademark Search page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the Trademark Search page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -244,7 +244,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { icon: '🔒', title: 'Secure and Private', desc: 'Your data is not stored — all calculations happen in real-time.' },
         ],
         faqs: [
-            { q: 'What is Trademark Search?', a: 'Trademark Search is a free online tool by Your Professional.' },
+            { q: 'What is Trademark Search?', a: 'Trademark Search is a free online tool by Your Professionals.' },
         ],
         cta: {
             heading: 'Try the Trademark Search Now',
@@ -262,7 +262,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'trademark-registration-details',
         title: 'Trademark Registration Details',
         subtitle:
-            'Check complete and verified trademark registration details instantly with Your Professionals Trademark Details Tool. Search by trademark name or application number to check ownership, application status, class, filing date, and official records in one place. Verify a trademark before you file, inves',
+            'Check complete and verified trademark registration details instantly with Your Professionalss Trademark Details Tool. Search by trademark name or application number to check ownership, application status, class, filing date, and official records in one place. Verify a trademark before you file, inves',
         heroFeatures: [
             'Trademark Name or Word Mark:This is the unique name or word that identifies your brand. It helps distinguish your products or services from others in the market.',
             'Logo or Design (if any):Any visual symbol or design associated with your brand.',
@@ -273,7 +273,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'Trademark Registration Details',
             paragraphs: [
-                'Check complete and verified trademark registration details instantly with Your Professionals Trademark Details Tool. Search by trademark name or application number to check ownership, application status, class, filing date, and official records in one place. Verify a trademark before you file, invest, and expand your brand with confidence today.',
+                'Check complete and verified trademark registration details instantly with Your Professionalss Trademark Details Tool. Search by trademark name or application number to check ownership, application status, class, filing date, and official records in one place. Verify a trademark before you file, invest, and expand your brand with confidence today.',
                 'A trademark is a unique sign, symbol, word, logo, or combination that identifies a businesss goods or services. It sets brands and businesses apart from their competitors in the same industry. It provides legal recognition and restricts others from using similar marks.',
                 'Registering a trademark is importantas it gives the owner exclusive rights, helps build brand value, and protects against copying.Trademark Registrationalso allows businesses to take legal action in case someone uses a similar mark without permission.',
                 'A trademark becomes unique through its distinct name, logo, or design that sets it apart from others. Originality and strong brand association make a trademark easily recognizable from competitors and eligible for legal protection once recorded in the trademark database.',
@@ -294,7 +294,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the Trademark Registration Details page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the Trademark Registration Details page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -310,7 +310,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { icon: '🔒', title: 'Secure and Private', desc: 'Your data is not stored — all calculations happen in real-time.' },
         ],
         faqs: [
-            { q: 'What is Trademark Registration Details?', a: 'Trademark Registration Details is a free online tool by Your Professional.' },
+            { q: 'What is Trademark Registration Details?', a: 'Trademark Registration Details is a free online tool by Your Professionals.' },
         ],
         cta: {
             heading: 'Try the Trademark Registration Details Now',
@@ -328,7 +328,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'trademark-class-search',
         title: 'Trademark Class Search',
         subtitle:
-            'Avoid trademark rejection by choosing the correct class before filing with Your Professional’s Free Trademark Class Search Tool. Our tool helps you accurately identify the right NICE trademark class for your product or service, ensuring smoother registration and stronger brand protection. Start your',
+            'Avoid trademark rejection by choosing the correct class before filing with Your Professionals’s Free Trademark Class Search Tool. Our tool helps you accurately identify the right NICE trademark class for your product or service, ensuring smoother registration and stronger brand protection. Start your',
         heroFeatures: [
             'Classes1 to 34 for goods',
             'Classes35 to 45 for services.',
@@ -339,7 +339,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'Trademark Class Search Tool',
             paragraphs: [
-                'Avoid trademark rejection by choosing the correct class before filing with Your Professional’s Free Trademark Class Search Tool. Our tool helps you accurately identify the right NICE trademark class for your product or service, ensuring smoother registration and stronger brand protection. Start your trademark class search now.',
+                'Avoid trademark rejection by choosing the correct class before filing with Your Professionals’s Free Trademark Class Search Tool. Our tool helps you accurately identify the right NICE trademark class for your product or service, ensuring smoother registration and stronger brand protection. Start your trademark class search now.',
                 'A trademark is a legal sign, such as aname, logo, symbol, word,orslogan, that differentiates one businesss products or services from others. In India, trademarks are governed by theTrademark Act, 1999,which regulates their registration, use, and enforcement.',
                 'Trademarks help consumers identify the source of goods or services, prevent market confusion, and allow businesses to distinguish their brand from competitors in the same industry.Trademark registrationgives the owner exclusive rights to use the mark. It also prevents others from copying or misusing the brand.',
                 'For example, the word "Nike" and itsswoosh logoare registered trademarks that identify Nikes products worldwide.',
@@ -360,7 +360,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the Trademark Class Search page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the Trademark Class Search page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -380,16 +380,16 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { icon: '🔒', title: 'Secure and Private', desc: 'Your data is not stored — all calculations happen in real-time.' },
         ],
         faqs: [
-            { q: 'Can I check trademark availability by class using the Your Professional tool?', a: 'Yes, you can check trademark availability by class using the Your Professional tool. It helps you identify the correct trademark class based on your goods or services and allows you to search for existing trademarks within that class. This ensures that your proposed trademark does not conflict with already registered or applied marks. Class-wise searching reduces the risk of objections and legal disputes. It also saves time by narrowing the search to the most relevant category.' },
+            { q: 'Can I check trademark availability by class using the Your Professionals tool?', a: 'Yes, you can check trademark availability by class using the Your Professionals tool. It helps you identify the correct trademark class based on your goods or services and allows you to search for existing trademarks within that class. This ensures that your proposed trademark does not conflict with already registered or applied marks. Class-wise searching reduces the risk of objections and legal disputes. It also saves time by narrowing the search to the most relevant category.' },
             { q: 'What is a trademark class, and why is it important?', a: 'A trademark class is a category under the Nice Classification system that groups goods and services for trademark registration. There are 45 classes: Classes 1–34 for goods and 35–45 for services. Selecting the correct class ensures that your trademark receives legal protection specifically for the goods or services you offer. Choosing the wrong class can lead to objections, limited protection, or rejection of your application.' },
-            { q: 'How does Your Professionals Trademark Class Search Finder work?', a: 'Your Professionals Trademark Class Search Finder allows you to search for your product or service and identify the most appropriate class under the Nice Classification. The tool provides a list of possible classes with descriptions to ensure accurate classification. This reduces the chances of misfiling your trademark and saves time compared to manually reviewing all 45 classes. It also helps you determine if multiple classes are needed for your business.' },
+            { q: 'How does Your Professionalss Trademark Class Search Finder work?', a: 'Your Professionalss Trademark Class Search Finder allows you to search for your product or service and identify the most appropriate class under the Nice Classification. The tool provides a list of possible classes with descriptions to ensure accurate classification. This reduces the chances of misfiling your trademark and saves time compared to manually reviewing all 45 classes. It also helps you determine if multiple classes are needed for your business.' },
             { q: 'Can I register a trademark in more than one class?', a: 'Yes, a business can apply for trademark registration in multiple classes if it offers different types of goods or services. Each class requires a separate application fee, but it ensures your trademark receives protection across all relevant areas. For example, a company selling clothing (Class 25) and perfumes (Class 3) should register in both classes. Using a class search tool helps identify all relevant classes before filing.' },
-            { q: 'Are trademark classes the same worldwide?', a: 'Trademark classes follow the Nice Classification system, which is recognized internationally in over 150 countries. While the numbering and categories remain mostly consistent, national trademark offices may have slight variations in application rules or fees. Using a globally aligned tool like Your Professional helps ensure your classification is legally recognized and can simplify international trademark filings.' },
-            { q: 'How do I know which class applies to my business?', a: 'You need to analyze your products or services carefully and match them with the official class descriptions. Your Professionals Trademark Class Search Finder allows you to enter your business activity and get suggested classes automatically. You can review the details and decide whether a single class or multiple classes are required. This ensures that your trademark covers all aspects of your business.' },
-            { q: 'Is Your Professionals Class Search Finder suitable for beginners?', a: 'Absolutely. The platform is designed with a user-friendly interface and simple instructions for first-time applicants. Even if you have no prior knowledge of trademark classes, the tool guides you step by step. You can quickly identify the correct class, avoid mistakes, and save time and effort in the trademark filing process.' },
+            { q: 'Are trademark classes the same worldwide?', a: 'Trademark classes follow the Nice Classification system, which is recognized internationally in over 150 countries. While the numbering and categories remain mostly consistent, national trademark offices may have slight variations in application rules or fees. Using a globally aligned tool like Your Professionals helps ensure your classification is legally recognized and can simplify international trademark filings.' },
+            { q: 'How do I know which class applies to my business?', a: 'You need to analyze your products or services carefully and match them with the official class descriptions. Your Professionalss Trademark Class Search Finder allows you to enter your business activity and get suggested classes automatically. You can review the details and decide whether a single class or multiple classes are required. This ensures that your trademark covers all aspects of your business.' },
+            { q: 'Is Your Professionalss Class Search Finder suitable for beginners?', a: 'Absolutely. The platform is designed with a user-friendly interface and simple instructions for first-time applicants. Even if you have no prior knowledge of trademark classes, the tool guides you step by step. You can quickly identify the correct class, avoid mistakes, and save time and effort in the trademark filing process.' },
             { q: 'What happens if I file a trademark without knowing the correct class?', a: 'If you file without correctly identifying the class, your application may be rejected or objected to by the trademark office. Even if approved, your trademark protection will only cover the filed class, leaving other aspects of your business unprotected. This can allow competitors to use a similar mark in other classes. Using a class search tool ensures full and accurate protection from the start.' },
-            { q: 'Can the same trademark be registered in different classes by different businesses?', a: 'Yes, trademarks can exist in different classes for unrelated goods or services. For example, a trademark for clothing (Class 25) may be the same as one for software (Class 42) without conflict. However, if businesses operate in similar industries, registration in the same class may lead to disputes. Proper class identification using Your Professionals tool helps avoid such conflicts.' },
-            { q: 'How does using a Trademark Class Search Finder save time and money?', a: 'Manually reviewing all 45 classes and deciding where your trademark fits can be confusing and time-consuming. Misfiling can result in additional costs for refiling or legal disputes. Your Professionals tool streamlines the process by quickly suggesting accurate classes based on your goods or services. This reduces errors, speeds up registration, and ensures your investment in trademark protection is fully effective.' },
+            { q: 'Can the same trademark be registered in different classes by different businesses?', a: 'Yes, trademarks can exist in different classes for unrelated goods or services. For example, a trademark for clothing (Class 25) may be the same as one for software (Class 42) without conflict. However, if businesses operate in similar industries, registration in the same class may lead to disputes. Proper class identification using Your Professionalss tool helps avoid such conflicts.' },
+            { q: 'How does using a Trademark Class Search Finder save time and money?', a: 'Manually reviewing all 45 classes and deciding where your trademark fits can be confusing and time-consuming. Misfiling can result in additional costs for refiling or legal disputes. Your Professionalss tool streamlines the process by quickly suggesting accurate classes based on your goods or services. This reduces errors, speeds up registration, and ensures your investment in trademark protection is fully effective.' },
             { q: 'How many trademark classes can I apply for in India?', a: 'In India, you can apply for trademark registration in one or multiple classes depending on your business activities. Each class requires a separate application and fee. If your business offers different types of goods or services, registering in all relevant classes ensures comprehensive protection of your brand. There is no upper limit to the number of classes you can apply for.' },
             { q: 'Is trademark class selection mandatory in India?', a: 'Yes, selecting a trademark class is mandatory in India. The trademark application must specify the class of goods or services to define the scope of protection. Filing without a class or with an incorrect class can result in objections or rejection. Accurate class selection ensures that your trademark is legally enforceable and covers all relevant business activities.' },
             { q: 'Can I modify the trademark class after filing?', a: 'Once a trademark application is filed in India, modifying the class is generally not allowed. You can make corrections to minor errors in the application, but changing the class would require filing a new application in the correct class. This makes it crucial to identify the right class before filing to avoid additional costs and delays.' },
@@ -410,7 +410,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: '8th-pay-commission-calculator',
         title: '8th Pay Commission Salary Calculator',
         subtitle:
-            'Get an instant estimate of your revised salary under the 8th CPC with Your Professional’s free and easy 8th Pay Commission Salary Calculator. Simply enter your basic details to view your updated basic pay, allowances, and total monthly salary within seconds. Stay prepared, compare scenarios, and pla',
+            'Get an instant estimate of your revised salary under the 8th CPC with Your Professionals’s free and easy 8th Pay Commission Salary Calculator. Simply enter your basic details to view your updated basic pay, allowances, and total monthly salary within seconds. Stay prepared, compare scenarios, and pla',
         heroFeatures: [
             'Revised basic pay under a new pay matrix',
             'Updated allowances such as HRA, TA, and medical benefits',
@@ -421,7 +421,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: '8th Pay Commission Salary Calculator',
             paragraphs: [
-                'Get an instant estimate of your revised salary under the 8th CPC with Your Professional’s free and easy 8th Pay Commission Salary Calculator. Simply enter your basic details to view your updated basic pay, allowances, and total monthly salary within seconds. Stay prepared, compare scenarios, and plan your finances with confidence.',
+                'Get an instant estimate of your revised salary under the 8th CPC with Your Professionals’s free and easy 8th Pay Commission Salary Calculator. Simply enter your basic details to view your updated basic pay, allowances, and total monthly salary within seconds. Stay prepared, compare scenarios, and plan your finances with confidence.',
                 'The 8th Pay Commission Salary Calculator helps government employees estimate their revised salary under the expected 8th CPC pay matrix. It shows how yourbasic pay, allowances, andtotal monthly earningsmay increase once the updated structure is released.',
                 'You simply enter your current basic pay, pay level, and city, and the calculator applies the projected fitment factor to generate your estimated revised basic pay and gross salary.',
                 'Below is an example of expected changes under discussion:',
@@ -442,7 +442,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the 8th Pay Commission Salary Calculator page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the 8th Pay Commission Salary Calculator page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -484,7 +484,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'sip-calculator',
         title: 'SIP Calculator',
         subtitle:
-            'Calculate your SIP maturity value and compound growth instantly with Your Professional’s SIP Calculator. Maximize your Return On Investment (ROI) by entering the investment amount, duration, and expected return date to receive the accurate projections for your desired investment period.',
+            'Calculate your SIP maturity value and compound growth instantly with Your Professionals’s SIP Calculator. Maximize your Return On Investment (ROI) by entering the investment amount, duration, and expected return date to receive the accurate projections for your desired investment period.',
         heroFeatures: [
             'Every month, Rohan’s investment earns returns.',
             'The next month, those returns also start earning returns.',
@@ -495,7 +495,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'SIP Calculator',
             paragraphs: [
-                'Calculate your SIP maturity value and compound growth instantly with Your Professional’s SIP Calculator. Maximize your Return On Investment (ROI) by entering the investment amount, duration, and expected return date to receive the accurate projections for your desired investment period.',
+                'Calculate your SIP maturity value and compound growth instantly with Your Professionals’s SIP Calculator. Maximize your Return On Investment (ROI) by entering the investment amount, duration, and expected return date to receive the accurate projections for your desired investment period.',
                 'ASystematic Investment Plan, aka SIP, allows you to invest a fixed amount regularly in mutual funds. You contributeweekly, monthly,orquarterly, and the money grows through compounding, building value over time. Many investors use an online SIP calculator to estimate future value and plan with clarity. It is a great investment instrument with much lower risks compared to trading stocks and better returns than bank savings.',
                 'Imagine two friends, Asha and Rohan.AshasavesRs. 5,000 every monthin a regular savings account. Even afterfive years, her balance grows only slightly because the bank offers very low interest.',
                 'Rohan, on the other hand, invests thesame Rs. 5,000 every monththrough a SIP (Systematic Investment Plan). Before starting, he checks the expected returns using amonthly SIP calculatorand understands how long-term investing works.',
@@ -516,7 +516,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the SIP Calculator page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the SIP Calculator page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -560,7 +560,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'step-up-sip-calculator',
         title: 'Step Up SIP Calculator',
         subtitle:
-            'Estimate how the SIP portfolio grows with periodic investments using Your Professional’s Free Step Up SIP calculator. Visualize the projection of maturity values based on annual or regular step-ups to plan smarter and achieve long-term financial goals.',
+            'Estimate how the SIP portfolio grows with periodic investments using Your Professionals’s Free Step Up SIP calculator. Visualize the projection of maturity values based on annual or regular step-ups to plan smarter and achieve long-term financial goals.',
         heroFeatures: [
             'Helps grow wealth faster through gradual contribution increases and compounding.',
             'Makes investing manageable, especially during early career stages.',
@@ -571,7 +571,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'Step Up SIP Calculator',
             paragraphs: [
-                'Estimate how the SIP portfolio grows with periodic investments using Your Professional’s Free Step Up SIP calculator. Visualize the projection of maturity values based on annual or regular step-ups to plan smarter and achieve long-term financial goals.',
+                'Estimate how the SIP portfolio grows with periodic investments using Your Professionals’s Free Step Up SIP calculator. Visualize the projection of maturity values based on annual or regular step-ups to plan smarter and achieve long-term financial goals.',
                 'A Step Up Systematic Investment Plan (Step Up SIP) increases your SIP amount every year by a selected percentage or fixed capital. Instead of investing the same monthly value, you raise the contribution gradually as income grows. This helps build a larger corpus comfortably and supports long-term financial goals.',
                 'Many investors check projections using a Step Up SIP Calculator to understand how a yearly increase changes the maturity value compared to a regular SIP. It shows how small incremental rises can create stronger growth due to compounding on the higher contribution amount. This approach works well for saving towardeducation, retirement,orpropertyplans, and aligns investing with salary growth.',
                 'Step Up SIP allows your investment to grow in line with your income. You start small and increase contributions over time, making the process comfortable and practical. It helps build a larger corpus without pressure and supports long-term planning with clarity. ASIP calculatorwith step-up shows how different interest rates change the final value and helps you choose the right structure based on goals.',
@@ -592,7 +592,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the Step Up SIP Calculator page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the Step Up SIP Calculator page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -639,7 +639,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'home-loan-emi-calculator',
         title: 'HDFC Home Loan EMI Calculator',
         subtitle:
-            'Calculate HDFC Home Loan EMIs instantly and plan your finances better. Use Your Professional’s Free HDFC Home Loan EMI calculator to compare interest, manage budgets, and pick the right loan.',
+            'Calculate HDFC Home Loan EMIs instantly and plan your finances better. Use Your Professionals’s Free HDFC Home Loan EMI calculator to compare interest, manage budgets, and pick the right loan.',
         heroFeatures: [
             'Wide Range of Loan Options:HDFC Bank offers a range of loan options to meet various housing and finance needs.',
             'Loan Amount:You can get a loan amount of up to 10 crores, depending on your requirements and repayment capabilities.',
@@ -650,7 +650,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'HDFC Bank Home Loan EMI Calculator',
             paragraphs: [
-                'Calculate HDFC Home Loan EMIs instantly and plan your finances better. Use Your Professional’s Free HDFC Home Loan EMI calculator to compare interest, manage budgets, and pick the right loan.',
+                'Calculate HDFC Home Loan EMIs instantly and plan your finances better. Use Your Professionals’s Free HDFC Home Loan EMI calculator to compare interest, manage budgets, and pick the right loan.',
                 'A Home Loan is a type of secured loan provided by banks to people forpurchasing,constructing, orrenovatinga house. In the case of home loans, the property itself works as collateral until the loan amount, along with interest, is fully paid.',
                 'In India, borrowers usually follow a Loan-To-Value (LTV) ratio. It means that the borrowers can borrow the amount depending on the value of their property.',
                 'HDFC Bank offers various features on its home loans. From a wide loan range to low down payment possibilities, you can experience multiple benefits of an HDFC home loan. Here’s a list of key features of the Home Loan offered by HDFC:',
@@ -671,7 +671,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the HDFC Home Loan EMI Calculator page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the HDFC Home Loan EMI Calculator page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -694,11 +694,11 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { q: 'What is an EMI in a home loan?', a: 'A Home Loan EMI (Equated Monthly Instalment) is a fixed monthly payment that a borrower makes to the bank to repay the home loan over the chosen tenure. Each EMI consists of two components, which are Principal repayment and Interest repayment.' },
             { q: 'How does the HDFC Home Loan EMI Calculator work?', a: 'The EMI calculator uses a standard mathematical EMI formula and computes results instantly based on your loan amount, duration, and interest rate. Once you enter all the values, the tool itself generates the monthly EMI, the total interest payable, and the total repayment amount.' },
             { q: 'Is the EMI the same for the entire loan tenure?', a: 'Yes, the EMI is typicallyfixedfor the entire loan tenure in most home loan arrangements, including HDFC loans. However, what changes ishow much of the EMI is interest vs. principaleach month. Early EMIs include more interest, but gradually, the principal portion increases as the outstanding loan reduces.' },
-            { q: 'Does the HDFC Bank Home Loan EMI Calculator show the amortisation schedule?', a: 'Many HDFC-based EMI calculators, including the one offered by Your Professional, also provide a detailedamortisation scheduleshowing:EMI breakup (principal vs interest) month-by-monthTotal amount paid for each yearRemaining loan balance after every EMIThis helps borrowers track their repayment journey across the entire tenure and plan prepayments effectively.' },
+            { q: 'Does the HDFC Bank Home Loan EMI Calculator show the amortisation schedule?', a: 'Many HDFC-based EMI calculators, including the one offered by Your Professionals, also provide a detailedamortisation scheduleshowing:EMI breakup (principal vs interest) month-by-monthTotal amount paid for each yearRemaining loan balance after every EMIThis helps borrowers track their repayment journey across the entire tenure and plan prepayments effectively.' },
             { q: 'Does the calculator include HDFC processing fees or additional charges?', a: 'No. EMI calculators generally compute only based onprincipal and interest.Processing fees, legal charges, administrative costs, and insurance, if applicable, are not included. These should be checked separately in the final loan offer.' },
             { q: 'Can I calculate EMI for different interest rates?', a: 'Yes. The calculator allows testing multiple interest rate options that HDFC may offer, depending on credit score, applicant profile, and loan type. By adjusting interest rate values, you can see how even a small rate change can significantly impact EMI and total interest payable.' },
             { q: 'Who can use the HDFC Home Loan EMI Calculator?', a: 'The HDFC Home Loan EMI Calculator can be used by anyone planning to take a home loan from HDFC Bank or comparing loan options. It helps homebuyers, property investors, and existing borrowers estimate their EMI, interest payable, and total repayment based on loan amount, tenure, and interest rate. It’s a useful tool to plan finances and choose an affordable home loan.' },
-            { q: 'Is the Your Professionals HDFC Home Loan EMI Calculator accurate?', a: 'Yes, Your Professional’s HDFC Home Loan EMI Calculator provides accurate EMI estimates based on the standard loan formula using your loan amount, tenure, and interest rate. It is a reliable tool for budgeting and planning your home loan.' },
+            { q: 'Is the Your Professionalss HDFC Home Loan EMI Calculator accurate?', a: 'Yes, Your Professionals’s HDFC Home Loan EMI Calculator provides accurate EMI estimates based on the standard loan formula using your loan amount, tenure, and interest rate. It is a reliable tool for budgeting and planning your home loan.' },
             { q: 'What is the minimum EMI for a ₹30 lakh HDFC Home Loan?', a: 'For a ₹30 lakh home loan with HDFC Bank, the minimum EMI depends on interest rate and tenure, but as a rough example, for a 20-year loan at a rate around 7.90%, EMI comes to about₹24,907 per month.If you choose a longer tenure (e.g. 30 years) or a lower interest rate, the EMI could be even lower.' },
             { q: 'Can I reduce my HDFC Home Loan EMI?', a: 'Yes, you can reduce your HDFC Home Loan EMI by increasing your loan tenure, making part-prepayments, or switching to a lower interest rate (either within HDFC or through a balance transfer). You can also request a rate revision if your credit score or market rates have improved. These steps can help lower your monthly repayment burden.' },
             { q: 'Can I transfer your HDFC home loan to another bank?', a: 'Yes, you can transfer your HDFC Home Loan to another bank through a Home Loan Balance Transfer. This allows you to switch to a lower interest rate or better loan terms offered by another lender. The new bank will pay off your outstanding loan with HDFC, and you will continue repayment with them under the revised terms.' },
@@ -721,7 +721,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'gst-calculator',
         title: 'GST Calculator',
         subtitle:
-            'Calculate GST instantly with Your Professional’s Free GST Calculator online. Enter the amount, choose the GST rate, and get accurate GST, invoice value, and pre-GST price in seconds. Perfect for accurate billing, error-free calculations, and smooth GST compliance for businesses and individuals alike',
+            'Calculate GST instantly with Your Professionals’s Free GST Calculator online. Enter the amount, choose the GST rate, and get accurate GST, invoice value, and pre-GST price in seconds. Perfect for accurate billing, error-free calculations, and smooth GST compliance for businesses and individuals alike',
         heroFeatures: [
             'Single Indirect Tax System:GST has replaced multiple indirect taxes such as VAT, Service Tax, and Excise Duty, bringing everything under one unified tax system.',
             'Uniform Tax Structure:GST offers the same tax rates and policies across all states in India. This helps prevent tax-related confusion.',
@@ -732,7 +732,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'Online GST Calculator',
             paragraphs: [
-                'Calculate GST instantly with Your Professional’s Free GST Calculator online. Enter the amount, choose the GST rate, and get accurate GST, invoice value, and pre-GST price in seconds. Perfect for accurate billing, error-free calculations, and smooth GST compliance for businesses and individuals alike.',
+                'Calculate GST instantly with Your Professionals’s Free GST Calculator online. Enter the amount, choose the GST rate, and get accurate GST, invoice value, and pre-GST price in seconds. Perfect for accurate billing, error-free calculations, and smooth GST compliance for businesses and individuals alike.',
                 'Goods and Services Tax (GST) is an indirect tax system that came into effect in India in 2017. The government introduced GST to replace multiple old taxes, such as theValue-Added Tax (VAT), Excise Duty,andService Tax.GST follows the principle of“One Nation, One Tax,”ensuring uniform taxation across India. It simplifies business operations and improves transparency in the system.',
                 'GST avoids the ‘Tax on Tax’ system and ensures the final consumer pays the total tax amount only. This makes the final product comparatively affordable for the consumer than before.',
                 'Let’s understand how to calculate GST with an example:',
@@ -753,7 +753,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the GST Calculator page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the GST Calculator page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -793,7 +793,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'income-tax-calculator',
         title: 'Income Tax Calculator',
         subtitle:
-            'Use Your Professionals free Income Tax Calculator to calculate income tax online under both old and new tax regimes. Get an instant and accurate tax estimate for FY 2026–27 (AY 2027–28) in just a few clicks.',
+            'Use Your Professionalss free Income Tax Calculator to calculate income tax online under both old and new tax regimes. Get an instant and accurate tax estimate for FY 2026–27 (AY 2027–28) in just a few clicks.',
         heroFeatures: [
             '10% of income tax if the total income is above ₹50 lakh and up to ₹1 crore',
             '15% of income tax if the total income is above ₹1 crore and up to ₹2 crore',
@@ -804,8 +804,8 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'Income Tax Calculator Online in India – FY 2026–27',
             paragraphs: [
-                'Use Your Professionals free Income Tax Calculator to calculate income tax online under both old and new tax regimes. Get an instant and accurate tax estimate for FY 2026–27 (AY 2027–28) in just a few clicks.',
-                'Calculating your income tax can feel confusing with changing tax slabs, deductions, exemptions, and multiple income sources. Your Professional’s free Income Tax Calculator helps salaried individuals, self-employed professionals, and taxpayers calculate income tax online under both old and new tax regimes instantly for FY 2026–27 (AY 2027–28).',
+                'Use Your Professionalss free Income Tax Calculator to calculate income tax online under both old and new tax regimes. Get an instant and accurate tax estimate for FY 2026–27 (AY 2027–28) in just a few clicks.',
+                'Calculating your income tax can feel confusing with changing tax slabs, deductions, exemptions, and multiple income sources. Your Professionals’s free Income Tax Calculator helps salaried individuals, self-employed professionals, and taxpayers calculate income tax online under both old and new tax regimes instantly for FY 2026–27 (AY 2027–28).',
                 'An income tax calculator is an easy online tool that helps you find out the exact amount of tax you need to pay based on thenew income tax act rules. It takes your income details and calculates your total tax liability in a clear, understandable way.',
                 'An income tax calculator for AY 2027-28 allows you to estimate your tax for the financial year 2026-27 using updated tax rules. It also helps you compare different tax outcomes and select the option that benefits you the most. The tool is especially useful for people who find tax laws and government filing systems difficult to understand. It reflects the latest budget updates and supports better tax planning for future financial years.',
             ],
@@ -825,7 +825,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the Income Tax Calculator page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the Income Tax Calculator page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -858,7 +858,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { q: 'Is the income tax calculator accurate for FY 2026–27?', a: 'Yes, the income tax calculator is accurate for FY 2026–27 as long as you enter all your income details correctly. It applies the latest slab rates, exemptions, and deductions applicable for this financial year. By including salary, interest, capital gains, and other income, it provides a reliable estimate of your tax liability, helping you plan your finances without surprises.' },
             { q: 'Which tax regime is better for salaried employees?', a: 'The better tax regime for salaried employees depends on your income structure and deductions. The old regime benefits those who claim exemptions like HRA, 80C, and other deductions, while the new regime offers lower slab rates but minimal deductions. Using the income tax calculator allows you to compare both options side by side, so you can choose the regime that gives you the lowest tax liability.' },
             { q: 'Can I use an income tax calculator before filing ITR?', a: 'Yes, you can use an income tax calculator before filing your ITR to estimate your total tax liability. By entering your income, deductions, and exemptions, you can see how much tax you owe in advance. This helps you plan investments, check TDS adequacy, and avoid surprises during filing, making the entire ITR process smoother and more predictable.' },
-            { q: 'Is Your Professional’s income tax calculator free to use?', a: 'Yes, Your Professional’s income tax calculator is completely free to use for everyone. You don’t need to sign up or pay any fees to calculate your tax. It allows you to quickly estimate your tax liability, compare old and new regimes, and plan deductions, all without any hidden charges, making it a convenient tool for salaried employees and other taxpayers alike.' },
+            { q: 'Is Your Professionals’s income tax calculator free to use?', a: 'Yes, Your Professionals’s income tax calculator is completely free to use for everyone. You don’t need to sign up or pay any fees to calculate your tax. It allows you to quickly estimate your tax liability, compare old and new regimes, and plan deductions, all without any hidden charges, making it a convenient tool for salaried employees and other taxpayers alike.' },
         ],
         cta: {
             heading: 'Try the Income Tax Calculator Now',
@@ -876,7 +876,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'tds-interest-calculator',
         title: 'TDS Interest Calculator',
         subtitle:
-            'Use Your Professional’s online TDS Interest Calculator to compute interest on delayed TDS payments under Section 201(1A) instantly. Simply enter the TDS amount, statutory due date, and actual deposit date to calculate the exact interest payable in seconds.',
+            'Use Your Professionals’s online TDS Interest Calculator to compute interest on delayed TDS payments under Section 201(1A) instantly. Simply enter the TDS amount, statutory due date, and actual deposit date to calculate the exact interest payable in seconds.',
         heroFeatures: [
             'Saves Time:Quickly calculates interest without manual computation.',
             'Accurate Results:Applies correct interest rates as prescribed under theIncome Tax Act.',
@@ -887,9 +887,9 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'TDS Interest Calculator Online',
             paragraphs: [
-                'Use Your Professional’s online TDS Interest Calculator to compute interest on delayed TDS payments under Section 201(1A) instantly. Simply enter the TDS amount, statutory due date, and actual deposit date to calculate the exact interest payable in seconds.',
+                'Use Your Professionals’s online TDS Interest Calculator to compute interest on delayed TDS payments under Section 201(1A) instantly. Simply enter the TDS amount, statutory due date, and actual deposit date to calculate the exact interest payable in seconds.',
                 'Delayed deposit of TDS can result in interest liability under Section 201(1A) of the Income Tax Act. Calculating the correct monthly interest rate for delays can be tricky. Even small mistakes in these calculations can result in compliance issues or extra penalties.',
-                'Your Professional’s Free TDS Interest Calculator eliminates this complexity by instantly computing the applicable interest based on the statutory due date and actual payment date. This tool helps businesses and deductors determine the exact payable amount quickly and stay compliant.',
+                'Your Professionals’s Free TDS Interest Calculator eliminates this complexity by instantly computing the applicable interest based on the statutory due date and actual payment date. This tool helps businesses and deductors determine the exact payable amount quickly and stay compliant.',
                 'A TDS Interest Calculator is an online tool designed to calculate interest on delayed TDS payments quickly and accurately. It helps deductors determine the interest payable under Section 201(1A) of the Income Tax Act for various types of TDS, including salary payments, professional fees, contractor payments, and interest income.',
             ],
             highlights: [
@@ -908,7 +908,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the TDS Interest Calculator page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the TDS Interest Calculator page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -928,7 +928,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { q: 'Is interest applicable for a one-day delay in TDS payment?', a: 'Yes. Under Section 201(1A), even a one-day delay is treated as a delay of one full month.Interest will apply at:1% per month(late deduction), or1.5% per month(late deposit).' },
             { q: 'Can TDS interest be waived?', a: 'Generally, TDS interest cannot be waived because it is mandatory under the Income Tax Act. The tax authorities charge it automatically for late deduction or late deposit. In rare cases, relief may be granted by higher authorities under specific conditions, but this is not common.' },
             { q: 'Why should I use an online TDS Interest Calculator?', a: 'An online TDS Interest Calculator helps you:Instantly compute interest liabilityAvoid manual calculation errorsApply the correct 1% or 1.5% rateEnsure compliance with Section 201(1A)It provides quick and accurate results for delayed TDS payments.' },
-            { q: 'How does Your Professional’s TDS Interest Calculator help you?', a: 'Your Professional’s TDS Interest Calculator helps you instantly determine the exact interest payable on delayed TDS under Section 201(1A). It eliminates manual calculations, applies the correct 1% or 1.5% monthly interest rate automatically, and ensures accurate results based on the statutory due date and actual payment date. By using the tool, businesses and deductors can avoid errors, prevent penalties, and stay fully compliant with Income Tax regulations.' },
+            { q: 'How does Your Professionals’s TDS Interest Calculator help you?', a: 'Your Professionals’s TDS Interest Calculator helps you instantly determine the exact interest payable on delayed TDS under Section 201(1A). It eliminates manual calculations, applies the correct 1% or 1.5% monthly interest rate automatically, and ensures accurate results based on the statutory due date and actual payment date. By using the tool, businesses and deductors can avoid errors, prevent penalties, and stay fully compliant with Income Tax regulations.' },
         ],
         cta: {
             heading: 'Try the TDS Interest Calculator Now',
@@ -946,7 +946,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'tds-calculator',
         title: 'TDS Calculator',
         subtitle:
-            'Use Your Professional’s free TDS Calculator to instantly calculate TDS on salary, professional fees, and contractor payments. Get accurate results in seconds and ensure compliance with Income Tax rules.',
+            'Use Your Professionals’s free TDS Calculator to instantly calculate TDS on salary, professional fees, and contractor payments. Get accurate results in seconds and ensure compliance with Income Tax rules.',
         heroFeatures: [
             'Nature of payment (salary, professional fees, rent, interest, contractor payments, etc.)',
             'Residency status of the payee (resident or non-resident)',
@@ -957,9 +957,9 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'TDS Calculator Online in India',
             paragraphs: [
-                'Use Your Professional’s free TDS Calculator to instantly calculate TDS on salary, professional fees, and contractor payments. Get accurate results in seconds and ensure compliance with Income Tax rules.',
+                'Use Your Professionals’s free TDS Calculator to instantly calculate TDS on salary, professional fees, and contractor payments. Get accurate results in seconds and ensure compliance with Income Tax rules.',
                 'Incorrect TDS calculation often leads to compliance issues, high penalties, and filing errors. Applying the correct TDS rate based on the type of payment and threshold limits gets confusing, especially when multiple transactions are involved.',
-                'Your Professional’s TDS Calculator simplifies this process by automatically applying the applicable TDS rates as per the Income Tax Act. Whether you are calculating TDS on salary, professional fees, or business payments, the tool provides quick and accurate results to help you stay compliant and file returns confidently.',
+                'Your Professionals’s TDS Calculator simplifies this process by automatically applying the applicable TDS rates as per the Income Tax Act. Whether you are calculating TDS on salary, professional fees, or business payments, the tool provides quick and accurate results to help you stay compliant and file returns confidently.',
                 'A TDS Calculator is an online tool used to determine the exact amount of Tax Deducted at Source (TDS) before making a payment. It calculates the applicable TDS based on key factors such as:',
             ],
             highlights: [
@@ -978,7 +978,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the TDS Calculator page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the TDS Calculator page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -1015,7 +1015,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'ppf-calculator',
         title: 'PPF Calculator',
         subtitle:
-            'Use Your Professional’s free PPF Calculator to estimate your Public Provident Fund returns instantly. Calculate total investment, interest earned, and maturity amount for your selected tenure in seconds.',
+            'Use Your Professionals’s free PPF Calculator to estimate your Public Provident Fund returns instantly. Calculate total investment, interest earned, and maturity amount for your selected tenure in seconds.',
         heroFeatures: [
             'Annual investment amount (up to the maximum allowed limit of₹1.5 lakh per financial year)',
             'Tenure (minimum15 years, which can be extended in 5-year blocks after maturity)',
@@ -1026,8 +1026,8 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'PPF Calculator Online in India',
             paragraphs: [
-                'Use Your Professional’s free PPF Calculator to estimate your Public Provident Fund returns instantly. Calculate total investment, interest earned, and maturity amount for your selected tenure in seconds.',
-                'Planning your PPF investment can be confusing due to compounding interest calculations and long lock-in periods. Your Professional’s online PPF Calculator helps accurately estimate your total investment, interest earned, and maturity amount in seconds. Simply enter your annual deposit, tenure, and applicable interest rate to plan your long-term savings efficiently.',
+                'Use Your Professionals’s free PPF Calculator to estimate your Public Provident Fund returns instantly. Calculate total investment, interest earned, and maturity amount for your selected tenure in seconds.',
+                'Planning your PPF investment can be confusing due to compounding interest calculations and long lock-in periods. Your Professionals’s online PPF Calculator helps accurately estimate your total investment, interest earned, and maturity amount in seconds. Simply enter your annual deposit, tenure, and applicable interest rate to plan your long-term savings efficiently.',
                 'A PPF calculator is an online tool that helps you estimate how your Public Provident Fund (PPF) investment grows over time based on annual contributions and prevailing interest rates.',
                 'To calculate projected returns, you simply enter:',
             ],
@@ -1047,7 +1047,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the PPF Calculator page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the PPF Calculator page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -1099,7 +1099,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         slug: 'gst-interest-calculator',
         title: 'GST Interest Calculator',
         subtitle:
-            'Use Your Professional’s free GST Interest Calculator to calculate the interest payable on delayed GST payments instantly. Enter your tax amount and delay period to estimate GST interest and stay compliant with GST regulations.',
+            'Use Your Professionals’s free GST Interest Calculator to calculate the interest payable on delayed GST payments instantly. Enter your tax amount and delay period to estimate GST interest and stay compliant with GST regulations.',
         heroFeatures: [
             'GST is paidafter the due date',
             'Tax isunder-reported or underpaid',
@@ -1110,8 +1110,8 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
         overview: {
             heading: 'GST Interest Calculator Online',
             paragraphs: [
-                'Use Your Professional’s free GST Interest Calculator to calculate the interest payable on delayed GST payments instantly. Enter your tax amount and delay period to estimate GST interest and stay compliant with GST regulations.',
-                'Paying GST late can be confusing, as interest on delayed GST payments accumulates daily based on the outstanding tax amount and the delay period. Your Professional’s online GST Interest Calculator helps you quickly calculate the interest payable in seconds. Simply enter your outstanding GST amount, interest rate, and number of delayed days to instantly see the total GST interest.',
+                'Use Your Professionals’s free GST Interest Calculator to calculate the interest payable on delayed GST payments instantly. Enter your tax amount and delay period to estimate GST interest and stay compliant with GST regulations.',
+                'Paying GST late can be confusing, as interest on delayed GST payments accumulates daily based on the outstanding tax amount and the delay period. Your Professionals’s online GST Interest Calculator helps you quickly calculate the interest payable in seconds. Simply enter your outstanding GST amount, interest rate, and number of delayed days to instantly see the total GST interest.',
                 'GST interest in India is theextra amount you must pay if you delay your GST payment. When a business does not pay GST by the due date (usually the 20th of the following month for GSTR-3B filers), the government charges interest on the unpaid amount. This rule encourages taxpayers to pay their taxes on time and follow GST regulations.',
                 'UnderSection 50 of the Central Goods and Services Tax (CGST) Act, 2017, GST interest is applicable in the following situations:',
             ],
@@ -1131,7 +1131,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { category: 'Required Information', items: ['No documents required — this is a free online tool'] },
         ],
         process: [
-            { title: 'Access the Tool', desc: 'Visit the GST Interest Calculator page on Your Professional website.' },
+            { title: 'Access the Tool', desc: 'Visit the GST Interest Calculator page on Your Professionals website.' },
             { title: 'Enter Details', desc: 'Input the required information into the calculator or search tool.' },
             { title: 'Get Results', desc: 'View instant results and take informed decisions based on accurate data.' },
         ],
@@ -1161,7 +1161,7 @@ export const TOOLS_CALCULATORS: Record<string, ServiceData> = {
             { q: 'What details are required to use a GST interest calculator online?', a: 'To use a GST interest calculator online, you usually need to enter three basic details: the GST amount due, the applicable interest rate, and the number of days the payment is delayed. Once you provide these inputs, the calculator automatically estimates the interest payable on the delayed GST amount. This helps taxpayers quickly understand their additional liability before filing returns or clearing pending tax dues.' },
             { q: 'What happens if you delay both GST payment and GST return filing?', a: 'If you delay both GST payment and GST return filing, you may have to pay both GST interest and late filing fees. Interest will apply to the unpaid tax amount for the period of delay, while late fees will apply to the delayed filing of the return. These charges accumulate separately, which can significantly increase the total payable amount if the delay continues for many days.' },
             { q: 'How can businesses avoid GST interest and late filing penalties?', a: 'Businesses can avoid GST interest and late filing penalties by filing returns on time and paying the full GST liability before the due date. Maintaining accurate records, reconciling invoices regularly, and setting reminders for GST deadlines can also help. Many businesses use online GST tools or accounting software to track their tax obligations and ensure that payments and filings are completed without delays.' },
-            { q: 'Is GST interest auto-calculated on the GST portal?', a: 'Yes, theGST portal automatically calculates intereston delayed GST payments based on the outstanding tax liability and the delay period. Taxpayers are required to pay the calculated interest while filing their GST returns. However, usingYour Professional’s Online GST interest calculatorcan help estimate the interest amount in advance.' },
+            { q: 'Is GST interest auto-calculated on the GST portal?', a: 'Yes, theGST portal automatically calculates intereston delayed GST payments based on the outstanding tax liability and the delay period. Taxpayers are required to pay the calculated interest while filing their GST returns. However, usingYour Professionals’s Online GST interest calculatorcan help estimate the interest amount in advance.' },
             { q: 'Can GST interest be waived or reduced by the government?', a: 'Yes, in some cases, the government maywaive or reduce GST interest or late fees throughofficial notifications. Such relief is usually announced during special compliance drives or to help taxpayers clear pending GST returns. However, taxpayers must follow the conditions mentioned in the notification to claim the benefit.' },
         ],
         cta: {

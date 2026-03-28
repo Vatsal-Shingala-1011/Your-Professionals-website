@@ -75,7 +75,7 @@ export const COMPANY_COMPLIANCE: Record<string, ServiceData> = {
             { title: 'Step 14', desc: 'Bank account details' },
         ],
         fees: [
-            { item: 'Contact Your Professional for fee details', cost: 'Varies' },
+            { item: 'Contact Your Professionals for fee details', cost: 'Varies' },
         ],
         advantages: [
             { icon: '✅', title: 'Easier Access to Credit', desc: 'Registered MSMEs get lower-interest loans from banks and NBFCs, helping them fund growth without heavy interest burdens.' },
@@ -113,7 +113,7 @@ export const COMPANY_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With MSME Registration?',
-            subheading: 'Let Your Professional handle your msme registration requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your msme registration requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -215,11 +215,11 @@ export const COMPANY_COMPLIANCE: Record<string, ServiceData> = {
             { q: 'What Are an Employers Responsibilities After EPF Registration?', a: '' },
             { q: 'Can contract workers be covered under EPF?', a: '' },
             { q: 'How can employees check their EPF balance?', a: '' },
-            { q: 'Why should employers use a professional service like Your Professional for EPF registration?', a: '' },
+            { q: 'Why should employers use a professional service like Your Professionals for EPF registration?', a: '' },
         ],
         cta: {
             heading: 'Need Help With EPF Registration?',
-            subheading: 'Let Your Professional handle your epf registration requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your epf registration requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -372,7 +372,7 @@ export const COMPANY_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Shop & Establishment Registration?',
-            subheading: 'Let Your Professional handle your shop & establishment registration requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your shop & establishment registration requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',

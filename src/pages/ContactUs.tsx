@@ -171,7 +171,7 @@ export default function ContactUs() {
                                         </div>
                                         <div>
                                             <h3 className="text-lg font-bold text-[#090a3d] mb-1">Visit Our Office</h3>
-                                            <p className="text-gray-500 text-sm">Your Professional Services</p>
+                                            <p className="text-gray-500 text-sm">Your Professionals Services</p>
                                             <p className="text-gray-500 text-sm">Business Center, Surat, Gujarat, India</p>
                                         </div>
                                     </div>
@@ -186,7 +186,7 @@ export default function ContactUs() {
                     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                         <div className="text-center max-w-3xl mx-auto mb-12">
                             <h2 className="text-3xl md:text-4xl font-bold text-[#090a3d] mb-4">
-                                Empower Your Business With <span className="text-[var(--color-brand-secondary)]">Your Professional!</span>
+                                Empower Your Business With <span className="text-[var(--color-brand-secondary)]">Your Professionals!</span>
                             </h2>
                             <p className="text-gray-500 text-lg">
                                 We help businesses navigate the complex landscape of registrations, compliance, and legal requirements with ease and expertise.

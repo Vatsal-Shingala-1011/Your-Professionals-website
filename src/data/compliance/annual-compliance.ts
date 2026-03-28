@@ -118,7 +118,7 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With LLP Annual Compliance?',
-            subheading: 'Let Your Professional handle your llp annual compliance requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your llp annual compliance requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -199,14 +199,14 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
             { item: 'DIN and DSC Fees:Costs associated with obtaining Director Identification Numbers (DINs) and Digital Signature Certificates (DSCs) are also considered government fees.', cost: 'Contact for pricing' },
         ],
         advantages: [
-        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professional' },
+        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professionals' },
         ],
         faqs: [
             { q: 'What are the compliances for a private limited company immediately after incorporation?', a: 'Within 30 days:First Board Meeting, Appoint First Auditor, Open Bank Account.Within 60 days:Issue Share Certificates.Within 180 days:File Commencement of Business (INC-20A). Also, maintain statutory registers, disclose director interests, and consider GST/Professional Tax registration.' },
         ],
         cta: {
             heading: 'Need Help With Private Limited Annual Compliance?',
-            subheading: 'Let Your Professional handle your private limited annual compliance requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your private limited annual compliance requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -241,7 +241,7 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
             'All registered entities requiring compliance services',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
             { title: 'Step 1: Initial Consultation and Needs Assessment', desc: 'Connect with an expertto ensure the services meet your expectations and make any necessary adjustments to optimize the process. This ensures that the benefits of outsourcing bookkeeping services are consistently realized.' },
@@ -269,7 +269,7 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Outsource Bookkeeping Services?',
-            subheading: 'Let Your Professional handle your outsource bookkeeping services requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your outsource bookkeeping services requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -317,24 +317,24 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
             'For Businesses in Any Industry:No matter what you do, keeping accurate financial records is important for everyone. Our flexible services can be adjusted to fit the unique needs of any business sector.',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
-            { title: 'Consultation', desc: 'Connect with Your Professional experts' },
+            { title: 'Consultation', desc: 'Connect with Your Professionals experts' },
             { title: 'Filing', desc: 'Complete and submit required forms' },
         ],
         fees: [
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professional' },
+        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professionals' },
         ],
         faqs: [
             { q: 'Is it mandatory for my small business to maintain books of accounts in India?', a: 'Yes, under various Indian tax laws, most businesses, including small enterprises, are required to maintain proper books of accounts. This ensures legal compliance and provides a clear picture of the business’s financial health.' },
         ],
         cta: {
             heading: 'Need Help With Bookkeeping & Accounting Services?',
-            subheading: 'Let Your Professional handle your bookkeeping & accounting services requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your bookkeeping & accounting services requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -367,10 +367,10 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
             'All registered entities requiring compliance services',
         ],
         documents: [
-            { category: 'Required Documents', items: ['Contact Your Professional for document checklist'] },
+            { category: 'Required Documents', items: ['Contact Your Professionals for document checklist'] },
         ],
         process: [
-            { title: 'Consultation', desc: 'Connect with Your Professional experts' },
+            { title: 'Consultation', desc: 'Connect with Your Professionals experts' },
             { title: 'Filing', desc: 'Complete and submit required forms' },
         ],
         fees: [
@@ -382,14 +382,14 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
             { violation: 'Officers in default (such as Directors) may also face legal actions under Sectio', penalty: 'Officers in default (such as Directors) may also face legal actions under Section 406 and other provisions of the Companies Act.' },
         ],
         advantages: [
-        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professional' },
+        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professionals' },
         ],
         faqs: [
             { q: 'What is the minimum number of members a Nidhi Company must have?', a: 'A Nidhi Company must have at least 7 members when it is first incorporated. These members are the people who will join the company to save money and take loans. They are also known as the shareholders. The company must maintain a minimum of 200 members within the first year of operation to stay compliant with the rules.' },
         ],
         cta: {
             heading: 'Need Help With Nidhi Company Compliance?',
-            subheading: 'Let Your Professional handle your nidhi company compliance requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your nidhi company compliance requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -452,14 +452,14 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professional' },
+        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professionals' },
         ],
         faqs: [
             { q: 'Can changes be made to an LLP Agreement without partner consent?', a: 'No, changes to an LLP agreement cannot be made without the consent of all partners involved. A resolution must be passed with their approval.' },
         ],
         cta: {
             heading: 'Need Help With Change in LLP Agreement?',
-            subheading: 'Let Your Professional handle your change in llp agreement requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your change in llp agreement requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -539,7 +539,7 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Appointment of Auditor?',
-            subheading: 'Let Your Professional handle your appointment of auditor requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your appointment of auditor requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -611,21 +611,21 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
             ] },
         ],
         process: [
-            { title: 'Consultation', desc: 'Connect with Your Professional experts' },
+            { title: 'Consultation', desc: 'Connect with Your Professionals experts' },
             { title: 'Filing', desc: 'Complete and submit required forms' },
         ],
         fees: [
             { item: 'Professional Fees', cost: 'Contact for pricing' },
         ],
         advantages: [
-        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professional' },
+        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professionals' },
         ],
         faqs: [
             { q: 'What is the last date to file ITR for an NGO?', a: 'The last date to file ITR for most NGOs is 31st July if audit is not required, and 30th September or 31st October if audit is required, for the relevant assessment year.' },
         ],
         cta: {
             heading: 'Need Help With NGO Compliance?',
-            subheading: 'Let Your Professional handle your ngo compliance requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your ngo compliance requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -695,7 +695,7 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
             ] },
         ],
         process: [
-            { title: 'Consultation', desc: 'Connect with Your Professional experts' },
+            { title: 'Consultation', desc: 'Connect with Your Professionals experts' },
             { title: 'Filing', desc: 'Complete and submit required forms' },
         ],
         fees: [
@@ -709,14 +709,14 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
             { item: 'Professional Charges:Fees for consultants or lawyers who assist with compliance, drafting resolutions, preparing documents, or providing advisory services. This might include:Bookkeeping and accounting services.Preparation and filing of annual returns with the Registrar.GST return preparation and filing.TDS compliance.Advisory on specific legal or procedural matters.', cost: 'Contact for pricing' },
         ],
         advantages: [
-        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professional' },
+        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professionals' },
         ],
         faqs: [
             { q: 'Is it compulsory for all societies to do annual filing?', a: 'Yes, annual filing is mandatory for all societies registered under the Societies Registration Act, 1860, or respective state laws. Societies must submit audited financials, a list of governing members, and an activity report annually to the Registrar of Societies. Non-compliance can lead to penalties or even cancellation of registration.' },
         ],
         cta: {
             heading: 'Need Help With Annual Compliance for Society?',
-            subheading: 'Let Your Professional handle your annual compliance for society requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your annual compliance for society requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -792,7 +792,7 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Annual Compliance for Partnership?',
-            subheading: 'Let Your Professional handle your annual compliance for partnership requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your annual compliance for partnership requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -897,7 +897,7 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Form INC-20A?',
-            subheading: 'Let Your Professional handle your form inc-20a requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your form inc-20a requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -990,7 +990,7 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
         ],
         cta: {
             heading: 'Need Help With Trust Annual Compliance?',
-            subheading: 'Let Your Professional handle your trust annual compliance requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your trust annual compliance requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',
@@ -1091,14 +1091,14 @@ export const ANNUAL_COMPLIANCE: Record<string, ServiceData> = {
             { item: 'For a standard partnership firm ITR filing without an audit, fees could range from Rs. 5,000 to Rs. 10,000 or more.', cost: 'Contact for pricing' },
         ],
         advantages: [
-        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professional' },
+        { icon: '✅', title: 'Expert Compliance Support', desc: 'Dedicated compliance manager from Your Professionals' },
         ],
         faqs: [
             { q: 'Is it compulsory to file a tax return for a dormant partnership firm?', a: 'Yes, even a dormant partnership firm is generally required to file an income tax return. While it may not have active business operations or significant income, the Income Tax Act, 1961, mandates all firms to file a return, especially if they are registered. This ensures compliance and provides a record of the firms status.' },
         ],
         cta: {
             heading: 'Need Help With Partnership Firm Tax Return Filing?',
-            subheading: 'Let Your Professional handle your partnership firm tax return filing requirements with expert guidance and timely filing.',
+            subheading: 'Let Your Professionals handle your partnership firm tax return filing requirements with expert guidance and timely filing.',
             features: [
                 'Expert Compliance Professionals',
                 'Timely Filing Guarantee',

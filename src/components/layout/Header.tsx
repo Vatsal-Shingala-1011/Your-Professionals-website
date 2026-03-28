@@ -196,8 +196,8 @@ export default function Header() {
             <div className="px-6 py-3 flex justify-between items-center h-16 relative">
                 {/* Logo */}
                 <Link to="/" className={`flex items-center gap-3 font-bold text-xl transition-opacity duration-300 text-[#090a3d] ${isSearchOpen ? 'opacity-0 md:opacity-100' : 'opacity-100'}`}>
-                    <img src={logo} alt="Your Professional Logo" className="h-8 md:h-10 object-contain -mt-1 transition-all duration-300" />
-                    <span className="hidden sm:block">Your Professional</span>
+                    <img src={logo} alt="Your Professionals Logo" className="h-8 md:h-10 object-contain -mt-1 transition-all duration-300" />
+                    <span className="hidden sm:block">Your Professionals</span>
                 </Link>
 
                 {/* Desktop Nav - Centered OR Search Bar */}

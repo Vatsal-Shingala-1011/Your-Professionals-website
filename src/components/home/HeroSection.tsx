@@ -1,5 +1,7 @@
 import { useState } from 'react';
-// import google_logo from '../../assets/google.svg';
+import heroBg from '../../assets/hero-bg.jpeg';
+import logoText from '../../assets/Logo_text.png';
+import logoImage from '../../assets/Logo_image.png';
 
 const SERVICES_LIST = [
     "Private Limited Company Registration",
@@ -31,8 +33,6 @@ const COUNTRY_CODES = [
 export default function HeroSection() {
     const [phoneError, setPhoneError] = useState('');
     const [emailError, setEmailError] = useState('');
-
-    // Form States
     const [isSubmitting, setIsSubmitting] = useState(false);
     const [submitSuccess, setSubmitSuccess] = useState(false);
     const [formData, setFormData] = useState({
@@ -55,9 +55,7 @@ export default function HeroSection() {
 
     const handleEmailChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         const val = e.target.value;
-        // Basic email regex for real-time typing feedback
         const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-
         if (val.length > 0 && !emailRegex.test(val)) {
             setEmailError('Please enter a valid email address.');
         } else {
@@ -68,8 +66,6 @@ export default function HeroSection() {
 
     const handleFormSubmit = async (e: React.SyntheticEvent) => {
         e.preventDefault();
-
-        // Basic validation check before submit
         if (phoneError || emailError || !formData.name || !formData.phone || !formData.email || !formData.service) {
             alert('Please fill all fields correctly before submitting.');
             return;
@@ -78,34 +74,20 @@ export default function HeroSection() {
         setIsSubmitting(true);
         try {
             const GOOGLE_SCRIPT_URL = import.meta.env.VITE_GOOGLE_SCRIPT_URL;
-
             const formBody = new URLSearchParams();
             formBody.append("Name", formData.name);
             formBody.append("Phone", `${formData.phoneCode} ${formData.phone}`);
             formBody.append("Email", formData.email);
             formBody.append("Service", formData.service);
 
-            // Append parameters directly to the URL to bypass no-cors POST body stripping 
             await fetch(`${GOOGLE_SCRIPT_URL}?${formBody.toString()}`, {
                 method: "POST",
                 mode: "no-cors"
             });
 
-            // Success handling
             setSubmitSuccess(true);
-
-            // Reset form
-            setFormData({
-                name: "",
-                phoneCode: "+91",
-                phone: "",
-                email: "",
-                service: ""
-            });
-
-            // Hide success message after 5 seconds
+            setFormData({ name: "", phoneCode: "+91", phone: "", email: "", service: "" });
             setTimeout(() => setSubmitSuccess(false), 5000);
-
         } catch (error) {
             console.error("Submission failed:", error);
             alert("Something went wrong. Please try again.");
@@ -115,58 +97,91 @@ export default function HeroSection() {
     };
 
     return (
-        <section className="bg-[#090a3d] pt-32 lg:pt-40 pb-16 lg:pb-24 px-4 md:px-8 relative overflow-hidden text-white flex flex-col items-center">
-            {/* Decorative Glowing Elements */}
-            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-4xl h-96 bg-[var(--color-brand-secondary)] opacity-10 blur-[120px] rounded-full z-0"></div>
+        <section className="relative pt-24 lg:pt-28 overflow-hidden">
+            <div className="flex flex-col lg:flex-row min-h-[80vh]">
 
-            <div className="container mx-auto flex flex-col items-center relative z-10 text-center max-w-6xl">
+                {/* LEFT 60% - Background image with text overlay */}
+                <div className="relative w-full lg:w-[70%] flex flex-col justify-between p-6 md:p-10 lg:p-12 xl:p-16 min-h-[50vh] lg:min-h-0">
+                    {/* Background image */}
+                    <img
+                        src={heroBg}
+                        alt=""
+                        className="absolute inset-0 w-full h-full object-cover object-center z-0"
+                    />
+                    {/* Dark overlay for text readability */}
+                    <div className="absolute inset-0 bg-black/30 z-[1]"></div>
 
-                {/* Headlines */}
-                <h1 className="text-4xl md:text-5xl lg:text-[64px] font-extrabold text-white leading-tight mb-6">
-                    Get your business incorporated in just 5 days
-                </h1>
+                    {/* Top content */}
+                    <div className="relative z-10">
+                        {/* Logo */}
+                        {/* <div className="flex items-center gap-3 mb-8">
+                            <img src={logoImage} alt="Your Professionals Logo" className="h-12 md:h-14 w-auto" />
+                            <img src={logoText} alt="Your Professionals Logo" className="h-8 md:h-10 object-contain -mt-1 transition-all duration-300" />
+                        </div> */}
 
-                <p className="text-lg md:text-xl text-gray-300 max-w-3xl mb-8">
-                    Get fast, reliable, and customizable online business solutions & legal services with free consultation with experts.
-                </p>
+                        {/* Tagline */}
+                        <h1 className="text-3xl md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#e8a800] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
+                            Complete Business 
+                            <br />
+                               Solutions
+                        </h1>
+                    </div>
 
-                {/* The Glowing Consultation Form */}
-                <div className="bg-white/95 backdrop-blur-md rounded-2xl p-6 md:p-8 w-full max-w-4xl shadow-[0_0_60px_rgba(199,145,0,0.2)] md:shadow-[0_0_100px_rgba(199,145,0,0.3)] border border-gray-400 relative z-20">
-                    {submitSuccess && (
-                        <div className="mb-4 p-3 bg-green-100 border border-green-400 text-green-700 rounded text-sm font-semibold text-center">
-                            Thank you! Your information has been submitted successfully.
+                    {/* Bottom tagline - same style as top heading, no box */}
+                    <div className="relative z-10 mt-auto pb-60">
+                        <h2 className="text-3xl md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#001a4d] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
+                            India's Fastest
+                            <br />
+                            service provider
+                        </h2>
+                    </div>
+                </div>
+
+                {/* RIGHT 40% - Form */}
+                <div className="w-full lg:w-[30%] bg-[#3d3322] flex items-center justify-center p-6 md:p-8 lg:p-10">
+                    <div className="w-full max-w-md">
+                        {/* Form Header */}
+                        <div className="text-center mb-6">
+                            <h2 className="text-white text-lg md:text-xl font-bold leading-snug">
+                                Submit your Details to get an Instant{' '}
+                                <span className="text-[#e8a800] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">All-inclusive</span>{' '}
+                                Quote to your email and a{' '}
+                                <span className="text-[#e8a800] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">FREE</span>{' '}
+                                Expert consultation
+                            </h2>
                         </div>
-                    )}
-                    <form className="flex flex-col gap-4" onSubmit={handleFormSubmit}>
-                        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                            {/* Name Input */}
+
+                        {submitSuccess && (
+                            <div className="mb-4 p-3 bg-green-900/40 border border-green-500 text-green-300 rounded-lg text-sm font-semibold text-center">
+                                ✓ Thank you! Your information has been submitted successfully.
+                            </div>
+                        )}
+
+                        <form className="flex flex-col gap-5" onSubmit={handleFormSubmit}>
                             <input
                                 type="text"
-                                placeholder="Enter Your Name"
+                                placeholder="Full Name"
                                 value={formData.name}
                                 onChange={(e) => setFormData({ ...formData, name: e.target.value })}
                                 required
-                                className="w-full bg-white border border-gray-400 rounded-lg px-4 py-3 text-black placeholder-black focus:outline-none focus:border-[var(--color-brand-secondary)] focus:ring-1 focus:ring-[var(--color-brand-secondary)]"
+                                className="w-full bg-[#4d432e] border-none rounded-md px-4 py-3.5 text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-[var(--color-brand-secondary)] transition-colors"
                             />
 
-                            {/* Phone Input with Country Code */}
                             <div>
-                                <div className={`flex rounded-lg border bg-white overflow-hidden focus-within:ring-1 ${phoneError ? 'border-red-500 focus-within:border-red-500 focus-within:ring-red-500' : 'border-gray-400 focus-within:border-[var(--color-brand-secondary)] focus-within:ring-[var(--color-brand-secondary)]'}`}>
+                                <div className={`flex rounded-md overflow-hidden focus-within:ring-2 ${phoneError ? 'ring-2 ring-red-500' : 'focus-within:ring-[var(--color-brand-secondary)]'}`}>
                                     <select
-                                        className={`bg-gray-100 border-r px-3 py-3 text-black focus:outline-none cursor-pointer ${phoneError ? 'border-red-500' : 'border-gray-400'}`}
+                                        className="bg-[#4d432e] border-r border-[#5d533e] px-3 py-3.5 text-white focus:outline-none cursor-pointer"
                                         value={formData.phoneCode}
                                         onChange={(e) => setFormData({ ...formData, phoneCode: e.target.value })}
                                     >
                                         {COUNTRY_CODES.map((code) => (
-                                            <option key={code} value={code}>
-                                                {code}
-                                            </option>
+                                            <option key={code} value={code}>{code}</option>
                                         ))}
                                     </select>
                                     <input
                                         type="tel"
-                                        placeholder="Enter your PhoneNo."
-                                        className="w-full bg-transparent px-4 py-3 text-black placeholder-black focus:outline-none"
+                                        placeholder="Mobile Number"
+                                        className="w-full bg-[#4d432e] px-4 py-3.5 text-white placeholder-gray-300 focus:outline-none"
                                         maxLength={10}
                                         value={formData.phone}
                                         onChange={(e) => {
@@ -176,56 +191,53 @@ export default function HeroSection() {
                                         required
                                     />
                                 </div>
-                                {phoneError && <p className="text-red-500 text-xs mt-1 absolute">{phoneError}</p>}
+                                {phoneError && <p className="text-red-400 text-xs mt-1">{phoneError}</p>}
                             </div>
 
-                            {/* Email Input */}
                             <div>
                                 <input
                                     type="email"
                                     placeholder="Enter your Email"
                                     value={formData.email}
-                                    className={`w-full bg-white border rounded-lg px-4 py-3 text-black placeholder-black focus:outline-none focus:ring-1 ${emailError ? 'border-red-500 focus:border-red-500 focus:ring-red-500' : 'border-gray-400 focus:border-[var(--color-brand-secondary)] focus:ring-[var(--color-brand-secondary)]'}`}
+                                    className={`w-full bg-[#4d432e] border-none rounded-md px-4 py-3.5 text-white placeholder-gray-300 focus:outline-none focus:ring-2 transition-colors ${emailError ? 'ring-2 ring-red-500' : 'focus:ring-[var(--color-brand-secondary)]'}`}
                                     onChange={handleEmailChange}
                                     required
                                 />
-                                {emailError && <p className="text-red-500 text-xs mt-1 absolute">{emailError}</p>}
+                                {emailError && <p className="text-red-400 text-xs mt-1">{emailError}</p>}
                             </div>
-                        </div>
 
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            {/* Service Selection */}
                             <div className="relative">
                                 <select
-                                    className="w-full bg-white border border-gray-400 rounded-lg px-4 py-3 text-black appearance-none focus:outline-none focus:border-[var(--color-brand-secondary)] focus:ring-1 focus:ring-[var(--color-brand-secondary)] cursor-pointer"
+                                    className="w-full bg-[#4d432e] border-none rounded-md px-4 py-3.5 text-white appearance-none focus:outline-none focus:ring-2 focus:ring-[var(--color-brand-secondary)] cursor-pointer transition-colors"
                                     value={formData.service}
                                     onChange={(e) => setFormData({ ...formData, service: e.target.value })}
                                     required
                                 >
                                     <option value="" disabled>Select your service</option>
                                     {SERVICES_LIST.map((serviceName) => (
-                                        <option key={serviceName} value={serviceName}>
-                                            {serviceName}
-                                        </option>
+                                        <option key={serviceName} value={serviceName}>{serviceName}</option>
                                     ))}
                                 </select>
-                                <div className="absolute inset-y-0 right-0 flex items-center px-4 pointer-events-none text-gray-500">
-                                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path></svg>
+                                <div className="absolute inset-y-0 right-0 flex items-center px-4 pointer-events-none text-gray-300">
+                                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path></svg>
                                 </div>
                             </div>
 
-                            {/* Submit Button */}
                             <button
                                 type="submit"
                                 disabled={isSubmitting}
-                                className={`w-full bg-[var(--color-brand-secondary)] hover:bg-[#a17500] text-white font-bold rounded-lg px-4 py-3 transition-colors uppercase tracking-wide text-sm shadow-md ${isSubmitting ? 'opacity-70 cursor-not-allowed' : ''}`}
+                                className={`w-full bg-[var(--color-brand-secondary)] hover:bg-[#d4a017] text-white font-bold rounded-md px-4 py-4 transition-all tracking-wide text-base shadow-lg ${isSubmitting ? 'opacity-70 cursor-not-allowed' : ''}`}
                             >
-                                {isSubmitting ? 'Submitting...' : 'Claim Your Free Consultation'}
+                                {isSubmitting ? (
+                                    <span className="flex items-center justify-center gap-2">
+                                        <svg className="animate-spin h-4 w-4" viewBox="0 0 24 24"><circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" /><path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" /></svg>
+                                        Submitting...
+                                    </span>
+                                ) : 'Get a Detailed Quotation'}
                             </button>
-                        </div>
-                    </form>
+                        </form>
+                    </div>
                 </div>
-
             </div>
         </section>
     );

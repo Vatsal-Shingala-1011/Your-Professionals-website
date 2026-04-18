@@ -1,6 +1,8 @@
 import { useState, useRef, useEffect, useCallback } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import logo from '../../assets/logo.svg';
+import text_logo from '../../assets/Logo_text.png';
+import image_logo from '../../assets/Logo_image.png';
 import { SERVICES } from '../../data/services';
 import {
     REGISTRATION_MENU_ITEMS, GOVERNMENT_REGISTRATION_MENU_ITEMS,
@@ -196,8 +198,10 @@ export default function Header() {
             <div className="px-6 py-3 flex justify-between items-center h-16 relative">
                 {/* Logo */}
                 <Link to="/" className={`flex items-center gap-3 font-bold text-xl transition-opacity duration-300 text-[#090a3d] ${isSearchOpen ? 'opacity-0 md:opacity-100' : 'opacity-100'}`}>
-                    <img src={logo} alt="Your Professionals Logo" className="h-8 md:h-10 object-contain -mt-1 transition-all duration-300" />
-                    <span className="hidden sm:block">Your Professionals</span>
+                    {/* <img src={logo} alt="Your Professionals Logo" className="h-8 md:h-10 object-contain -mt-1 transition-all duration-300" /> */}
+                    <img src={image_logo} alt="Your Professionals Logo" className="h-8 md:h-10 object-contain -mt-1 transition-all duration-300" />
+                    <img src={text_logo} alt="Your Professionals Logo" className="h-8 md:h-10 object-contain -mt-1 transition-all duration-300" />
+                    {/* <span className="hidden sm:block">Your Professionals</span> */}
                 </Link>
 
                 {/* Desktop Nav - Centered OR Search Bar */}

@@ -1,7 +1,5 @@
 import { useState } from 'react';
 import heroBg from '../../assets/hero-bg.jpeg';
-import logoText from '../../assets/Logo_text.png';
-import logoImage from '../../assets/Logo_image.png';
 
 const SERVICES_LIST = [
     "Private Limited Company Registration",

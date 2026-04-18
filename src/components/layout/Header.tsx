@@ -1,6 +1,5 @@
 import { useState, useRef, useEffect, useCallback } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import logo from '../../assets/logo.svg';
 import text_logo from '../../assets/Logo_text.png';
 import image_logo from '../../assets/Logo_image.png';
 import { SERVICES } from '../../data/services';

@@ -6,7 +6,7 @@ export default function FAQSection() {
             question: "What are the rules for picking a name for a private limited company?",
             answer: "The registrar of companies (RoC) across India expect applicants to follow a few naming guidelines. Some of them are subjective, which means that approval can depend on the opinion of the officer handling your application. However, the more closely you follow the rules listed below, the better your chances of approval. First, however, do ensure that your name is available."
         },
-        { question: "How much time is needed for setting up a private limited company in India?", answer: "Typically, it takes about 10-15 working days to register a Private Limited Company, subject to document availability and government processing times." },
+        { question: "How much time is needed for setting up a private limited company in India?", answer: "Typically, it takes about 5-7 working days to register a Private Limited Company, subject to document availability and government processing times." },
         { question: "Do I need to be physically present during this process?", answer: "No, the entire company registration process is conducted online. You can send us the scanned copies of your documents to get started." },
         { question: "What documents are required to complete the process?", answer: "We require PAN cards, address proofs of directors, and a registered office address proof like an electricity bill or rent agreement." },
         { question: "Does a private limited company have continuous existence?", answer: "Yes, a private limited company has 'perpetual succession', meaning its existence is uninterrupted by the death or departure of its members." }

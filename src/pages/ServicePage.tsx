@@ -315,7 +315,7 @@ function FAQSection({ data }: { data: ServiceData }) {
 /* ═══════════════════ WHY CHOOSE US ═══════════════════ */
 function WhyChooseUsSection() {
     const reasons = [
-        { icon: '👨‍💼', title: 'Expert CA & CS Team', desc: 'Qualified Chartered Accountants and Company Secretaries handle your filing.' },
+        { icon: '👨‍💼', title: 'Expert Professionals Team ', desc: 'Qualified Chartered Accountants and Company Secretaries handle your filing.' },
         { icon: '⚡', title: 'Fast Processing', desc: 'Quick turnaround with dedicated support at every step.' },
         { icon: '💰', title: 'Transparent Pricing', desc: 'No hidden charges. Know exactly what you pay for.' },
         { icon: '🔒', title: '100% Data Security', desc: 'Your documents and data are encrypted and confidential.' },
@@ -324,7 +324,7 @@ function WhyChooseUsSection() {
     ];
     return (
         <Section id="why-choose-us" className="bg-[#090a3d]">
-            <SectionTitle badge="Why Your Professionals" title="Why Choose Us?" />
+            <SectionTitle badge="Why Your Professionals need to shown prominently" title="Why Choose Us?" />
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 {reasons.map((r, i) => (
                     <div key={i} className="bg-white/5 backdrop-blur-sm border border-white/10 p-6 rounded-2xl hover:bg-white/10 transition-colors">

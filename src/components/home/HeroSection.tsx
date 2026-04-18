@@ -120,7 +120,7 @@ export default function HeroSection() {
                         </div> */}
 
                         {/* Tagline */}
-                        <h1 className="text-3xl md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#e8a800] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
+                        <h1 className="text-3xl md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#c79100] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
                             Complete Business 
                             <br />
                                Solutions
@@ -129,7 +129,7 @@ export default function HeroSection() {
 
                     {/* Bottom tagline - same style as top heading, no box */}
                     <div className="relative z-10 mt-auto pb-60">
-                        <h2 className="text-3xl md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#001a4d] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
+                        <h2 className="text-3xl md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#090a3d] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
                             India's Fastest
                             <br />
                             service provider
@@ -144,9 +144,9 @@ export default function HeroSection() {
                         <div className="text-center mb-6">
                             <h2 className="text-white text-lg md:text-xl font-bold leading-snug">
                                 Submit your Details to get an Instant{' '}
-                                <span className="text-[#e8a800] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">All-inclusive</span>{' '}
+                                <span className="text-[#c79100] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">All-inclusive</span>{' '}
                                 Quote to your email and a{' '}
-                                <span className="text-[#e8a800] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">FREE</span>{' '}
+                                <span className="text-[#c79100] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">FREE</span>{' '}
                                 Expert consultation
                             </h2>
                         </div>

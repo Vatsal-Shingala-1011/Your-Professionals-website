@@ -14,16 +14,17 @@ import {
     CONVERT_BUSINESS_MENU_ITEMS,
     TRADEMARK_MENU_ITEMS, COPYRIGHT_MENU_ITEMS, PATENT_MENU_ITEMS,
     DESIGN_MENU_ITEMS, IP_DISPUTE_MENU_ITEMS,
-    INCOME_TAX_MENU_ITEMS, GST_MENU_ITEMS,
-    CA_SERVICES_MENU_ITEMS, BUSINESS_CONSULTANTS_MENU_ITEMS,
-    LAWYER_EXPERT_MENU_ITEMS,
+    INCOME_TAX_MENU_ITEMS, INTERNATIONAL_TAXATION_MENU_ITEMS, GST_MENU_ITEMS,
+    LITIGATION_MENU_ITEMS,
+    CA_SERVICES_MENU_ITEMS, CS_SERVICES_MENU_ITEMS, CMA_SERVICES_MENU_ITEMS,
+    LAWYER_SERVICES_MENU_ITEMS, OTHER_PROFESSIONAL_SERVICES_MENU_ITEMS,
     ENVIRONMENTAL_MENU_ITEMS, AGREEMENTS_MENU_ITEMS,
     TOOLS_MENU_ITEMS, REGULATORY_MENU_ITEMS,
     RESOURCES_MENU_ITEMS, GET_TO_KNOW_US_MENU_ITEMS,
     PARTNERSHIP_MENU_ITEMS,
 } from '../../data/services';
 
-type NavMenuKey = 'registrations' | 'compliance' | 'ipr' | 'income-tax' | 'gst' | 'consultation' | 'more';
+type NavMenuKey = 'registrations' | 'compliance' | 'ipr' | 'income-tax' | 'gst' | 'litigation' | 'consultation' | 'more';
 
 interface NavTab {
     key: string;
@@ -82,6 +83,7 @@ const NAV_MENUS: NavMenu[] = [
         label: 'Income Tax',
         tabs: [
             { key: 'income-tax', label: 'Income Tax', items: INCOME_TAX_MENU_ITEMS },
+            { key: 'international-taxation', label: 'International Taxation', items: INTERNATIONAL_TAXATION_MENU_ITEMS },
         ],
     },
     {
@@ -92,12 +94,21 @@ const NAV_MENUS: NavMenu[] = [
         ],
     },
     {
+        key: 'litigation',
+        label: 'Litigation',
+        tabs: [
+            { key: 'litigation', label: 'Litigation', items: LITIGATION_MENU_ITEMS },
+        ],
+    },
+    {
         key: 'consultation',
         label: 'Consultation',
         tabs: [
             { key: 'ca-services', label: 'CA Services', items: CA_SERVICES_MENU_ITEMS },
-            { key: 'business-consultants', label: 'Business Consultants', items: BUSINESS_CONSULTANTS_MENU_ITEMS },
-            { key: 'lawyer-expert', label: 'Lawyer & Expert', items: LAWYER_EXPERT_MENU_ITEMS },
+            { key: 'cs-services', label: 'CS Services', items: CS_SERVICES_MENU_ITEMS },
+            { key: 'cma-services', label: 'CMA Services', items: CMA_SERVICES_MENU_ITEMS },
+            { key: 'lawyer-services', label: 'Lawyer Services', items: LAWYER_SERVICES_MENU_ITEMS },
+            { key: 'other-professional', label: 'Other Professional Services', items: OTHER_PROFESSIONAL_SERVICES_MENU_ITEMS },
         ],
     },
     {
@@ -198,7 +209,7 @@ export default function Header() {
     const columns = Array.from({ length: colCount }, (_, i) => activeItemsList.slice(i * colSize, (i + 1) * colSize));
 
     return (
-        <header className="fixed top-4 left-4 right-4 md:left-8 md:right-8 lg:left-1/2 lg:-translate-x-1/2 lg:w-full lg:max-w-7xl z-50 rounded-full transition-all duration-300 bg-white/95 backdrop-blur-md border border-gray-100 shadow-[0_8px_30px_rgb(0,0,0,0.06)]">
+        <header className="fixed top-4 left-4 right-4 md:left-8 md:right-8 lg:left-1/2 lg:-translate-x-1/2 lg:w-full lg:max-w-[1440px] z-50 rounded-full transition-all duration-300 bg-white/95 backdrop-blur-md border border-gray-100 shadow-[0_8px_30px_rgb(0,0,0,0.06)]">
             {/* Main Navigation */}
             <div className="px-3 md:px-6 py-3 flex justify-between items-center h-16 relative gap-2">
                 {/* Logo */}

@@ -320,26 +320,48 @@ export const IPR_MENU_ITEMS: { label: string; slug: string }[] = [
 export const INCOME_TAX_MENU_ITEMS: { label: string; slug: string }[] = [
     { label: 'Income Tax Return Filing', slug: 'income-tax-return-filing' },
     { label: 'TDS Return Filing', slug: 'tds-return-filing' },
-    { label: 'PF Return Filing', slug: 'pf-return-filing' },
     { label: 'ITR 2 Form Filing', slug: 'itr-2-form-filing' },
     { label: 'ITR 7 Form Filing', slug: 'itr-7-form-filing' },
     { label: 'ITR 1 Form Filing', slug: 'itr-1-form-filing' },
-    { label: '80-IAC Tax Exemption', slug: '80-iac-tax-exemption' },
+    { label: 'Advance Tax Calculation', slug: 'advance-tax-calculation' },
+    { label: 'Tax Planning Consultation', slug: 'tax-planning-consultation' },
+];
+
+// --- International Taxation Menu Items ---
+export const INTERNATIONAL_TAXATION_MENU_ITEMS: { label: string; slug: string }[] = [
+    { label: 'DTAA', slug: 'dtaa' },
+    { label: 'Transfer Pricing', slug: 'transfer-pricing' },
+    { label: 'TP Study Report', slug: 'tp-study-report' },
+    { label: 'Form 15 CA', slug: 'form-15-ca' },
+    { label: 'International Taxation Consultancy', slug: 'international-taxation-consultancy' },
 ];
 
 // --- GST Menu Items ---
 export const GST_MENU_ITEMS: { label: string; slug: string }[] = [
-    { label: 'GST Registration', slug: 'gst-registration' },
-    { label: 'GST Return Filing', slug: 'gst-return-filing' },
-    { label: 'GSTR9 Return Filing', slug: 'gstr9-return-filing' },
-    { label: 'Cancel GST Registration', slug: 'cancel-gst-registration' },
-    { label: 'Virtual Place of Business in GST', slug: 'virtual-place-of-business-gst' },
-    { label: 'Additional Place of Business in GST', slug: 'additional-place-of-business-gst' },
-    { label: 'GST Registration for E-commerce', slug: 'gst-registration-ecommerce' },
-    { label: 'GST Return Filing for E-commerce', slug: 'gst-return-filing-ecommerce' },
-    { label: 'Input Tax Credit', slug: 'input-tax-credit' },
-    { label: 'GST E-Invoice', slug: 'gst-e-invoice' },
-    { label: 'E-Way Bill Registration', slug: 'e-way-bill-registration' },
+    { label: 'GSTR-1 Filing', slug: 'gstr-1-filing' },
+    { label: 'GSTR-3B Filing', slug: 'gstr-3b-filing' },
+    { label: 'GSTR-2B Reconciliation', slug: 'gstr-2b-reconciliation' },
+    { label: 'GSTR 9/9C', slug: 'gstr-9-9c' },
+    { label: 'GST TDS and TCS Filing', slug: 'gst-tds-tcs-filing' },
+    { label: 'GST Refund', slug: 'gst-refund' },
+    { label: 'GST Registration Cancellation', slug: 'gst-registration-cancellation' },
+    { label: 'Virtual Place of Business for GST Registration', slug: 'virtual-place-of-business-gst' },
+    { label: 'E-Way Bill Compliances', slug: 'e-way-bill-compliances' },
+    { label: 'GST Registration Amendment', slug: 'gst-registration-amendment' },
+    { label: 'GST Compliance for E-Commerce', slug: 'gst-compliance-ecommerce' },
+];
+
+// --- Litigation Menu Items ---
+export const LITIGATION_MENU_ITEMS: { label: string; slug: string }[] = [
+    { label: 'Income Tax', slug: 'litigation-income-tax' },
+    { label: 'GST', slug: 'litigation-gst' },
+    { label: 'Custom', slug: 'litigation-custom' },
+    { label: 'International Taxation', slug: 'litigation-international-taxation' },
+    { label: 'MCA', slug: 'litigation-mca' },
+    { label: 'RERA', slug: 'litigation-rera' },
+    { label: 'FEMA/FCRA', slug: 'litigation-fema-fcra' },
+    { label: 'PMLA', slug: 'litigation-pmla' },
+    { label: 'Any Other Corporate Litigation', slug: 'litigation-other-corporate' },
 ];
 
 // --- CA Services Menu Items ---
@@ -350,18 +372,28 @@ export const CA_SERVICES_MENU_ITEMS: { label: string; slug: string }[] = [
     { label: 'Financial Modeling for Startups', slug: 'financial-modeling-for-startups' },
 ];
 
-// --- Business Consultants Menu Items ---
-export const BUSINESS_CONSULTANTS_MENU_ITEMS: { label: string; slug: string }[] = [
-    { label: 'Payment Gateway Aggregator Solutions', slug: 'payment-gateway-aggregator' },
-    { label: 'Startup Planning', slug: 'startup-planning' },
-    { label: 'CSR Registration', slug: 'csr-registration' },
-    { label: 'Pitch Deck for Start-ups', slug: 'pitch-deck-for-startups' },
+// --- CS Services Menu Items ---
+export const CS_SERVICES_MENU_ITEMS: { label: string; slug: string }[] = [
+    { label: 'Company Secretary Services', slug: 'company-secretary-services' },
 ];
 
-// --- Lawyer & Expert Menu Items ---
-export const LAWYER_EXPERT_MENU_ITEMS: { label: string; slug: string }[] = [
+// --- CMA Services Menu Items ---
+export const CMA_SERVICES_MENU_ITEMS: { label: string; slug: string }[] = [
+    { label: 'Cost and Management Accountant Services', slug: 'cma-services' },
+];
+
+// --- Lawyer Services Menu Items ---
+export const LAWYER_SERVICES_MENU_ITEMS: { label: string; slug: string }[] = [
     { label: 'Consumer Complaint', slug: 'consumer-complaint' },
     { label: 'Cheque Bounce Notice', slug: 'cheque-bounce-notice' },
+];
+
+// --- Other Professional Services Menu Items ---
+export const OTHER_PROFESSIONAL_SERVICES_MENU_ITEMS: { label: string; slug: string }[] = [
+    { label: 'Registered Valuer', slug: 'registered-valuer' },
+    { label: 'Actuarial Services', slug: 'actuarial-services' },
+    { label: 'Virtual CFO Services', slug: 'virtual-cfo-services' },
+    { label: 'Other Professional Services', slug: 'other-professional-services' },
 ];
 
 // --- Environmental Menu Items ---

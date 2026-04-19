@@ -98,7 +98,7 @@ export default function Testimonials() {
                     <h2 className="text-3xl md:text-4xl font-bold leading-tight text-center md:text-left">
                         Testimonials That Speak for Us
                     </h2>
-                    <div className="flex gap-4">
+                    <div className="flex gap-4 md:hidden">
                         <button
                             onClick={() => scrollTo((page - 1 + totalPages) % totalPages)}
                             className="w-12 h-12 rounded-full border border-gray-300 flex items-center justify-center hover:bg-gray-100 transition-colors"
@@ -114,10 +114,19 @@ export default function Testimonials() {
                     </div>
                 </div>
 
-                <div
-                    ref={scrollRef}
-                    className="flex gap-6 overflow-hidden scroll-smooth"
-                >
+                <div className="relative flex items-center">
+                    {/* Left arrow - desktop only */}
+                    <button
+                        onClick={() => scrollTo((page - 1 + totalPages) % totalPages)}
+                        className="hidden md:flex absolute -left-6 z-10 w-12 h-12 rounded-full border border-gray-300 bg-white shadow-md items-center justify-center hover:bg-gray-100 transition-colors"
+                    >
+                        <span className="text-xl text-gray-500">❮</span>
+                    </button>
+
+                    <div
+                        ref={scrollRef}
+                        className="flex gap-6 overflow-hidden scroll-smooth w-full"
+                    >
                     {testimonials.map((testimonial, idx) => (
                         <div
                             key={idx}
@@ -142,6 +151,15 @@ export default function Testimonials() {
                             </p>
                         </div>
                     ))}
+                    </div>
+
+                    {/* Right arrow - desktop only */}
+                    <button
+                        onClick={() => scrollTo((page + 1) % totalPages)}
+                        className="hidden md:flex absolute -right-6 z-10 w-12 h-12 rounded-full border border-gray-300 bg-white shadow-md items-center justify-center hover:bg-gray-100 transition-colors"
+                    >
+                        <span className="text-xl text-gray-500">❯</span>
+                    </button>
                 </div>
 
                 {/* Page dots */}

@@ -101,9 +101,10 @@ import { EVENT_BASED_COMPLIANCE } from './compliance/event-based-compliance';
 import { CONVERT_BUSINESS } from './compliance/convert-business';
 // IPR
 import { IPR_REGISTRATIONS } from './ipr/ipr-registrations';
-// Taxation
-import INCOME_TAX from './taxation/income-tax';
-import GST from './taxation/gst';
+// Income Tax
+import INCOME_TAX from './income-tax/income-tax';
+// GST
+import GST from './gst/gst';
 // Consultation
 import CA_SERVICES from './consultation/ca-services';
 import BUSINESS_CONSULTANTS from './consultation/business-consultants';

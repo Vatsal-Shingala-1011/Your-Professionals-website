@@ -23,7 +23,7 @@ import {
     PARTNERSHIP_MENU_ITEMS,
 } from '../../data/services';
 
-type NavMenuKey = 'registrations' | 'compliance' | 'ipr' | 'taxation' | 'consultation' | 'more';
+type NavMenuKey = 'registrations' | 'compliance' | 'ipr' | 'income-tax' | 'gst' | 'consultation' | 'more';
 
 interface NavTab {
     key: string;
@@ -78,10 +78,16 @@ const NAV_MENUS: NavMenu[] = [
         ],
     },
     {
-        key: 'taxation',
-        label: 'Taxation',
+        key: 'income-tax',
+        label: 'Income Tax',
         tabs: [
             { key: 'income-tax', label: 'Income Tax', items: INCOME_TAX_MENU_ITEMS },
+        ],
+    },
+    {
+        key: 'gst',
+        label: 'GST',
+        tabs: [
             { key: 'gst', label: 'GST', items: GST_MENU_ITEMS },
         ],
     },

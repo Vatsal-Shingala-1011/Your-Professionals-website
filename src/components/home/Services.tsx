@@ -4,37 +4,43 @@ export default function Services() {
             title: "Company Formation",
             description: "Build web-based solutions that enhance customer experience.",
             linkText: "Learn more",
-            icon: "🏢"
+            icon: "🏢",
+            link: "/company-registration"
         },
         {
             title: "Company Secretarial Services",
             description: "Make data-driven decisions and utilize technology to reach business goals.",
             linkText: "Learn more",
-            icon: "📊"
+            icon: "📊",
+            link: "/company-secretarial-services"
         },
         {
             title: "Virtual Office Address",
             description: "Foster customer relationships by effectively serving your market.",
             linkText: "Learn more",
-            icon: "📍"
+            icon: "📍",
+            link: "/virtual-office"
         },
         {
             title: "Annual Compliance Services",
             description: "Turn your ideas into modern products with our design experts.",
             linkText: "Learn more",
-            icon: "📋"
+            icon: "📋",
+            link: "/annual-compliance-services"
         },
         {
             title: "Payroll Services",
             description: "Expand your business across the globe with minimal effort.",
             linkText: "Learn more",
-            icon: "💸"
+            icon: "💸",
+            link: "/payroll-services"
         },
         {
             title: "Bookkeeping Services",
             description: "Steering user behaviours with creative design, data insights & technology.",
             linkText: "Learn more",
-            icon: "📒"
+            icon: "📒",
+            link: "/bookkeeping-services"
         }
     ];
 
@@ -60,7 +66,7 @@ export default function Services() {
                             <p className="text-gray-600 mb-6 leading-relaxed">
                                 {service.description}
                             </p>
-                            <a href="#" className="font-semibold flex items-center justify-center gap-2 text-[#090a3d] hover:text-[var(--color-brand-secondary)] transition-colors">
+                            <a href={service.link} className="font-semibold flex items-center justify-center gap-2 text-[#090a3d] hover:text-[var(--color-brand-secondary)] transition-colors">
                                 {service.linkText}
                                 <span className="text-xl">→</span>
                             </a>

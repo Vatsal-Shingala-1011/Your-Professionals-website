@@ -104,7 +104,7 @@ export default function HeroSection() {
                     <img
                         src={heroBg}
                         alt=""
-                        className="absolute inset-0 w-full h-full object-cover object-center z-0"
+                        className="absolute inset-0 w-full h-full object-cover object-[35%_center] md:object-center z-0"
                     />
                     {/* Dark overlay for text readability */}
                     <div className="absolute inset-0 bg-black/30 z-[1]"></div>
@@ -118,17 +118,15 @@ export default function HeroSection() {
                         </div> */}
 
                         {/* Tagline */}
-                        <h1 className="text-3xl md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#c79100] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
-                            Complete Business 
-                            <br />
-                               Solutions
+                        <h1 className="text-lg md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#c79100] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)] mb-4 md:mb-0">
+                            Complete Business <br className="hidden md:block" />Solutions
                         </h1>
                     </div>
 
                     {/* Bottom tagline - same style as top heading, no box */}
-                    <div className="relative z-10 mt-auto pb-60">
-                        <h2 className="text-3xl md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#090a3d] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
-                            India's Fastest
+                    <div className="relative z-10 mt-auto pb-50">
+                        <h2 className="text-lg md:text-4xl lg:text-[44px] xl:text-[38px] font-extrabold leading-tight text-[#090a3d] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
+                            India's Fastest Incorporation 
                             <br />
                             service provider
                         </h2>

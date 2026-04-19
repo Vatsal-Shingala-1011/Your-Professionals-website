@@ -194,12 +194,12 @@ export default function Header() {
     return (
         <header className="fixed top-4 left-4 right-4 md:left-8 md:right-8 lg:left-1/2 lg:-translate-x-1/2 lg:w-full lg:max-w-7xl z-50 rounded-full transition-all duration-300 bg-white/95 backdrop-blur-md border border-gray-100 shadow-[0_8px_30px_rgb(0,0,0,0.06)]">
             {/* Main Navigation */}
-            <div className="px-6 py-3 flex justify-between items-center h-16 relative">
+            <div className="px-3 md:px-6 py-3 flex justify-between items-center h-16 relative gap-2">
                 {/* Logo */}
-                <Link to="/" className={`flex items-center gap-3 font-bold text-xl transition-opacity duration-300 text-[#090a3d] ${isSearchOpen ? 'opacity-0 md:opacity-100' : 'opacity-100'}`}>
+                <Link to="/" className={`flex items-center gap-2 md:gap-3 font-bold text-xl transition-opacity duration-300 text-[#090a3d] shrink min-w-0 ${isSearchOpen ? 'opacity-0 md:opacity-100' : 'opacity-100'}`}>
                     {/* <img src={logo} alt="Your Professionals Logo" className="h-8 md:h-10 object-contain -mt-1 transition-all duration-300" /> */}
-                    <img src={image_logo} alt="Your Professionals Logo" className="h-8 md:h-10 object-contain -mt-1 transition-all duration-300" />
-                    <img src={text_logo} alt="Your Professionals Logo" className="h-8 md:h-10 object-contain -mt-1 transition-all duration-300" />
+                    <img src={image_logo} alt="Your Professionals Logo" className="h-7 md:h-10 w-auto object-contain transition-all duration-300 shrink-0" />
+                    <img src={text_logo} alt="Your Professionals" className="h-5 md:h-10 w-auto object-contain transition-all duration-300 max-w-[120px] md:max-w-none" />
                     {/* <span className="hidden sm:block">Your Professionals</span> */}
                 </Link>
 

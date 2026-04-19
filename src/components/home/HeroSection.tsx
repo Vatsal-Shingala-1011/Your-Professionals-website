@@ -118,13 +118,13 @@ export default function HeroSection() {
                         </div> */}
 
                         {/* Tagline */}
-                        <h1 className="text-lg md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#c79100] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)] mb-4 md:mb-0">
+                        <h1 className="text-lg md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#c79100] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)] mb-4 md:mb-[-16px]">
                             Complete Business <br className="hidden md:block" />Solutions
                         </h1>
                     </div>
 
                     {/* Bottom tagline - same style as top heading, no box */}
-                    <div className="relative z-10 mt-auto pb-50">
+                    <div className="relative z-10 mt-4 md:mt-0 pb-50">
                         <h2 className="text-lg md:text-4xl lg:text-[44px] xl:text-[38px] font-extrabold leading-tight text-[#090a3d] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
                             India's Fastest Incorporation 
                             <br />

@@ -117,21 +117,10 @@ export default function HeroSection() {
                             <img src={logoText} alt="Your Professionals Logo" className="h-8 md:h-10 object-contain -mt-1 transition-all duration-300" />
                         </div> */}
 
-                        {/* Tagline */}
-                        <h1 className="text-lg md:text-4xl lg:text-[44px] xl:text-[52px] font-extrabold leading-tight text-[#c79100] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)] mb-4 md:mb-[-16px]">
-                            Complete Business <br className="hidden md:block" />Solutions
-                        </h1>
+                        {/* Tagline removed as it's part of the background image */}
                     </div>
 
-                    {/* Bottom tagline - same style as top heading, no box */}
-                    <div className="relative z-10 mt-4 md:mt-0 pb-50">
-                        <h2 className="text-lg md:text-4xl lg:text-[44px] xl:text-[38px] font-extrabold leading-tight text-[#090a3d] drop-shadow-[0_2px_4px_rgba(0,0,0,0.5)]">
-                            India's Fastest Incorporation 
-                            <br />
-                            service provider
-                        </h2>
-                    </div>
-                </div>
+                    {/* Bottom tagline removed as it's part of the background image */}                </div>
 
                 {/* RIGHT 40% - Form */}
                 <div className="w-full lg:w-[30%] bg-[#3d3322] flex items-center justify-center p-6 md:p-8 lg:p-10">
